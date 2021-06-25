@@ -456,13 +456,13 @@
 				<div class="container bg-warning">
 					<div class="row align-items-center">
 					    <div class="col text-center">
-					      One of three columns
+					      Quem Somos
 					    </div>
 					    <div class="col text-center">
-					      One of three columns
+					      Missão, Visão e Valores
 					    </div>
 					    <div class="col text-center">
-					      One of three columns
+					      Nosso Estatuto
 					    </div>
 					  </div>
 					  <div class="row align-items-center">
