@@ -31,7 +31,15 @@
 				    <a class="nav-link text-success" href="#"><strong>NOTÍCIAS</strong></a>
 				  </li>
 				  <li class="nav-item border">
-				    <a class="nav-link text-success" href="#"><strong>ONDE ESTAMOS</strong></a>
+				    <a class="nav-link  text-success" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+				    	<strong>ONDE ESTAMOS</strong>
+			        </a>
+				    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+			            <li><a class="dropdown-item" href="#">BRASIL</a></li>
+			            <li><a class="dropdown-item" href="#">FRANÇA</a></li>
+			            <li><a class="dropdown-item" href="#">ÁFRICA</a></li>
+			            <li><a class="dropdown-item" href="#">CAMBOJA</a></li>
+			          </ul>
 				  </li>
 				  <li class="nav-item border">
 				    <a class="nav-link text-success" href="#"><strong>CONTATO</strong></a>
@@ -69,10 +77,6 @@
 			            <li><a class="dropdown-item" href="#"><strong>TRANSPARÊNCIA</strong></a></li>
 			            <li><a class="dropdown-item" href="#">Relatório Anual de Atividades</a></li>
 			            <li><a class="dropdown-item" href="#">Relatório Anual Financeiro</a></li>
-			            <li><div class="dropdown-divider"></div></li>
-			            <li><a class="dropdown-item" href="#"><strong>PARCEIROS</strong></a></li>
-			            <li><a class="dropdown-item" href="#">Parcerias Públicas</a></li>
-			            <li><a class="dropdown-item" href="#">Parcerias Privadas</a></li>
 			          </ul>
 			        </li>
 			        <li class="nav-item dropdown">
@@ -87,10 +91,15 @@
 			        </li>
 			        <li class="nav-item dropdown">
 			          <a class="nav-link dropdown-toggle text-white fs-5" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-			            <strong>PROJETOS</strong>
+			            <strong>PROJETO</strong>
 			          </a>
 			          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 			            <li><a class="dropdown-item" href="#">Educação Global e Capacitação Profissional</a></li>
+			            <li><a class="dropdown-item" href="#">Pilares Educacionais (ODS)</a></li>
+			            <li><div class="dropdown-divider"></div></li>
+			            <li><a class="dropdown-item" href="#"><strong>PARCEIROS</strong></a></li>
+			            <li><a class="dropdown-item" href="#">Parcerias Públicas</a></li>
+			            <li><a class="dropdown-item" href="#">Parcerias Privadas</a></li>
 			          </ul>
 			        </li>
 			        <li class="nav-item dropdown">
@@ -182,61 +191,47 @@
 			<br>
 			<div class="px-3 py-1 bg-verde" id="icon-grid">
 			    <h2 class="pb-2 text-center text-white">Nossos Números</h2>
-			    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 py-5">
+			    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3 g-3 py-5">
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#bootstrap"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-white">Featured title</h4>
-			          <p class="text-white">Paragraph of text beneath the heading to explain the heading.</p>
+			          <h4 class="fw-bold mb-0 text-white">+5.000</h4>
+			          <p class="text-white">Jovens atendidas desde o início das atividades.</p>
 			        </div>
 			      </div>
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#cpu-fill"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-white">Featured title</h4>
-			          <p class="text-white">Paragraph of text beneath the heading to explain the heading.</p>
+			          <h4 class="fw-bold mb-0 text-white">+5.000</h4>
+			          <p class="text-white">Jovens atendidas desde o início das atividades.</p>
 			        </div>
 			      </div>
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-white">Featured title</h4>
-			          <p class="text-white">Paragraph of text beneath the heading to explain the heading.</p>
+			          <h4 class="fw-bold mb-0 text-white">+5.000</h4>
+			          <p class="text-white">Jovens atendidas desde o início das atividades.</p>
 			        </div>
 			      </div>
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#home"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-white">Featured title</h4>
-			          <p class="text-white">Paragraph of text beneath the heading to explain the heading.</p>
+			          <h4 class="fw-bold mb-0 text-white">+5.000</h4>
+			          <p class="text-white">Jovens atendidas desde o início das atividades.</p>
 			        </div>
 			      </div>
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#speedometer2"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-white">Featured title</h4>
-			          <p class="text-white">Paragraph of text beneath the heading to explain the heading.</p>
+			          <h4 class="fw-bold mb-0 text-white">+5.000</h4>
+			          <p class="text-white">Jovens atendidas desde o início das atividades.</p>
 			        </div>
 			      </div>
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#toggles2"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-white">Featured title</h4>
-			          <p class="text-white">Paragraph of text beneath the heading to explain the heading.</p>
-			        </div>
-			      </div>
-			      <div class="col d-flex align-items-start">
-			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#geo-fill"/></svg>
-			        <div>
-			          <h4 class="fw-bold mb-0 text-white">Featured title</h4>
-			          <p class="text-white">Paragraph of text beneath the heading to explain the heading.</p>
-			        </div>
-			      </div>
-			      <div class="col d-flex align-items-start">
-			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#tools"/></svg>
-			        <div>
-			          <h4 class="fw-bold mb-0 text-white">Featured title</h4>
-			          <p class="text-white">Paragraph of text beneath the heading to explain the heading.</p>
+			          <h4 class="fw-bold mb-0 text-white">+5.000</h4>
+			          <p class="text-white">Jovens atendidas desde o início das atividades.</p>
 			        </div>
 			      </div>
 			    </div>
@@ -249,64 +244,25 @@
 			
 			    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
 			      <div class="col">
-			        <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('unsplash-photo-1.jpg');">
-			          <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1 bg-laranja">
-			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Vida</h2>
-			            <ul class="d-flex list-unstyled mt-auto">
-			              <li class="me-auto">
-			                <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white">
-			              </li>
-			              <li class="d-flex align-items-center me-3">
-			                <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#geo-fill"/></svg>
-			                <small>Earth</small>
-			              </li>
-			              <li class="d-flex align-items-center">
-			                <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#calendar3"/></svg>
-			                <small>3d</small>
-			              </li>
-			            </ul>
+			        <div class="card card-cover h-100 overflow-hidden bg-dark rounded-5 shadow-lg" style="background-image: url('/img/index/therese1.jpg'); background-size: auto; background-position: center;">
+			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-warning">Vida</h2>
 			          </div>
 			        </div>
 			      </div>
 			
 			      <div class="col">
-			        <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('unsplash-photo-2.jpg');">
-			          <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1 bg-laranja">
-			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">História</h2>
-			            <ul class="d-flex list-unstyled mt-auto">
-			              <li class="me-auto">
-			                <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white">
-			              </li>
-			              <li class="d-flex align-items-center me-3">
-			                <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#geo-fill"/></svg>
-			                <small>Pakistan</small>
-			              </li>
-			              <li class="d-flex align-items-center">
-			                <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#calendar3"/></svg>
-			                <small>4d</small>
-			              </li>
-			            </ul>
+			        <div class="card card-cover h-100 overflow-hidden bg-dark rounded-5 shadow-lg" style="background-image: url('/img/index/therese1.jpg'); background-size: auto; background-position: center;">
+			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-warning">História</h2>
 			          </div>
 			        </div>
 			      </div>
 			
 			      <div class="col">
-			        <div class="card card-cover h-100 overflow-hidden text-white bg-dark rounded-5 shadow-lg" style="background-image: url('unsplash-photo-3.jpg');">
-			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1 bg-laranja">
-			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Obra</h2>
-			            <ul class="d-flex list-unstyled mt-auto">
-			              <li class="me-auto">
-			                <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white">
-			              </li>
-			              <li class="d-flex align-items-center me-3">
-			                <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#geo-fill"/></svg>
-			                <small>California</small>
-			              </li>
-			              <li class="d-flex align-items-center">
-			                <svg class="bi me-2" width="1em" height="1em"><use xlink:href="#calendar3"/></svg>
-			                <small>5d</small>
-			              </li>
-			            </ul>
+			        <div class="card card-cover h-100 overflow-hidden bg-dark rounded-5 shadow-lg" style="background-image: url('/img/index/therese1.jpg'); background-size: auto; background-position: center;">
+			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
+			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-warning">Obra</h2>
 			          </div>
 			        </div>
 			      </div>
@@ -318,7 +274,7 @@
 			  <div class="px-4 py-5 bg-laranja w-100">
 			    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
 			      <div class="col-10 col-sm-8 col-lg-6">
-			        <img src="bootstrap-themes.png" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+			        <img src="/img/index/therese1.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
 			      </div>
 			      <div class="col-lg-6">
 			        <h1 class="display-5 fw-bold lh-1 mb-3">Nossos Projetos</h1>
@@ -337,50 +293,44 @@
 			    <div class="container">
 			    <h2 class="pb-2 text-center text-dark">Nossas Oficinas</h2>
 			      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+			      
 			        <div class="col">
 			          <div class="card shadow-sm">
-			            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-			
+			          	<img src="/img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+			                  <button type="button" class="btn btn-sm btn-outline-secondary">Veja mais</button>
 			                </div>
-			                <small class="text-muted">9 mins</small>
 			              </div>
 			            </div>
 			          </div>
 			        </div>
+			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-			
+			          	<img src="/img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+			                  <button type="button" class="btn btn-sm btn-outline-secondary">Veja mais</button>
 			                </div>
-			                <small class="text-muted">9 mins</small>
 			              </div>
 			            </div>
 			          </div>
 			        </div>
+			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-			
+			          	<img src="/img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+			                  <button type="button" class="btn btn-sm btn-outline-secondary">Veja mais</button>
 			                </div>
-			                <small class="text-muted">9 mins</small>
 			              </div>
 			            </div>
 			          </div>
@@ -388,101 +338,46 @@
 			
 			        <div class="col">
 			          <div class="card shadow-sm">
-			            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-			
+			          	<img src="/img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+			                  <button type="button" class="btn btn-sm btn-outline-secondary">Veja mais</button>
 			                </div>
-			                <small class="text-muted">9 mins</small>
 			              </div>
 			            </div>
 			          </div>
 			        </div>
+			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-			
+			          	<img src="/img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+			                  <button type="button" class="btn btn-sm btn-outline-secondary">Veja mais</button>
 			                </div>
-			                <small class="text-muted">9 mins</small>
 			              </div>
 			            </div>
 			          </div>
 			        </div>
+			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-			
+			          	<img src="/img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+			                  <button type="button" class="btn btn-sm btn-outline-secondary">Veja mais</button>
 			                </div>
-			                <small class="text-muted">9 mins</small>
 			              </div>
 			            </div>
 			          </div>
 			        </div>
-			
-			        <div class="col">
-			          <div class="card shadow-sm">
-			            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-			
-			            <div class="card-body">
-			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-			              <div class="d-flex justify-content-between align-items-center">
-			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-			                </div>
-			                <small class="text-muted">9 mins</small>
-			              </div>
-			            </div>
-			          </div>
-			        </div>
-			        <div class="col">
-			          <div class="card shadow-sm">
-			            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-			
-			            <div class="card-body">
-			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-			              <div class="d-flex justify-content-between align-items-center">
-			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-			                </div>
-			                <small class="text-muted">9 mins</small>
-			              </div>
-			            </div>
-			          </div>
-			        </div>
-			        <div class="col">
-			          <div class="card shadow-sm">
-			            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-			
-			            <div class="card-body">
-			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-			              <div class="d-flex justify-content-between align-items-center">
-			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-			                </div>
-			                <small class="text-muted">9 mins</small>
-			              </div>
-			            </div>
-			          </div>
-			        </div>
+			        
 			      </div>
 			    </div>
 			  </div>
