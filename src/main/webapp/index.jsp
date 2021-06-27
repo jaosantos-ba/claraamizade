@@ -55,24 +55,24 @@
 					    <div class="col d-flex p-2 bd-highlight justify-content-end">
 							<ul class="nav justify-content-end">
 							  <li class="nav-item border">
-							    <a class="nav-link text-success" href="#"><strong>NOTÍCIAS</strong></a>
+							    <a class="nav-link text-success" href="#"><strong><small>NOTÍCIAS</small></strong></a>
 							  </li>
 							  <li class="nav-item border">
 							    <a class="nav-link  text-success" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-							    	<strong>ONDE ESTAMOS</strong>
+							    	<strong><small>ONDE ESTAMOS</small></strong>
 						        </a>
 							    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-						            <li><a class="dropdown-item" href="#">BRASIL</a></li>
-						            <li><a class="dropdown-item" href="#">FRANÇA</a></li>
-						            <li><a class="dropdown-item" href="#">ÁFRICA</a></li>
-						            <li><a class="dropdown-item" href="#">CAMBOJA</a></li>
+						            <li><a class="dropdown-item" href="#"><small>Brasil</small></a></li>
+						            <li><a class="dropdown-item" href="#"><small>França</small></a></li>
+						            <li><a class="dropdown-item" href="#"><small>África</small></a></li>
+						            <li><a class="dropdown-item" href="#"><small>Camboja</small></a></li>
 						          </ul>
 							  </li>
 							  <li class="nav-item border">
-							    <a class="nav-link text-success" href="#"><strong>CONTATO</strong></a>
+							    <a class="nav-link text-success" href="#"><strong><small>CONTATO</small></strong></a>
 							  </li>
 							  <li class="nav-item border">
-							    <a class="nav-link text-white bg-laranja" href="#"><strong>SISTEMAS</strong></a>
+							    <a class="nav-link text-white bg-laranja" href="#"><strong><small>SISTEMAS</small></strong></a>
 							  </li>
 							</ul>
 					    </div>
@@ -225,6 +225,7 @@
 			</div>
 			<br>
 			<div class="px-3 py-1 bg-verde" id="icon-grid">
+				<br>
 			    <h2 class="pb-2 text-center text-white">Nossos Números</h2>
 			    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3 g-3 py-5">
 			      <div class="col d-flex align-items-start">
@@ -312,11 +313,11 @@
 			        <img src="./img/index/therese1.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
 			      </div>
 			      <div class="col-lg-6">
-			        <h1 class="display-5 fw-bold lh-1 mb-3">Nossos Projetos</h1>
-			        <p class="lead">Quickly design and customize responsive mobile-first sites with Bootstrap, the worldâs most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+			        <h1 class="display-5 fw-bold lh-1 mb-3 text-white">Nossos Projetos</h1>
+			        <p class="lead text-white">Quickly design and customize responsive mobile-first sites with Bootstrap, the worlds most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
 			        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-			          <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">CAI</button>
-			          <button type="button" class="btn btn-outline-secondary btn-lg px-4">SEMPRE</button>
+			          <button type="button" class="btn btn-success btn-lg px-4 me-md-2">CAI</button>
+			          <button type="button" class="btn btn-outline-success btn-lg px-4">SEMPRE</button>
 			        </div>
 			      </div>
 			    </div>
