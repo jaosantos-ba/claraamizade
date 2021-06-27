@@ -1,3 +1,4 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 	<head>
@@ -7,7 +8,7 @@
 		<meta name="author" content="José Santos">
 		
 		<!-- Title -->
-		<title>Clara Amizade - A serviço dos jovens em vulnerabilidade social</title>
+		<title>Clara Amizade - A serviço das jovens em vulnerabilidade social</title>
 		
 		<!-- Bootstrap CSS -->
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">		
@@ -54,7 +55,7 @@
 					    <div class="col d-flex p-2 bd-highlight justify-content-end">
 							<ul class="nav justify-content-end">
 							  <li class="nav-item border">
-							    <a class="nav-link text-success" href="#"><strong>NOTÍCIAS</strong></a>
+							    <a class="nav-link text-success" href="#"><strong>NOTÍCIAS</strong></a>
 							  </li>
 							  <li class="nav-item border">
 							    <a class="nav-link  text-success" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -62,7 +63,7 @@
 						        </a>
 							    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 						            <li><a class="dropdown-item" href="#">BRASIL</a></li>
-						            <li><a class="dropdown-item" href="#">FRANÇA</a></li>
+						            <li><a class="dropdown-item" href="#">FRANÇA</a></li>
 						            <li><a class="dropdown-item" href="#">ÁFRICA</a></li>
 						            <li><a class="dropdown-item" href="#">CAMBOJA</a></li>
 						          </ul>
@@ -312,7 +313,7 @@
 			      </div>
 			      <div class="col-lg-6">
 			        <h1 class="display-5 fw-bold lh-1 mb-3">Nossos Projetos</h1>
-			        <p class="lead">Quickly design and customize responsive mobile-first sites with Bootstrap, the world’s most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+			        <p class="lead">Quickly design and customize responsive mobile-first sites with Bootstrap, the worldâs most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
 			        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
 			          <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">CAI</button>
 			          <button type="button" class="btn btn-outline-secondary btn-lg px-4">SEMPRE</button>
@@ -649,11 +650,11 @@
 					    <div class="col text-center">
 					      	<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
 								<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post" target="_blank">
-									<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+									<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
 									<input name="currency" type="hidden" value="BRL" />
 									<input name="receiverEmail" type="hidden" value="financeiro@claraamizade.org.br" /> 
 									<input name="iot" type="hidden" value="button" /> 
-									<input alt="Pague com PagSeguro - é rápido, grátis e seguro!" name="submit" src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/doacoes/120x53-doar.gif" type="image" />
+									<input alt="Pague com PagSeguro - Ã© rÃ¡pido, grÃ¡tis e seguro!" name="submit" src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/doacoes/120x53-doar.gif" type="image" />
 								</form>
 							<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
 					    </div>
