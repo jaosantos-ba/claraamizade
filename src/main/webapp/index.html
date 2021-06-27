@@ -1,4 +1,3 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 	<head>
@@ -14,6 +13,7 @@
 		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">		
 		
 		<!-- Icons -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 		
 		<!-- Favicons -->
@@ -25,30 +25,60 @@
 	</head>
 	<body>
 		<header id="main-header">
-			<div class="d-flex p-2 bd-highlight justify-content-end">
-				<ul class="nav justify-content-end">
-				  <li class="nav-item border">
-				    <a class="nav-link text-success" href="#"><strong>NOTÍCIAS</strong></a>
-				  </li>
-				  <li class="nav-item border">
-				    <a class="nav-link  text-success" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-				    	<strong>ONDE ESTAMOS</strong>
-			        </a>
-				    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-			            <li><a class="dropdown-item" href="#">BRASIL</a></li>
-			            <li><a class="dropdown-item" href="#">FRANÇA</a></li>
-			            <li><a class="dropdown-item" href="#">ÁFRICA</a></li>
-			            <li><a class="dropdown-item" href="#">CAMBOJA</a></li>
-			          </ul>
-				  </li>
-				  <li class="nav-item border">
-				    <a class="nav-link text-success" href="#"><strong>CONTATO</strong></a>
-				  </li>
-				  <li class="nav-item border">
-				    <a class="nav-link text-white bg-laranja" href="#"><strong>SISTEMAS</strong></a>
-				  </li>
-				</ul>
+			<div class="">
+				<div class="container">
+					<div class="row align-items-center">
+					    <div class="col d-flex p-2 bd-highlight justify-content-start">
+					      	<div class="social-links social-links-header hidden-xs">
+								<ul class="redes">
+									<li style="list-style-type: none; text-decoration: none">
+										<a href="http://www.facebook.com/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
+						                    <img src="/img/index/facebook.png" alt="" style="width: 24px; height: 24px">
+						                </a>
+								      	<a href="https://www.instagram.com/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
+						                	<img src="/img/index/instagram.png" alt="" style="width: 24px; height: 24px">
+						                </a>
+								      	<a href="https://www.youtube.com/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
+						                	<img src="/img/index/youtube.png" alt="" style="width: 24px; height: 24px">
+					                	</a>
+					                	<a href="http://www.twitter.com/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
+						                	<img src="/img/index/twitter.png" alt="" style="width: 24px; height: 24px">
+						                </a>
+					                	<a href="https://www.linkedin.com/company/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
+						                	<img src="/img/index/linkedin.png" alt="" style="width: 24px; height: 24px">
+						                </a>
+									</li>
+								</ul>
+							</div>
+					    </div>
+					    <div class="col d-flex p-2 bd-highlight justify-content-end">
+							<ul class="nav justify-content-end">
+							  <li class="nav-item border">
+							    <a class="nav-link text-success" href="#"><strong>NOTÍCIAS</strong></a>
+							  </li>
+							  <li class="nav-item border">
+							    <a class="nav-link  text-success" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+							    	<strong>ONDE ESTAMOS</strong>
+						        </a>
+							    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+						            <li><a class="dropdown-item" href="#">BRASIL</a></li>
+						            <li><a class="dropdown-item" href="#">FRANÇA</a></li>
+						            <li><a class="dropdown-item" href="#">ÁFRICA</a></li>
+						            <li><a class="dropdown-item" href="#">CAMBOJA</a></li>
+						          </ul>
+							  </li>
+							  <li class="nav-item border">
+							    <a class="nav-link text-success" href="#"><strong>CONTATO</strong></a>
+							  </li>
+							  <li class="nav-item border">
+							    <a class="nav-link text-white bg-laranja" href="#"><strong>SISTEMAS</strong></a>
+							  </li>
+							</ul>
+					    </div>
+					  </div>
+				</div>
 			</div>
+			
 			<div class="d-flex p-2 bd-highlight justify-content-center">
 				<img src="/img/index/logomarca.png" class="img-logomarca" alt="Logomarca">
 			</div>
@@ -67,16 +97,11 @@
 			            <strong>INSTITUCIONAL</strong>
 			          </a>
 			          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-			            <li><a class="dropdown-item" href="#"><strong>CLARA AMIZADE</strong></a></li>
 			            <li><a class="dropdown-item" href="#">Quem somos</a></li>
 			            <li><a class="dropdown-item" href="#">Missão, Visão e Valores</a></li>
 			            <li><a class="dropdown-item" href="#">Nosso Estatuto</a></li>
 			            <li><a class="dropdown-item" href="#">Diretoria e Conselho Fiscal</a></li>
 			            <li><a class="dropdown-item" href="#">Prêmios e Certificações</a></li>
-			            <li><div class="dropdown-divider"></div></li>
-			            <li><a class="dropdown-item" href="#"><strong>TRANSPARÊNCIA</strong></a></li>
-			            <li><a class="dropdown-item" href="#">Relatório Anual de Atividades</a></li>
-			            <li><a class="dropdown-item" href="#">Relatório Anual Financeiro</a></li>
 			          </ul>
 			        </li>
 			        <li class="nav-item dropdown">
@@ -108,12 +133,11 @@
 			          </a>
 			          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 			            <li><a class="dropdown-item" href="#"><strong>PARTICIPE</strong></a></li>
-			            <li><a class="dropdown-item" href="#">Doe Agora</a></li>
-			            <li><a class="dropdown-item" href="#">Doação de Produtos</a></li>
-			            <li><a class="dropdown-item" href="#">Doação de Bens</a></li>
+			            <li><a class="dropdown-item" href="#">Doe agora</a></li>
+			            <li><a class="dropdown-item" href="#">Doação de produtos/bens</a></li>
 			            <li><a class="dropdown-item" href="#">Doação com Incentivo Fiscal</a></li>
 			            <li><a class="dropdown-item" href="#">Nota Premiada Bahia</a></li>
-			            <li><a class="dropdown-item" href="#">Seja Voluntário</a></li>
+			            <li><a class="dropdown-item" href="#">Seja voluntário</a></li>
 			            <li><div class="dropdown-divider"></div></li>
 			            <li><a class="dropdown-item" href="#"><strong>SÓCIO CONTRIBUINTE</strong></a></li>
 			            <li><a class="dropdown-item" href="#">Seja um sócio contribuinte</a></li>
@@ -122,6 +146,16 @@
 			            <li><a class="dropdown-item" href="#"><strong>CAMPANHAS</strong></a></li>
 			            <li><a class="dropdown-item" href="#">Padrinho Amigo</a></li>
 			            <li><a class="dropdown-item" href="#">Parceiro Amigo</a></li>
+			          </ul>
+			        </li>
+			        <li class="nav-item dropdown">
+			          <a class="nav-link dropdown-toggle text-white fs-5" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+			            <strong>TRANSPARÊNCIA</strong>
+			          </a>
+			          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+			            <li><a class="dropdown-item" href="#">Relatório Anual de Atividades</a></li>
+			            <li><a class="dropdown-item" href="#">Relatório Anual Financeiro</a></li>
+			            <li><a class="dropdown-item" href="#">Demonstrações Contábeis</a></li>
 			          </ul>
 			        </li>
 			        <li class="nav-item">
@@ -463,107 +497,200 @@
 			      </div>
 			    </div>
 			  </div>
-			  
 		</main>
 		
-		<footer id="main-footer">
+		<div class="float-right">
+			<a href="https://wa.me/5571991240074?text=" style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
+			  z-index:1000;" target="_blank">
+			<i style="margin-top:16px" class="fa fa-whatsapp"></i>
+			</a>
+		</div>
 		
-			<div class="bg-secondary h-100">
-				<div class="container bg-secondary">
-					<div class="row align-items-center">
-					    <div class="col-4 text-center">
-					      Siga a Clara Amizade
-					    </div>
-					    <div class="col text-center">
-					      Missão, Visão e Valores
-					    </div>
-					    <div class="col text-center">
-					      Nosso Estatuto
-					    </div>
-					    <div class="col text-center">
-					      Nosso Estatuto
-					    </div>
-					  </div>
-				</div>
-			</div>
-			
-			<div class="b-example-divider"></div>
-			
-			<div class="bg-light">
-				<div class="container bg-light">
-					<div class="row align-items-center">
-					    <div class="col text-center">
-					      Quem Somos
-					    </div>
-					    <div class="col text-center">
-					      Missão, Visão e Valores
-					    </div>
-					    <div class="col text-center">
-					      Nosso Estatuto
-					    </div>
-					  </div>
-					  <div class="row align-items-center">
-					    <div class="col text-center">
-					      One of three columns
-					    </div>
-					    <div class="col text-center">
-					      One of three columns
-					    </div>
-					    <div class="col text-center">
-					      One of three columns
-					    </div>
-					  </div>
-					  <div class="row align-items-center">
-					    <div class="col text-center">
-					      One of three columns
-					    </div>
-					    <div class="col text-center">
-					      One of three columns
-					    </div>
-					    <div class="col text-center">
-					      One of three columns
-					    </div>
-					  </div>
-				</div>
-			</div>
-			
-			<div class="b-example-divider"></div>
-			
-			<div class="">
+		<footer id="main-footer">
+			<br>
+			<div class="container">
 				<div class="container">
+					<h2 class="pb-2 text-center">Siga a Clara Amizade</h2>
 					<div class="row align-items-center">
 					    <div class="col text-center">
-					      One of three columns
+					      	<a href="http://www.facebook.com/claraamizade/" target="_blank" class="">
+			                    <img src="/img/index/facebook.png" alt="">
+			                </a>
 					    </div>
 					    <div class="col text-center">
-					      One of three columns
+					      	<a href="https://www.instagram.com/claraamizade/" target="_blank" class="">
+			                	<img src="/img/index/instagram.png" alt="">
+			                </a>
 					    </div>
 					    <div class="col text-center">
-					      One of three columns
+					      	<a href="https://www.youtube.com/claraamizade/" target="_blank" class="">
+			                	<img src="/img/index/youtube.png" alt="">
+		                	</a>
+					    </div>
+					    <div class="col text-center">
+		                	<a href="http://www.twitter.com/claraamizade/" target="_blank" class="">
+			                	<img src="/img/index/twitter.png" alt="">
+			                </a>
+					    </div>
+					    <div class="col text-center">
+		                	<a href="https://www.linkedin.com/company/claraamizade/" target="_blank" class="">
+			                	<img src="/img/index/linkedin.png" alt="">
+			                </a>
 					    </div>
 					  </div>
-					  <div class="row align-items-center">
+				</div>
+			</div>
+			<br>
+			<div class="b-example-divider"></div>
+			
+			<div class="bg-laranja">
+				<div class="container bg-laranja">
+				<br>
+					<div class="d-flex justify-content-center col text-center">
+					<ul>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Institucional" href=""><strong>INSTITUCIONAL</strong></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Quem somos</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Missão, Visão e Valores</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Nosso Estatuto</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Diretoria e Conselho Fiscal</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Prêmios e Certificações</small></a>
+						</li>
+					</ul>
+					<ul>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Institucional" href=""><strong>THÉRÈSE CORNILLE</strong></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Vida</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>História</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Obra</small></a>
+						</li>
+					</ul>
+					<ul>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Institucional" href=""><strong>PROJETO</strong></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Educação Global e Capacitação Profissional</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Pilares Educacionais (ODS)</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Parcerias Públicas</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Parcerias Privadas</small></a>
+						</li>
+					</ul>
+					<ul>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Institucional" href=""><strong>COMO AJUDAR</strong></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Doe agora</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Doação de produtos</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Doação de bens</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Doação com incentivo fiscal</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Nota Premiada Bahia</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Seja voluntário</small></a>
+						</li>
+					</ul>
+					<ul>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Institucional" href=""><strong>TRANSPARÊNCIA</strong></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Relatório Anual de Atividades</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Relatório Anual Financeiro</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Demonstrações Contábeis</small></a>
+						</li>
+					</ul>
+					</div>
+				</div>
+				
+			</div>
+			
+			<div class="b-example-divider"></div>
+			
+			<div class="bg-verde">
+				<div class="container bg-verde">
+					<br>
+					<div class="row align-items-center">
 					    <div class="col text-center">
-					      One of three columns
+					      	<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+								<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post" target="_blank">
+									<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+									<input name="currency" type="hidden" value="BRL" />
+									<input name="receiverEmail" type="hidden" value="financeiro@claraamizade.org.br" /> 
+									<input name="iot" type="hidden" value="button" /> 
+									<input alt="Pague com PagSeguro - é rápido, grátis e seguro!" name="submit" src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/doacoes/120x53-doar.gif" type="image" />
+								</form>
+							<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
 					    </div>
 					    <div class="col text-center">
-					      One of three columns
+							<!-- INICIO FORMULARIO BOTAO PAYPAL -->
+								<form action="https://www.paypal.com/donate" method="post" target="_blank">
+									<input type="hidden" name="hosted_button_id" value="THNA2LTGNWUYY" />
+									<input type="image" src="https://www.paypalobjects.com/pt_BR/BR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+									<img alt="" border="0" src="https://www.paypal.com/pt_BR/i/scr/pixel.gif" width="1" height="1" />
+								</form>
+							<!-- FINAL FORMULARIO BOTAO PAYPAL -->
+					    </div>
+					    <div class="col text-center d-grid gap-2">
+					    	<a href="" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-mic"></i> PODCAST</a>
+					    	<a href="" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-shop"></i> LOJA VIRTUAL</a>
 					    </div>
 					    <div class="col text-center">
-					      One of three columns
+					    	<img src="/img/index/phomenta.png" class="img-certificado" alt="...">
 					    </div>
 					  </div>
-					  <div class="row align-items-center">
-					    <div class="col text-center">
-					      One of three columns
-					    </div>
-					    <div class="col text-center">
-					      One of three columns
-					    </div>
-					    <div class="col text-center">
-					      One of three columns
-					    </div>
-					  </div>
+					  <hr>
+						<div class="row text-center">
+							<div class="col text-center text-white">
+								<br>
+								<br>
+								<h3 class="pb-2 text-center">Nosso endereço</h3>
+								<p style="margin: 0;"><strong>Associação Os Amigos de Clara Amizade Brasil-Bahia</strong></p>
+								<p style="margin: 0;"><strong>CNPJ: 04.087.181/0001-96</strong></p>
+								<p style="margin: 0;">Rua Eduardo Santos, nº 01, Qd 18</p>
+								<p style="margin: 0;">Piatã, Salvador - Bahia</p>
+								<p style="margin: 0;">CEP: 41.650-075</p>
+							</div>
+							<div class="col text-center">
+								<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15553.4417214319!2d-38.380044!3d-12.948773!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe0f5ee7792bfb1d1!2sClara%20Amizade!5e0!3m2!1spt-BR!2sbr!4v1624756134490!5m2!1spt-BR!2sbr" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+							</div>
+						</div>
+						<br>
 				</div>
 			</div>
 		</footer>
