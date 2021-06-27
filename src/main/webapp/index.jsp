@@ -18,10 +18,10 @@
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 		
 		<!-- Favicons -->
-		<link rel="icon" href="/img/index/favicon.ico">
+		<link rel="icon" href="./img/index/favicon.ico">
 		
 		<!-- CSS -->
-		<link rel="stylesheet" type="text/css" href="/css/index.css">
+		<link rel="stylesheet" type="text/css" href="./css/index.css">
 		
 	</head>
 	<body>
@@ -34,19 +34,19 @@
 								<ul class="redes">
 									<li style="list-style-type: none; text-decoration: none">
 										<a href="http://www.facebook.com/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
-						                    <img src="/img/index/facebook.png" alt="" style="width: 24px; height: 24px">
+						                    <img src="./img/index/facebook.png" alt="" style="width: 24px; height: 24px">
 						                </a>
 								      	<a href="https://www.instagram.com/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
-						                	<img src="/img/index/instagram.png" alt="" style="width: 24px; height: 24px">
+						                	<img src="./img/index/instagram.png" alt="" style="width: 24px; height: 24px">
 						                </a>
 								      	<a href="https://www.youtube.com/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
-						                	<img src="/img/index/youtube.png" alt="" style="width: 24px; height: 24px">
+						                	<img src="./img/index/youtube.png" alt="" style="width: 24px; height: 24px">
 					                	</a>
 					                	<a href="http://www.twitter.com/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
-						                	<img src="/img/index/twitter.png" alt="" style="width: 24px; height: 24px">
+						                	<img src="./img/index/twitter.png" alt="" style="width: 24px; height: 24px">
 						                </a>
 					                	<a href="https://www.linkedin.com/company/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
-						                	<img src="/img/index/linkedin.png" alt="" style="width: 24px; height: 24px">
+						                	<img src="./img/index/linkedin.png" alt="" style="width: 24px; height: 24px">
 						                </a>
 									</li>
 								</ul>
@@ -55,7 +55,7 @@
 					    <div class="col d-flex p-2 bd-highlight justify-content-end">
 							<ul class="nav justify-content-end">
 							  <li class="nav-item border">
-							    <a class="nav-link text-success" href="#"><strong>NOTÍCIAS</strong></a>
+							    <a class="nav-link text-success" href="#"><strong>NOTÍCIAS</strong></a>
 							  </li>
 							  <li class="nav-item border">
 							    <a class="nav-link  text-success" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -63,7 +63,7 @@
 						        </a>
 							    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 						            <li><a class="dropdown-item" href="#">BRASIL</a></li>
-						            <li><a class="dropdown-item" href="#">FRANÇA</a></li>
+						            <li><a class="dropdown-item" href="#">FRANÇA</a></li>
 						            <li><a class="dropdown-item" href="#">ÁFRICA</a></li>
 						            <li><a class="dropdown-item" href="#">CAMBOJA</a></li>
 						          </ul>
@@ -81,7 +81,7 @@
 			</div>
 			
 			<div class="d-flex p-2 bd-highlight justify-content-center">
-				<img src="/img/index/logomarca.png" class="img-logomarca" alt="Logomarca">
+				<img src="./img/index/logomarca.png" class="img-logomarca" alt="Logomarca">
 			</div>
 		</header>
 		
@@ -179,35 +179,35 @@
 			  </div>
 			  <div class="carousel-inner">
 			    <div class="carousel-item active">
-			      <img src="/img/index/carrossel1.jpg" class="d-block w-100 imagem-carrossel1" alt="...">
+			      <img src="./img/index/carrossel1.jpg" class="d-block w-100 imagem-carrossel1" alt="...">
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5>First slide label</h5>
 			        <p>Some representative placeholder content for the first slide.</p>
 			      </div>
 			    </div>
 			    <div class="carousel-item">
-			      <img src="/img/index/carrossel2.jpg" class="d-block w-100 imagem-carrossel2" alt="...">
+			      <img src="./img/index/carrossel2.jpg" class="d-block w-100 imagem-carrossel2" alt="...">
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5>Second slide label</h5>
 			        <p>Some representative placeholder content for the second slide.</p>
 			      </div>
 			    </div>
 			    <div class="carousel-item">
-			      <img src="/img/index/carrossel3.jpg" class="d-block w-100 imagem-carrossel3" alt="...">
+			      <img src="./img/index/carrossel3.jpg" class="d-block w-100 imagem-carrossel3" alt="...">
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5>Third slide label</h5>
 			        <p>Some representative placeholder content for the third slide.</p>
 			      </div>
 			    </div>
 			    <div class="carousel-item">
-			      <img src="/img/index/carrossel4.jpg" class="d-block w-100 imagem-carrossel4" alt="...">
+			      <img src="./img/index/carrossel4.jpg" class="d-block w-100 imagem-carrossel4" alt="...">
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5>Third slide label</h5>
 			        <p>Some representative placeholder content for the third slide.</p>
 			      </div>
 			    </div>
 			    <div class="carousel-item">
-			      <img src="/img/index/carrossel5.jpg" class="d-block w-100 imagem-carrossel5" alt="...">
+			      <img src="./img/index/carrossel5.jpg" class="d-block w-100 imagem-carrossel5" alt="...">
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5>Third slide label</h5>
 			        <p>Some representative placeholder content for the third slide.</p>
@@ -279,7 +279,7 @@
 			
 			    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
 			      <div class="col">
-			        <div class="card card-cover h-100 overflow-hidden bg-dark rounded-5 shadow-lg" style="background-image: url('/img/index/therese1.jpg'); background-size: auto; background-position: center;">
+			        <div class="card card-cover h-100 overflow-hidden bg-dark rounded-5 shadow-lg" style="background-image: url('./img/index/therese1.jpg'); background-size: auto; background-position: center;">
 			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
 			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-warning">Vida</h2>
 			          </div>
@@ -287,7 +287,7 @@
 			      </div>
 			
 			      <div class="col">
-			        <div class="card card-cover h-100 overflow-hidden bg-dark rounded-5 shadow-lg" style="background-image: url('/img/index/therese1.jpg'); background-size: auto; background-position: center;">
+			        <div class="card card-cover h-100 overflow-hidden bg-dark rounded-5 shadow-lg" style="background-image: url('./img/index/therese1.jpg'); background-size: auto; background-position: center;">
 			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
 			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-warning">História</h2>
 			          </div>
@@ -295,7 +295,7 @@
 			      </div>
 			
 			      <div class="col">
-			        <div class="card card-cover h-100 overflow-hidden bg-dark rounded-5 shadow-lg" style="background-image: url('/img/index/therese1.jpg'); background-size: auto; background-position: center;">
+			        <div class="card card-cover h-100 overflow-hidden bg-dark rounded-5 shadow-lg" style="background-image: url('./img/index/therese1.jpg'); background-size: auto; background-position: center;">
 			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
 			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-warning">Obra</h2>
 			          </div>
@@ -309,7 +309,7 @@
 			  <div class="px-4 py-5 bg-laranja w-100">
 			    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
 			      <div class="col-10 col-sm-8 col-lg-6">
-			        <img src="/img/index/therese1.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+			        <img src="./img/index/therese1.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
 			      </div>
 			      <div class="col-lg-6">
 			        <h1 class="display-5 fw-bold lh-1 mb-3">Nossos Projetos</h1>
@@ -331,7 +331,7 @@
 			      
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="/img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
@@ -345,7 +345,7 @@
 			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="/img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
@@ -359,7 +359,7 @@
 			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="/img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
@@ -373,7 +373,7 @@
 			
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="/img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
@@ -387,7 +387,7 @@
 			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="/img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
@@ -401,7 +401,7 @@
 			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="/img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
@@ -515,27 +515,27 @@
 					<div class="row align-items-center">
 					    <div class="col text-center">
 					      	<a href="http://www.facebook.com/claraamizade/" target="_blank" class="">
-			                    <img src="/img/index/facebook.png" alt="">
+			                    <img src="./img/index/facebook.png" alt="">
 			                </a>
 					    </div>
 					    <div class="col text-center">
 					      	<a href="https://www.instagram.com/claraamizade/" target="_blank" class="">
-			                	<img src="/img/index/instagram.png" alt="">
+			                	<img src="./img/index/instagram.png" alt="">
 			                </a>
 					    </div>
 					    <div class="col text-center">
 					      	<a href="https://www.youtube.com/claraamizade/" target="_blank" class="">
-			                	<img src="/img/index/youtube.png" alt="">
+			                	<img src="./img/index/youtube.png" alt="">
 		                	</a>
 					    </div>
 					    <div class="col text-center">
 		                	<a href="http://www.twitter.com/claraamizade/" target="_blank" class="">
-			                	<img src="/img/index/twitter.png" alt="">
+			                	<img src="./img/index/twitter.png" alt="">
 			                </a>
 					    </div>
 					    <div class="col text-center">
 		                	<a href="https://www.linkedin.com/company/claraamizade/" target="_blank" class="">
-			                	<img src="/img/index/linkedin.png" alt="">
+			                	<img src="./img/index/linkedin.png" alt="">
 			                </a>
 					    </div>
 					  </div>
@@ -607,10 +607,7 @@
 							<a class="footer-lista" title="Quem somos" href=""><small>Doe agora</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Doação de produtos</small></a>
-						</li>
-						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Doação de bens</small></a>
+							<a class="footer-lista" title="Quem somos" href=""><small>Doação de produtos/bens</small></a>
 						</li>
 						<li class="footer-lista">
 							<a class="footer-lista" title="Quem somos" href=""><small>Doação com incentivo fiscal</small></a>
@@ -654,7 +651,7 @@
 									<input name="currency" type="hidden" value="BRL" />
 									<input name="receiverEmail" type="hidden" value="financeiro@claraamizade.org.br" /> 
 									<input name="iot" type="hidden" value="button" /> 
-									<input alt="Pague com PagSeguro - Ã© rÃ¡pido, grÃ¡tis e seguro!" name="submit" src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/doacoes/120x53-doar.gif" type="image" />
+									<input alt="Pague com PagSeguro - É rápido, grátis e seguro!" name="submit" src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/doacoes/120x53-doar.gif" type="image" />
 								</form>
 							<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
 					    </div>
@@ -672,7 +669,7 @@
 					    	<a href="" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-shop"></i> LOJA VIRTUAL</a>
 					    </div>
 					    <div class="col text-center">
-					    	<img src="/img/index/phomenta.png" class="img-certificado" alt="...">
+					    	<img src="./img/index/phomenta.png" class="img-certificado" alt="...">
 					    </div>
 					  </div>
 					  <hr>
@@ -683,7 +680,7 @@
 								<h3 class="pb-2 text-center">Nosso endereço</h3>
 								<p style="margin: 0;"><strong>Associação Os Amigos de Clara Amizade Brasil-Bahia</strong></p>
 								<p style="margin: 0;"><strong>CNPJ: 04.087.181/0001-96</strong></p>
-								<p style="margin: 0;">Rua Eduardo Santos, nº 01, Qd 18</p>
+								<p style="margin: 0;">Rua Eduardo Santos, nº 01</p>
 								<p style="margin: 0;">Piatã, Salvador - Bahia</p>
 								<p style="margin: 0;">CEP: 41.650-075</p>
 							</div>
