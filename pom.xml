@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
   <name>Clara Amizade</name>
-  <description>Uma entidade sem fins lucrativos</description>
+  <description>A serviço das jovens em vulnerabilidade social</description>
   
   <properties>
   	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
