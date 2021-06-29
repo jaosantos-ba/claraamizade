@@ -17,6 +17,9 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 		
+		<!-- Icons Google -->
+		<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+		
 		<!-- Favicons -->
 		<link rel="icon" href="./img/index/favicon.ico">
 		
@@ -95,7 +98,8 @@
 			      <ul class="navbar-nav">
 			        <li class="nav-item dropdown">
 			          <a class="nav-link dropdown-toggle text-white fs-5" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-			            <strong>INSTITUCIONAL</strong>
+			            <i class="bi bi-house"></i>
+						<strong>INSTITUCIONAL</strong>			            
 			          </a>
 			          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 			            <li><a class="dropdown-item" href="#">Quem somos</a></li>
@@ -107,6 +111,7 @@
 			        </li>
 			        <li class="nav-item dropdown">
 			          <a class="nav-link dropdown-toggle text-white fs-5" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+			            <i class="bi bi-person"></i>
 			            <strong>THÉRÈSE CORNILLE</strong>
 			          </a>
 			          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -117,6 +122,7 @@
 			        </li>
 			        <li class="nav-item dropdown">
 			          <a class="nav-link dropdown-toggle text-white fs-5" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+			            <i class="bi bi-card-list"></i>
 			            <strong>PROJETO</strong>
 			          </a>
 			          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -130,6 +136,7 @@
 			        </li>
 			        <li class="nav-item dropdown">
 			          <a class="nav-link dropdown-toggle text-white fs-5" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+			            <i class="bi bi-flower1"></i>
 			            <strong>COMO AJUDAR</strong>
 			          </a>
 			          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -151,6 +158,7 @@
 			        </li>
 			        <li class="nav-item dropdown">
 			          <a class="nav-link dropdown-toggle text-white fs-5" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+			            <i class="bi bi-search"></i>
 			            <strong>TRANSPARÊNCIA</strong>
 			          </a>
 			          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -160,7 +168,10 @@
 			          </ul>
 			        </li>
 			        <li class="nav-item">
-			          <a class="nav-link active text-white fs-5" aria-current="page" href="#"><strong>LOJA VIRTUAL</strong></a>
+			          <a class="nav-link active text-white fs-5" aria-current="page" href="#">
+				        <i class="bi bi-shop"></i>
+				        <strong>LOJA VIRTUAL</strong>
+			          </a>
 			        </li>
 			      </ul>
 			    </div>
