@@ -61,11 +61,11 @@
 			 <br>
 		      <div class="row">
 	      		<div class="parceria-item">
-		            <h3 class="parceria-item-title">Termo de Colaboração nº 033/2016 - <a href="http://www.sempre.salvador.ba.gov.br/" target="_blank" style="color:black; text-decoration:none">SEMPRE</a> </h3>
+		            <h3 class="parceria-item-title">Convênio nº 033/2016 - <a href="http://www.sempre.salvador.ba.gov.br/" target="_blank" style="color:black; text-decoration:none">SEMPRE</a> </h3>
 		            Data: 
 					<p class="parceria-item-publicacao">Publicado DOM:</p>
 		            <hr/>
-		            <p>Termo de Colaboração nº 033/2016 celebrado entre o Município do Salvador, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE, e a Associação Clara Amizade.</p>
+		            <p>Convênio nº 033/2016 celebrado entre o Município do Salvador, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE, e a Associação Clara Amizade.</p>
 		          </div><!-- /.blog-post -->
 		          <div class="col align-items-center">
 			    	<a href="" target="_parent" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Colaboração</a>
@@ -80,11 +80,11 @@
 			 <br>
 		      <div class="row">
 	      		<div class="parceria-item">
-		            <h3 class="parceria-item-title">Termo de Colaboração nº 012/2015 - <a href="http://www.sempre.salvador.ba.gov.br/" target="_blank" style="color:black; text-decoration:none">SEMPRE</a> </h3>
+		            <h3 class="parceria-item-title">Convênio nº 012/2015 - <a href="http://www.sempre.salvador.ba.gov.br/" target="_blank" style="color:black; text-decoration:none">SEMPRE</a> </h3>
 		            Data: 
 					<p class="parceria-item-publicacao">Publicado DOM: 6393/2015 em 05 de agosto de 2015</p>
 		            <hr/>
-		            <p>Termo de Colaboração nº 012/2015 celebrado entre o Município do Salvador, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE, e a Associação Clara Amizade.</p>
+		            <p>Convênio nº 012/2015 celebrado entre o Município do Salvador, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE, e a Associação Clara Amizade.</p>
 		          </div><!-- /.blog-post -->
 		          <div class="col align-items-center">
 			    	<a href="" target="_parent" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Colaboração</a>
