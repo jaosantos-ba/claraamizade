@@ -73,7 +73,7 @@
 					      <ul class="navbar-nav">
 					        <li class="nav-item dropdown">
 					          <a class="nav-link dropdown-toggle text-white fs-5" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-					            <i class="bi bi-house"></i>
+					            <i class="bi bi-house-door"></i>
 								<strong>INSTITUCIONAL</strong>			            
 					          </a>
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
