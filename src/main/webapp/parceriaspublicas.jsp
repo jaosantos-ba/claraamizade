@@ -49,7 +49,7 @@
 		            <p>Termo de Colaboração nº 018/2018 celebrado em 27/02/2018, entre o Município do Salvador, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE, e a Associação Clara Amizade.</p>
 		          </div><!-- /.blog-post -->
 		          <div class="col align-items-center">
-		          	<a href="" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Colaboração</a>
+		          	<a href="" target="_parent" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Colaboração</a>
 			    	<a href="/doc/2018/dom_7057_20180228_pag_055.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Publicação no DOM</a>
 			      </div>
 		  	</div><!-- /.row -->
@@ -68,8 +68,8 @@
 		            <p>Termo de Colaboração nº 033/2016 celebrado entre o Município do Salvador, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE, e a Associação Clara Amizade.</p>
 		          </div><!-- /.blog-post -->
 		          <div class="col align-items-center">
-			    	<a href="" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Colaboração</a>
-			    	<a href="" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Publicação no DOM</a>
+			    	<a href="" target="_parent" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Colaboração</a>
+			    	<a href="" target="_parent" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Publicação no DOM</a>
 			      </div>
 		  	</div><!-- /.row -->
 		  	<br>
@@ -82,12 +82,12 @@
 	      		<div class="parceria-item">
 		            <h3 class="parceria-item-title">Termo de Colaboração nº 012/2015 - <a href="http://www.sempre.salvador.ba.gov.br/" target="_blank" style="color:black; text-decoration:none">SEMPRE</a> </h3>
 		            Data: 
-					<p class="parceria-item-publicacao">Publicado DOM: 6393/2015 em 05 de agostp de 2015</p>
+					<p class="parceria-item-publicacao">Publicado DOM: 6393/2015 em 05 de agosto de 2015</p>
 		            <hr/>
 		            <p>Termo de Colaboração nº 012/2015 celebrado entre o Município do Salvador, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE, e a Associação Clara Amizade.</p>
 		          </div><!-- /.blog-post -->
 		          <div class="col align-items-center">
-			    	<a href="" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Colaboração</a>
+			    	<a href="" target="_parent" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Colaboração</a>
 			    	<a href="/doc/2015/dom_6393_20150805_pag_029.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Publicação no DOM</a>
 			      </div>
 		  	</div><!-- /.row -->
