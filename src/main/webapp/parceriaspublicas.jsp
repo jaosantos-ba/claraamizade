@@ -79,9 +79,9 @@
 					  	<i class="bi bi-download"></i> Remuneração da Equipe
 					  </button>
 					  <ul class="dropdown-menu">
-					    <li><a class="dropdown-item" href="/doc/sempre/2021/rem/equipe_2021.pdf" target="_blank">Previsão 2021</a></li>
-					    <li><a class="dropdown-item" href="/doc/sempre/2021/rem/equipe_2022.pdf" target="_blank">Previsão 2022</a></li>
-					    <li><a class="dropdown-item" href="/doc/sempre/2021/rem/equipe_2023.pdf" target="_blank">Previsão 2023</a></li>
+					    <li><a class="dropdown-item" href="/doc/sempre/2020/rem/equipe_2021.pdf" target="_blank">Previsão 2021</a></li>
+					    <li><a class="dropdown-item" href="/doc/sempre/2020/rem/equipe_2022.pdf" target="_blank">Previsão 2022</a></li>
+					    <li><a class="dropdown-item" href="/doc/sempre/2020/rem/equipe_2023.pdf" target="_blank">Previsão 2023</a></li>
 					  </ul>
 					</div>
 			      </div>
