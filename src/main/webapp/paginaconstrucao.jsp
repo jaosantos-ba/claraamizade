@@ -12,10 +12,6 @@
 		  <div class="container text-white">
 		    <i class="bi bi-house"></i>
 		    <a class="text-white fw-bold fs-6" href="http://www.claraamizade.org.br">Início</a>
-		    <i class="bi bi-arrow-right-short"></i>
-		    <a class="text-white fw-bold fs-6" style="text-decoration:none;">Projeto</a>
-		    <i class="bi bi-arrow-right-short"></i>
-		    <a class="navbar-brand text-white fw-bold fs-6">Parcerias Públicas</a>
 		  </div>
 		</nav>
 				
