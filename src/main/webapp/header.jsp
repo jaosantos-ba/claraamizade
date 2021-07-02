@@ -58,7 +58,7 @@
 				</div>
 				
 				<div class="d-flex p-2 bd-highlight justify-content-center">
-					<a href="index.jsp" class="d-flex justify-content-center">
+					<a href="http://www.claraamizade.org.br" class="d-flex justify-content-center">
 						<img src="./img/index/logomarca.png" class="img-logomarca" alt="Logomarca">
 					</a>
 				</div>
@@ -77,7 +77,7 @@
 								<strong>INSTITUCIONAL</strong>			            
 					          </a>
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					            <li><a class="dropdown-item" href="#">Quem somos</a></li>
+					            <li><a class="dropdown-item" href="/quemsomos.jsp">Quem somos</a></li>
 					            <li><a class="dropdown-item" href="#">Missão, Visão e Valores</a></li>
 					            <li><a class="dropdown-item" href="#">Nosso Estatuto</a></li>
 					            <li><a class="dropdown-item" href="#">Diretoria e Conselho Fiscal</a></li>

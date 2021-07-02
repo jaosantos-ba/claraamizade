@@ -21,36 +21,36 @@
 			    <div class="carousel-item active">
 			      <img src="./img/index/carrossel1.jpg" class="d-block w-100 imagem-carrossel1" alt="...">
 			      <div class="carousel-caption d-none d-md-block">
-			        <h5>First slide label</h5>
-			        <p>Some representative placeholder content for the first slide.</p>
+			        <h5></h5>
+			        <p></p>
 			      </div>
 			    </div>
 			    <div class="carousel-item">
 			      <img src="./img/index/carrossel2.jpg" class="d-block w-100 imagem-carrossel2" alt="...">
 			      <div class="carousel-caption d-none d-md-block">
-			        <h5>Second slide label</h5>
-			        <p>Some representative placeholder content for the second slide.</p>
+			        <h5></h5>
+			        <p></p>
 			      </div>
 			    </div>
 			    <div class="carousel-item">
 			      <img src="./img/index/carrossel3.jpg" class="d-block w-100 imagem-carrossel3" alt="...">
 			      <div class="carousel-caption d-none d-md-block">
-			        <h5>Third slide label</h5>
-			        <p>Some representative placeholder content for the third slide.</p>
+			        <h5></h5>
+			        <p></p>
 			      </div>
 			    </div>
 			    <div class="carousel-item">
 			      <img src="./img/index/carrossel4.jpg" class="d-block w-100 imagem-carrossel4" alt="...">
 			      <div class="carousel-caption d-none d-md-block">
-			        <h5>Third slide label</h5>
-			        <p>Some representative placeholder content for the third slide.</p>
+			        <h5></h5>
+			        <p></p>
 			      </div>
 			    </div>
 			    <div class="carousel-item">
 			      <img src="./img/index/carrossel5.jpg" class="d-block w-100 imagem-carrossel5" alt="...">
 			      <div class="carousel-caption d-none d-md-block">
-			        <h5>Third slide label</h5>
-			        <p>Some representative placeholder content for the third slide.</p>
+			        <h5></h5>
+			        <p></p>
 			      </div>
 			    </div>
 			  </div>
@@ -78,36 +78,36 @@
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#cpu-fill"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-white">+5.000</h4>
-			          <p class="text-white">Jovens atendidas desde o início das atividades.</p>
+			          <h4 class="fw-bold mb-0 text-verde">+5.000</h4>
+			          <p class="text-verde">Jovens atendidas desde o início das atividades.</p>
 			        </div>
 			      </div>
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-white">+5.000</h4>
-			          <p class="text-white">Jovens atendidas desde o início das atividades.</p>
+			          <h4 class="fw-bold mb-0 text-verde">+5.000</h4>
+			          <p class="text-verde">Jovens atendidas desde o início das atividades.</p>
 			        </div>
 			      </div>
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#home"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-white">+5.000</h4>
-			          <p class="text-white">Jovens atendidas desde o início das atividades.</p>
+			          <h4 class="fw-bold mb-0 text-verde">+5.000</h4>
+			          <p class="text-verde">Jovens atendidas desde o início das atividades.</p>
 			        </div>
 			      </div>
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#speedometer2"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-white">+5.000</h4>
-			          <p class="text-white">Jovens atendidas desde o início das atividades.</p>
+			          <h4 class="fw-bold mb-0 text-verde">+5.000</h4>
+			          <p class="text-verde">Jovens atendidas desde o início das atividades.</p>
 			        </div>
 			      </div>
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#toggles2"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-white">+5.000</h4>
-			          <p class="text-white">Jovens atendidas desde o início das atividades.</p>
+			          <h4 class="fw-bold mb-0 text-verde">+5.000</h4>
+			          <p class="text-verde">Jovens atendidas desde o início das atividades.</p>
 			        </div>
 			      </div>
 			    </div>
@@ -120,7 +120,7 @@
 			
 			    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
 			      <div class="col">
-			        <div class="card card-cover h-100 overflow-hidden bg-dark rounded-5 shadow-lg" style="background-image: url('./img/index/therese1.jpg'); background-size: auto; background-position: center;">
+			        <div class="card card-cover h-100 overflow-hidden bg-verde rounded-5 shadow-lg" style="background-image: url('./img/index/therese.jpg'); background-size: auto; background-position: center;">
 			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
 			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-warning">Vida</h2>
 			          </div>
@@ -128,7 +128,7 @@
 			      </div>
 			
 			      <div class="col">
-			        <div class="card card-cover h-100 overflow-hidden bg-dark rounded-5 shadow-lg" style="background-image: url('./img/index/therese1.jpg'); background-size: auto; background-position: center;">
+			        <div class="card card-cover h-100 overflow-hidden bg-verde rounded-5 shadow-lg" style="background-image: url('./img/index/therese.jpg'); background-size: auto; background-position: center;">
 			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
 			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-warning">História</h2>
 			          </div>
@@ -136,7 +136,7 @@
 			      </div>
 			
 			      <div class="col">
-			        <div class="card card-cover h-100 overflow-hidden bg-dark rounded-5 shadow-lg" style="background-image: url('./img/index/therese1.jpg'); background-size: auto; background-position: center;">
+			        <div class="card card-cover h-100 overflow-hidden bg-verde rounded-5 shadow-lg" style="background-image: url('./img/index/therese.jpg'); background-size: auto; background-position: center;">
 			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
 			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-warning">Obra</h2>
 			          </div>
@@ -150,14 +150,16 @@
 			  <div class="px-4 py-5 bg-laranja w-100">
 			    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
 			      <div class="col-10 col-sm-8 col-lg-6">
-			        <img src="./img/index/therese1.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
+			        <img src="./img/index/nossoprojeto.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="500" height="500" loading="lazy">
 			      </div>
 			      <div class="col-lg-6">
-			        <h1 class="display-5 fw-bold lh-1 mb-3 text-white">Nossos Projetos</h1>
-			        <p class="lead text-white">Quickly design and customize responsive mobile-first sites with Bootstrap, the worlds most popular front-end open source toolkit, featuring Sass variables and mixins, responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+			        <h1 class="display-5 fw-bold lh-1 mb-3 text-white">Nosso Projeto</h1>
+			        <p class="lead text-white" style="text-align: justify;">O Programa de Educação Global e Capacitação Profissional, mantido de forma contínua
+						pela Claire Amitié Internationale (CAI) propõe o desenvolvimento global de crianças, adolescentes e jovens,
+						entre 08 e 29 anos, em situação de vulnerabilidade social a fim de favorecer a promoção humana e cidadã, 
+						tecnológica, profissional, artística, cultural e ambiental dos participantes.</p>
 			        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-			          <button type="button" class="btn btn-success btn-lg px-4 me-md-2">CAI</button>
-			          <button type="button" class="btn btn-outline-success btn-lg px-4">SEMPRE</button>
+			          <button type="button" class="btn btn-success btn-lg px-4 me-md-2">Saiba mais</button>
 			        </div>
 			      </div>
 			    </div>
@@ -172,12 +174,14 @@
 			      
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="./img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/oficina1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
+			              <h5>Artesanato e Pintura</h5>
+			              <hr>
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Veja mais</button>
+			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
 			                </div>
 			              </div>
 			            </div>
@@ -186,12 +190,14 @@
 			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="./img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/oficina2.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
+			              <h5>Maquiagem</h5>
+			              <hr>
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Veja mais</button>
+			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
 			                </div>
 			              </div>
 			            </div>
@@ -200,12 +206,14 @@
 			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="./img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/oficina3.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
+			              <h5>Tranças Africanas</h5>
+			              <hr>
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Veja mais</button>
+			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
 			                </div>
 			              </div>
 			            </div>
@@ -214,12 +222,14 @@
 			
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="./img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/oficina4.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
+			              <h5>Manicure e Pedicure</h5>
+			              <hr>
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Veja mais</button>
+			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
 			                </div>
 			              </div>
 			            </div>
@@ -228,12 +238,14 @@
 			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="./img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/oficina5.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
+			              <h5>Design de Sobracelha</h5>
+			              <hr>
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Veja mais</button>
+			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
 			                </div>
 			              </div>
 			            </div>
@@ -242,12 +254,62 @@
 			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="./img/index/therese1.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/oficina6.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
+			              <h5>Dança</h5>
+			              <hr>
 			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Veja mais</button>
+			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
+			                </div>
+			              </div>
+			            </div>
+			          </div>
+			        </div>
+			        
+			        <div class="col">
+			          <div class="card shadow-sm">
+			          	<img src="./img/index/oficina7.jpg" class="img-fluid imagem-oficina" alt="...">
+			            <div class="card-body">
+			              <h5>Informática</h5>
+			              <hr>
+			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+			              <div class="d-flex justify-content-between align-items-center">
+			                <div class="btn-group">
+			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
+			                </div>
+			              </div>
+			            </div>
+			          </div>
+			        </div>
+			        
+			        <div class="col">
+			          <div class="card shadow-sm">
+			          	<img src="./img/index/oficina8.jpg" class="img-fluid imagem-oficina" alt="...">
+			            <div class="card-body">
+			              <h5>Inglês</h5>
+			              <hr>
+			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+			              <div class="d-flex justify-content-between align-items-center">
+			                <div class="btn-group">
+			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
+			                </div>
+			              </div>
+			            </div>
+			          </div>
+			        </div>
+			        
+			        <div class="col">
+			          <div class="card shadow-sm">
+			          	<img src="./img/index/oficina9.jpg" class="img-fluid imagem-oficina" alt="...">
+			            <div class="card-body">
+			              <h5>Programação</h5>
+			              <hr>
+			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+			              <div class="d-flex justify-content-between align-items-center">
+			                <div class="btn-group">
+			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
 			                </div>
 			              </div>
 			            </div>
