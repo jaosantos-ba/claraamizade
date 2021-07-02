@@ -178,10 +178,10 @@
 			            <div class="card-body">
 			              <h5>Artesanato e Pintura</h5>
 			              <hr>
-			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+			              <p class="card-text" style="text-align: justify;">Favorecer que as crianças e adolescentes despertem prazer pela aprendizagem através das artes e ludicidade, utilizando materiais recicláveis.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
+			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
 			                </div>
 			              </div>
 			            </div>
@@ -194,10 +194,10 @@
 			            <div class="card-body">
 			              <h5>Maquiagem</h5>
 			              <hr>
-			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+			              <p class="card-text" style="text-align: justify;">Favorecer que as adolescentes e jovens despertem prazer pela aprendizagem através maquiagem, refletindo na autoestima de cada participante.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
+			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
 			                </div>
 			              </div>
 			            </div>
@@ -210,10 +210,10 @@
 			            <div class="card-body">
 			              <h5>Tranças Africanas</h5>
 			              <hr>
-			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+			              <p class="card-text" style="text-align: justify;">Favorecer que as adolescentes e jovens despertem prazer pela aprendizagem através tranças africanas, refletindo na autoestima de cada participante.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
+			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
 			                </div>
 			              </div>
 			            </div>
@@ -226,10 +226,10 @@
 			            <div class="card-body">
 			              <h5>Manicure e Pedicure</h5>
 			              <hr>
-			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+			              <p class="card-text" style="text-align: justify;">Favorecer que as adolescentes e jovens despertem prazer pela aprendizagem através da manicure e pedicure, refletindo em sua autoestima.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
+			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
 			                </div>
 			              </div>
 			            </div>
@@ -242,10 +242,10 @@
 			            <div class="card-body">
 			              <h5>Design de Sobracelha</h5>
 			              <hr>
-			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+			              <p class="card-text" style="text-align: justify;">Favorecer que as adolescentes e jovens despertem prazer pela aprendizagem através da design de sobrancelha, refletindo em sua autoestima.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
+			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
 			                </div>
 			              </div>
 			            </div>
@@ -258,10 +258,10 @@
 			            <div class="card-body">
 			              <h5>Dança</h5>
 			              <hr>
-			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+			              <p class="card-text" style="text-align: justify;">Desenvolver expressão corporal, imaginação, integração, trabalho em equipe, cooperação, autoconfiança, autoestima, aulas práticas e ensaios.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
+			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
 			                </div>
 			              </div>
 			            </div>
@@ -274,10 +274,10 @@
 			            <div class="card-body">
 			              <h5>Informática</h5>
 			              <hr>
-			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+			              <p class="card-text" style="text-align: justify;">Proporcionar aos participantes conhecimentos básicos, através da inclusão sociodigital para realização das tarefas escolares.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
+			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
 			                </div>
 			              </div>
 			            </div>
@@ -290,10 +290,10 @@
 			            <div class="card-body">
 			              <h5>Inglês</h5>
 			              <hr>
-			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+			              <p class="card-text" style="text-align: justify;">Proporcionar aos educandos o ambiente conectivo e cultural, através da aprendizagem sociolúdica de conversações básicas do Inglês.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
+			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
 			                </div>
 			              </div>
 			            </div>
@@ -306,10 +306,10 @@
 			            <div class="card-body">
 			              <h5>Programação</h5>
 			              <hr>
-			              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+			              <p class="card-text" style="text-align: justify;">Possibilitar que o educando, tenha habilidades e conhecimentos, através da inclusão sociodigital para utilizar a lógica de programação.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-secondary">Saiba mais</button>
+			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
 			                </div>
 			              </div>
 			            </div>
@@ -327,34 +327,37 @@
 			    <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
 			      <div class="feature col">
 			        <div class="feature-icon bg-laranja bg-gradient">
+			          <img src="./img/pagina-em-construcao.png" class="img-fluid imagem-oficina" alt="...">
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#collection"/></svg>
 			        </div>
-			        <h2>Featured title</h2>
+			        <h2>Em breve histórias de nossos beneficiários</h2>
 			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
 			        <a href="#" class="icon-link">
-			          Call to action
+			          Conheça a história
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
 			        </a>
 			      </div>
 			      <div class="feature col">
 			        <div class="feature-icon bg-laranja bg-gradient">
+			          <img src="./img/pagina-em-construcao.png" class="img-fluid imagem-oficina" alt="...">
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"/></svg>
 			        </div>
-			        <h2>Featured title</h2>
+			        <h2>Em breve histórias de nossos beneficiários</h2>
 			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
 			        <a href="#" class="icon-link">
-			          Call to action
+			          Conheça a história
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
 			        </a>
 			      </div>
 			      <div class="feature col">
 			        <div class="feature-icon bg-laranja bg-gradient">
+			          <img src="./img/pagina-em-construcao.png" class="img-fluid imagem-oficina" alt="...">
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"/></svg>
 			        </div>
-			        <h2>Featured title</h2>
+			        <h2>Em breve histórias de nossos beneficiários</h2>
 			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
 			        <a href="#" class="icon-link">
-			          Call to action
+			          Conheça a história
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
 			        </a>
 			      </div>
@@ -368,34 +371,37 @@
 			    <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
 			      <div class="feature col">
 			        <div class="feature-icon bg-verde bg-gradient">
+			          <img src="./img/pagina-em-construcao.png" class="img-fluid imagem-oficina" alt="...">
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#collection"/></svg>
 			        </div>
-			        <h2>Featured title</h2>
+			        <h2>Em breve depoimentos</h2>
 			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
 			        <a href="#" class="icon-link">
-			          Call to action
+			          Veja o depoimento completo
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
 			        </a>
 			      </div>
 			      <div class="feature col">
 			        <div class="feature-icon bg-verde bg-gradient">
+			          <img src="./img/pagina-em-construcao.png" class="img-fluid imagem-oficina" alt="...">
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"/></svg>
 			        </div>
-			        <h2>Featured title</h2>
+			        <h2>Em breve depoimentos</h2>
 			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
 			        <a href="#" class="icon-link">
-			          Call to action
+			          Veja o depoimento completo
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
 			        </a>
 			      </div>
 			      <div class="feature col">
 			        <div class="feature-icon bg-verde bg-gradient">
+			          <img src="./img/pagina-em-construcao.png" class="img-fluid imagem-oficina" alt="...">
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"/></svg>
 			        </div>
-			        <h2>Featured title</h2>
+			        <h2>Em breve depoimentos</h2>
 			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
 			        <a href="#" class="icon-link">
-			          Call to action
+			          Veja o depoimento completo
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
 			        </a>
 			      </div>
