@@ -59,7 +59,7 @@
 					    </div>
 					  </div>
 					  <br>
-		
+			<hr style="border: 2px dashed black;" />
 		   </div><!-- /.container -->
 		</main>
 		

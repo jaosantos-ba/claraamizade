@@ -92,7 +92,7 @@
 					<%@include file="/asidemvv.jsp"%>
 				</div><!-- /.blog-sidebar -->
 			  </div><!-- /.row -->
-		
+			<hr style="border: 2px dashed black;" />
 		   </div><!-- /.container -->
 		</main>
 		

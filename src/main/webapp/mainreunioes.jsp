@@ -67,7 +67,6 @@
 			            		<a href="" type="button" target="_blank" class="btn btn-outline-success"><i class="bi bi-download"></i> PDF</a>
 		            		</div>
 			            </div>
-						<hr>
 						
 			          </div>
 			
@@ -78,7 +77,7 @@
 					
 				</div><!-- /.blog-sidebar -->
 			  </div><!-- /.row -->
-		
+			<hr style="border: 2px dashed black;" />
 		   </div><!-- /.container -->
 		</main>
 		

@@ -56,7 +56,6 @@
 						
 						<h5>Suplente Conselho Fiscal</h5>
 			            <h3><i class="bi bi-person-check"></i> Carine Marie Hebert</h3>
-						<hr>
 						
 			          </div>
 			
@@ -67,7 +66,7 @@
 					
 				</div><!-- /.blog-sidebar -->
 			  </div><!-- /.row -->
-		
+			<hr style="border: 2px dashed black;" />
 		   </div><!-- /.container -->
 		</main>
 		
