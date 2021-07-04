@@ -54,10 +54,22 @@
 							<a class="footer-lista" title="Quem somos" href=""><small>Missão, Visão e Valores</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Nosso Estatuto</small></a>
+							<a class="footer-lista" title="Quem somos" href=""><small>Estatutos</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Diretoria e Conselho Fiscal</small></a>
+							<a class="footer-lista" title="Quem somos" href=""><small>Diretoria</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Conselho Fiscal</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Equipe</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Parceiros</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Títulos e Registros</small></a>
 						</li>
 						<li class="footer-lista">
 							<a class="footer-lista" title="Quem somos" href=""><small>Prêmios e Certificações</small></a>
@@ -87,6 +99,10 @@
 						<li class="footer-lista">
 							<a class="footer-lista" title="Quem somos" href=""><small>Pilares Educacionais (ODS)</small></a>
 						</li>
+						<br>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Institucional" href=""><strong>PARCEIROS</strong></a>
+						</li>
 						<li class="footer-lista">
 							<a class="footer-lista" title="Quem somos" href="/parceriasprivadas.jsp"><small>Parcerias Privadas</small></a>
 						</li>
@@ -112,6 +128,26 @@
 						</li>
 						<li class="footer-lista">
 							<a class="footer-lista" title="Quem somos" href=""><small>Seja voluntário</small></a>
+						</li>
+						<br>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Institucional" href=""><strong>SÓCIO CONTRIBUINTE</strong></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Seja um sócio contribuinte</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Benefícios do sócio contribuinte</small></a>
+						</li>
+						<br>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Institucional" href=""><strong>CAMPANHAS</strong></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Padrinho Amigo</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Parceiro Amigo</small></a>
 						</li>
 					</ul>
 					<ul>

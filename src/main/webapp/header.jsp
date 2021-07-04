@@ -77,11 +77,15 @@
 								<strong>INSTITUCIONAL</strong>			            
 					          </a>
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					            <li><a class="dropdown-item" href="/quemsomos.jsp">Quem somos</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Missão, Visão e Valores</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Nosso Estatuto</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Diretoria e Conselho Fiscal</a></li>
+					            <li><a class="dropdown-item" href="/mainqsomos.jsp">Quem somos</a></li>
+					            <li><a class="dropdown-item" href="/mainmvv.jsp">Missão, Visão e Valores</a></li>
+					            <li><a class="dropdown-item" href="/mainestatuto.jsp">Estatutos</a></li>
+					            <li><a class="dropdown-item" href="/mainreunioes.jsp">Atas de Reuniões</a></li>
+					            <li><a class="dropdown-item" href="/maindiretoria.jsp">Diretoria</a></li>
+					            <li><a class="dropdown-item" href="/mainconsfiscal.jsp">Conselho Fiscal</a></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Equipe</a></li>
+					            <li><a class="dropdown-item" href="/mainparceiros.jsp">Parceiros</a></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Títulos e Registros</a></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Prêmios e Certificações</a></li>
 					          </ul>
 					        </li>
@@ -106,8 +110,8 @@
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Pilares Educacionais (ODS)</a></li>
 					            <li><div class="dropdown-divider"></div></li>
 					            <li><a class="dropdown-item"><strong>PARCEIROS</strong></a></li>
-					            <li><a class="dropdown-item" href="/parceriasprivadas.jsp">Parcerias Privadas</a></li>
-					            <li><a class="dropdown-item" href="/parceriaspublicas.jsp">Parcerias Públicas</a></li>
+					            <li><a class="dropdown-item" href="/mainparpriv.jsp">Parcerias Privadas</a></li>
+					            <li><a class="dropdown-item" href="/mainparpub.jsp">Parcerias Públicas</a></li>
 					          </ul>
 					        </li>
 					        <li class="nav-item dropdown">
