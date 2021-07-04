@@ -110,8 +110,8 @@
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Pilares Educacionais (ODS)</a></li>
 					            <li><div class="dropdown-divider"></div></li>
 					            <li><a class="dropdown-item"><strong>PARCEIROS</strong></a></li>
-					            <li><a class="dropdown-item" href="/mainparpriv.jsp">Parcerias Privadas</a></li>
-					            <li><a class="dropdown-item" href="/mainparpub.jsp">Parcerias Públicas</a></li>
+					            <li><a class="dropdown-item" href="/mainparcpriv.jsp">Parcerias Privadas</a></li>
+					            <li><a class="dropdown-item" href="/mainparcpub.jsp">Parcerias Públicas</a></li>
 					          </ul>
 					        </li>
 					        <li class="nav-item dropdown">
