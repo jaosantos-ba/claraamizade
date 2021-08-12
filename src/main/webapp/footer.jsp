@@ -197,7 +197,7 @@
 					    </div>
 					    <div class="col text-center d-grid gap-2">
 					    	<a href="" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-mic"></i> PODCAST</a>
-					    	<a href="" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-person-plus"></i> TRABALHE CONOSCO</a>
+					    	<a href="/maintrabcon.jsp" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-person-plus"></i> TRABALHE CONOSCO</a>
 					    </div>
 					    <div class="col text-center">
 					    	<img src="./img/index/phomenta.png" class="img-certificado" alt="...">
