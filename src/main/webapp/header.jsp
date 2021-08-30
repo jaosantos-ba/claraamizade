@@ -10,7 +10,7 @@
 					      	<div class="social-links social-links-header hidden-xs">
 								<ul class="redes">
 									<li style="list-style-type: none; text-decoration: none">
-										<a href="http://www.facebook.com/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
+										<a href="https://www.facebook.com/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
 						                    <img src="./img/index/facebook.png" alt="" style="width: 24px; height: 24px">
 						                </a>
 								      	<a href="https://www.instagram.com/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
@@ -19,7 +19,7 @@
 								      	<a href="https://www.youtube.com/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
 						                	<img src="./img/index/youtube.png" alt="" style="width: 24px; height: 24px">
 					                	</a>
-					                	<a href="http://www.twitter.com/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
+					                	<a href="https://www.twitter.com/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
 						                	<img src="./img/index/twitter.png" alt="" style="width: 24px; height: 24px">
 						                </a>
 					                	<a href="https://www.linkedin.com/company/claraamizade/" target="_blank" class="" style="list-style-type: none; text-decoration: none">
