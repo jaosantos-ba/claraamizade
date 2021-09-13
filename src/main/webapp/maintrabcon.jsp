@@ -52,7 +52,43 @@
 			<div class="container">
 			 <br>
 		      <div class="row">
-	      		<div class="parceria-item">
+	      		<div class="processoseletivo-item">
+		            <h3 class="parceria-item-title">Processo Seletivo nº 04/2021 - <a href="" target="_blank" style="color:black; text-decoration:none">Educador(a) Social de Teatro</a> </h3>
+		            <strong>Inscrições: 13/09/2021 a 19/09/2021</strong>
+		            <hr/>
+		            <p>A Clara Amizade, associação ligada à Arquidiocese de Salvador, torna público o Processo Seletivo Simplificado, para contratação de um(a) Educador(a) Social de Teatro.</p>
+		          </div><!-- /.blog-post -->
+		          <div class="col align-items-center">
+			    	<a href="/doc/cai/rh/2021/edital_202104_selecao_educador_social_teatro.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Edital de Seleção nº 04/2021</a>
+			      </div>
+			      
+		  	</div><!-- /.row -->
+		  	<br>
+		  	<hr style="border: 2px dashed black;" />
+		   </div><!-- /.container -->
+		   
+		   <div class="container">
+			 <br>
+		      <div class="row">
+	      		<div class="processoseletivo-item">
+		            <h3 class="parceria-item-title">Processo Seletivo nº 03/2021 - <a href="" target="_blank" style="color:black; text-decoration:none">Educador(a) Social de Leitura</a> </h3>
+		            <strong>Inscrições: 13/09/2021 a 19/09/2021</strong>
+		            <hr/>
+		            <p>A Clara Amizade, associação ligada à Arquidiocese de Salvador, torna público o Processo Seletivo Simplificado, para contratação de um(a) Educador(a) Social de Leitura.</p>
+		          </div><!-- /.blog-post -->
+		          <div class="col align-items-center">
+			    	<a href="/doc/cai/rh/2021/edital_202103_selecao_educador_social_leitura.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Edital de Seleção nº 03/2021</a>
+			      </div>
+			      
+		  	</div><!-- /.row -->
+		  	<br>
+		  	<hr style="border: 2px dashed black;" />
+		   </div><!-- /.container -->
+		   
+		   <div class="container">
+			 <br>
+		      <div class="row">
+	      		<div class="processoseletivo-item">
 		            <h3 class="parceria-item-title">Processo Seletivo nº 02/2021 - <a href="" target="_blank" style="color:black; text-decoration:none">Coordenador(a) de Projetos</a> </h3>
 		            <strong>Inscrições: 12/08/2021 a 31/08/2021</strong>
 		            <hr/>
