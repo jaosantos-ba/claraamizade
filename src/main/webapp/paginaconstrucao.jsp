@@ -11,7 +11,7 @@
 		<nav class="navbar-light bg-verde ">
 		  <div class="container text-white">
 		    <i class="bi bi-house"></i>
-		    <a class="text-white fw-bold fs-6" href="http://www.claraamizade.org.br">Início</a>
+		    <a class="text-white fw-bold fs-6" href="https://www.claraamizade.org.br">Início</a>
 		  </div>
 		</nav>
 				

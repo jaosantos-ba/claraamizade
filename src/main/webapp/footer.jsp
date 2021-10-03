@@ -57,6 +57,12 @@
 							<a class="footer-lista" title="Quem somos" href=""><small>Estatutos</small></a>
 						</li>
 						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Organograma</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Quem somos" href=""><small>Atas de Reuniões</small></a>
+						</li>
+						<li class="footer-lista">
 							<a class="footer-lista" title="Quem somos" href=""><small>Diretoria</small></a>
 						</li>
 						<li class="footer-lista">

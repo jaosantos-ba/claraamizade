@@ -11,7 +11,7 @@
 		<nav class="navbar-light bg-verde ">
 		  <div class="container text-white">
 		    <i class="bi bi-house"></i>
-		    <a class="text-white fw-bold fs-6" href="http://www.claraamizade.org.br">Início</a>
+		    <a class="text-white fw-bold fs-6" href="https://www.claraamizade.org.br">Início</a>
 		    <i class="bi bi-arrow-right-short"></i>
 		    <a class="text-white fw-bold fs-6" style="text-decoration:none;">Trabalhe Conosco</a>
 		  </div>
@@ -23,7 +23,8 @@
 			  <br>
 		      <div class="">
 		        <h1 class="">Trabalhe Conosco</h1>
-		        <p class="">Informações sobre os processos seletivos da Clara Amizade.</p>
+		        <p class="">Se identificou com a missão da Clara Amizade, participe dos nossos processos seletivos ou envie seu currículo para o e-mail abaixo e faça parte do nosso banco de talentos. </p>
+		        <p class="">E-mail: <a class="" style="text-decoration: none;" href="mailto:rh@claraamizade.org.br">rh@claraamizade.org.br</a></p>
 		      </div>
 		      
 		      <!-- 
@@ -54,7 +55,8 @@
 		      <div class="row">
 	      		<div class="processoseletivo-item">
 		            <h3 class="parceria-item-title">Processo Seletivo nº 04/2021 - <a href="" target="_blank" style="color:black; text-decoration:none">Educador(a) Social de Teatro</a> </h3>
-		            <strong>Inscrições: 13/09/2021 a 19/09/2021</strong>
+		            <h5>Inscrições: 13/09/2021 a 19/09/2021</h5>
+		            <h6>Situação: Finalizado</h6>
 		            <hr/>
 		            <p>A Clara Amizade, associação ligada à Arquidiocese de Salvador, torna público o Processo Seletivo Simplificado, para contratação de um(a) Educador(a) Social de Teatro.</p>
 		          </div><!-- /.blog-post -->
@@ -72,7 +74,8 @@
 		      <div class="row">
 	      		<div class="processoseletivo-item">
 		            <h3 class="parceria-item-title">Processo Seletivo nº 03/2021 - <a href="" target="_blank" style="color:black; text-decoration:none">Educador(a) Social de Leitura</a> </h3>
-		            <strong>Inscrições: 13/09/2021 a 19/09/2021</strong>
+		            <h5>Inscrições: 13/09/2021 a 19/09/2021</h5>
+		            <h6>Situação: Finalizado</h6>
 		            <hr/>
 		            <p>A Clara Amizade, associação ligada à Arquidiocese de Salvador, torna público o Processo Seletivo Simplificado, para contratação de um(a) Educador(a) Social de Leitura.</p>
 		          </div><!-- /.blog-post -->
@@ -90,7 +93,8 @@
 		      <div class="row">
 	      		<div class="processoseletivo-item">
 		            <h3 class="parceria-item-title">Processo Seletivo nº 02/2021 - <a href="" target="_blank" style="color:black; text-decoration:none">Coordenador(a) de Projetos</a> </h3>
-		            <strong>Inscrições: 12/08/2021 a 31/08/2021</strong>
+		            <h5>Inscrições: 12/08/2021 a 31/08/2021</h5>
+		            <h6>Situação: Finalizado</h6>
 		            <hr/>
 		            <p>A Clara Amizade, associação ligada à Arquidiocese de Salvador, torna público o Processo Seletivo Simplificado, para contratação de um(a) Coordenador(a) de Projetos.</p>
 		          </div><!-- /.blog-post -->

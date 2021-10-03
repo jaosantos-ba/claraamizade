@@ -11,7 +11,7 @@
 		<nav class="navbar-light bg-verde ">
 		  <div class="container text-white">
 		    <i class="bi bi-house"></i>
-		    <a class="text-white fw-bold fs-6" href="http://www.claraamizade.org.br">Início</a>
+		    <a class="text-white fw-bold fs-6" href="https://www.claraamizade.org.br">Início</a>
 		    <i class="bi bi-arrow-right-short"></i>
 		    <a class="text-white fw-bold fs-6" style="text-decoration:none;">Institucional</a>
 		    <i class="bi bi-arrow-right-short"></i>
@@ -89,7 +89,7 @@
 	        	
 	        	<div class="col-sm-4 bg-verde">
 	        		<br>
-					<%@include file="/asidemvv.jsp"%>
+					<%@include file="../asidemvv.jsp"%>
 				</div><!-- /.blog-sidebar -->
 			  </div><!-- /.row -->
 			<hr style="border: 2px dashed black;" />

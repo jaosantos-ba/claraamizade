@@ -11,7 +11,7 @@
 		<nav class="navbar-light bg-verde ">
 		  <div class="container text-white">
 		    <i class="bi bi-house"></i>
-		    <a class="text-white fw-bold fs-6" href="http://www.claraamizade.org.br">Início</a>
+		    <a class="text-white fw-bold fs-6" href="https://www.claraamizade.org.br">Início</a>
 		    <i class="bi bi-arrow-right-short"></i>
 		    <a class="text-white fw-bold fs-6" style="text-decoration:none;">Projeto</a>
 		    <i class="bi bi-arrow-right-short"></i>
@@ -55,8 +55,9 @@
 			 <br>
 		      <div class="row">
 	      		<div class="parceria-item">
-		            <h3 class="parceria-item-title">Termo de Colaboração nº 018/2015 - <a href="http://www.sempre.salvador.ba.gov.br/" target="_blank" style="color:black; text-decoration:none">SEMPRE</a> </h3>
-		            Data: 17 de dezembro de 2020
+		            <h3 class="parceria-item-title">Termo de Colaboração nº 018/2018 - <a href="http://www.sempre.salvador.ba.gov.br/" target="_blank" style="color:black; text-decoration:none">SEMPRE</a> </h3>
+		            <h5>Data: 17 de dezembro de 2020</h5>
+		            <h6>Situação: Em andamento</h6>
 					<p class="parceria-item-publicacao">Publicado DOM: 7885/2020 em 31 de dezembro de 2020</p>
 		            <hr/>
 		            <p>Segundo Termo Aditivo ao Termo de Colaboração nº 018/2018 celebrado em 17/12/2020, entre o Município do Salvador - CNPJ nº 13.927.801/0001-49, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE e a Associação Os Amigos de Clara Amizade Brasil - Bahia - CNPJ nº 04.087.181/0001-96.</p>
@@ -95,14 +96,15 @@
 			 <br>
 		      <div class="row">
 	      		<div class="parceria-item">
-		            <h3 class="parceria-item-title">Termo de Colaboração nº 018/2015 - <a href="http://www.sempre.salvador.ba.gov.br/" target="_blank" style="color:black; text-decoration:none">SEMPRE</a> </h3>
-		            Data: 27 de fevereiro de 2018
+		            <h3 class="parceria-item-title">Termo de Colaboração nº 018/2018 - <a href="http://www.sempre.salvador.ba.gov.br/" target="_blank" style="color:black; text-decoration:none">SEMPRE</a> </h3>
+		            <h5>Data: 27 de fevereiro de 2018</h5>
+		            <h6>Situação: Em andamento</h6>
 					<p class="parceria-item-publicacao">Publicado DOM: 7057/2018 em 28 de fevereiro de 2018</p>
 		            <hr/>
 		            <p>Termo de Colaboração nº 018/2018 celebrado em 27/02/2018, entre o Município do Salvador - CNPJ nº 13.927.801/0001-49, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE e a Associação Os Amigos de Clara Amizade Brasil - Bahia - CNPJ nº 04.087.181/0001-96.</p>
 		          </div><!-- /.blog-post -->
 		          <div class="col align-items-center">
-		          	<a href="" target="_parent" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Colaboração</a>
+		          	<!-- <a href="" target="_parent" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Colaboração</a> -->
 			    	<a href="/doc/sempre/2018/dom_7057_20180228_pag_055.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Publicação no DOM</a>
 			      </div>
 		  	</div><!-- /.row -->
@@ -115,14 +117,15 @@
 		      <div class="row">
 	      		<div class="parceria-item">
 		            <h3 class="parceria-item-title">Convênio nº 033/2016 - <a href="http://www.sempre.salvador.ba.gov.br/" target="_blank" style="color:black; text-decoration:none">SEMPRE</a> </h3>
-		            Data: 
-					<p class="parceria-item-publicacao">Publicado DOM:</p>
+		            <h5>Data: 29 de dezembro de 2016</h5>
+		            <h6>Situação: Concluído</h6> 
+					<p class="parceria-item-publicacao">Publicado DOM: 6770/2017 em 28 de janeiro de 2017</p>
 		            <hr/>
 		            <p>Convênio nº 033/2016 celebrado entre o Município do Salvador - CNPJ nº 13.927.801/0001-49, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE e a Associação Os Amigos de Clara Amizade Brasil - Bahia - CNPJ nº 04.087.181/0001-96.</p>
 		          </div><!-- /.blog-post -->
 		          <div class="col align-items-center">
-			    	<a href="" target="_parent" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Colaboração</a>
-			    	<a href="" target="_parent" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Publicação no DOM</a>
+			    	<!-- <a href="" target="_parent" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Colaboração</a>  -->
+			    	<a href="/doc/sempre/2017/dom_6770_20170128_pag_024.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Publicação no DOM</a>
 			      </div>
 		  	</div><!-- /.row -->
 		  	<br>
@@ -134,13 +137,14 @@
 		      <div class="row">
 	      		<div class="parceria-item">
 		            <h3 class="parceria-item-title">Convênio nº 012/2015 - <a href="http://www.sempre.salvador.ba.gov.br/" target="_blank" style="color:black; text-decoration:none">SEMPRE</a> </h3>
-		            Data: 
+		            <h5>Data: 31 de julho de 2015</h5>
+		            <h6>Situação: Concluído</h6> 
 					<p class="parceria-item-publicacao">Publicado DOM: 6393/2015 em 05 de agosto de 2015</p>
 		            <hr/>
 		            <p>Convênio nº 012/2015 celebrado entre o Município do Salvador - CNPJ nº 13.927.801/0001-49, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE e a Associação Os Amigos de Clara Amizade Brasil - Bahia - CNPJ nº 04.087.181/0001-96.</p>
 		          </div><!-- /.blog-post -->
 		          <div class="col align-items-center">
-			    	<a href="" target="_parent" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Colaboração</a>
+			    	<!-- <a href="" target="_parent" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Colaboração</a> -->
 			    	<a href="/doc/sempre/2015/dom_6393_20150805_pag_029.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Publicação no DOM</a>
 			      </div>
 		  	</div><!-- /.row -->

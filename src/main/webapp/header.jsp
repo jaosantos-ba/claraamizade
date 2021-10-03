@@ -1,6 +1,10 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
+
 <html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="./css/index.css">
+	</head>
 	<body>
 		<header id="all-header">
 			<div class="">
@@ -39,17 +43,20 @@
 							    	<strong><small>ONDE ESTAMOS</small></strong>
 						        </a>
 							    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-						            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><small>Brasil</small></a></li>
-						            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><small>França</small></a></li>
-						            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><small>África</small></a></li>
-						            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><small>Camboja</small></a></li>
+						            <li><a class="dropdown-item" href="https://www.claireamitie.org/foyer/bresil-salvador-de-bahia/" target="_blank"><small>Brasil</small></a></li>
+						            <li><a class="dropdown-item" href="https://www.claireamitie.org/nos-actions/nos-foyers-en-france/" target="_blank"><small>França</small></a></li>
+						            <li><a class="dropdown-item" href="https://www.claireamitie.org/nos-foyers-a-linternational/claire-amitie-en-afrique/" target="_blank"><small>África</small></a></li>
+						            <li><a class="dropdown-item" href="https://www.claireamitie.org/foyer/cambodge-phnom-penh/" target="_blank"><small>Camboja</small></a></li>
 						          </ul>
+							  </li>
+							  <li class="nav-item border">
+							    <a class="nav-link text-success" href="/trabalheconosco.jsp"><strong><small>TRABALHE CONOSCO</small></strong></a>
 							  </li>
 							  <li class="nav-item border">
 							    <a class="nav-link text-success" href="/paginaconstrucao.jsp"><strong><small>CONTATO</small></strong></a>
 							  </li>
 							  <li class="nav-item border">
-							    <a class="nav-link text-white bg-laranja" href="/paginaconstrucao.jsp"><strong><small>SISTEMAS</small></strong></a>
+							    <a class="nav-link text-success" href="/paginaconstrucao.jsp"><strong><small>SISTEMAS</small></strong></a>
 							  </li>
 							</ul>
 					    </div>
@@ -58,8 +65,8 @@
 				</div>
 				
 				<div class="d-flex p-2 bd-highlight justify-content-center">
-					<a href="http://www.claraamizade.org.br" class="d-flex justify-content-center">
-						<img src="./img/index/logomarca.png" class="img-logomarca" alt="Logomarca">
+					<a href="https://www.claraamizade.org.br" class="d-flex justify-content-center">
+						<img src="../img/index/logomarca.png" class="img-logomarca" alt="Logomarca">
 					</a>
 				</div>
 				
@@ -77,14 +84,17 @@
 								<strong>INSTITUCIONAL</strong>			            
 					          </a>
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					            <li><a class="dropdown-item" href="/mainqsomos.jsp">Quem somos</a></li>
-					            <li><a class="dropdown-item" href="/mainmvv.jsp">Missão, Visão e Valores</a></li>
-					            <li><a class="dropdown-item" href="/mainestatuto.jsp">Estatutos</a></li>
-					            <li><a class="dropdown-item" href="/mainreunioes.jsp">Atas de Reuniões</a></li>
-					            <li><a class="dropdown-item" href="/maindiretoria.jsp">Diretoria</a></li>
-					            <li><a class="dropdown-item" href="/mainconsfiscal.jsp">Conselho Fiscal</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Equipe</a></li>
-					            <li><a class="dropdown-item" href="/mainparceiros.jsp">Parceiros</a></li>
+					            <li><a class="dropdown-item" href="/quemsomos.jsp">Quem somos</a></li>
+					            <li><a class="dropdown-item" href="/missaovisaovalores.jsp">Missão, Visão e Valores</a></li>
+					            <li><a class="dropdown-item" href="/estatutos.jsp">Estatutos</a></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Organograma</a></li>
+					            <li><a class="dropdown-item" href="/atasreunioes.jsp">Atas de Reuniões</a></li>
+					            <li><div class="dropdown-divider"></div></li>
+					            <li><a class="dropdown-item" href="/diretoria.jsp">Diretoria</a></li>
+					            <li><a class="dropdown-item" href="/conselhofiscal.jsp">Conselho Fiscal</a></li>
+					            <li><a class="dropdown-item" href="/equipe.jsp">Equipe</a></li>
+					            <li><div class="dropdown-divider"></div></li>
+					            <li><a class="dropdown-item" href="/parceiros.jsp">Parceiros</a></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Títulos e Registros</a></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Prêmios e Certificações</a></li>
 					          </ul>
@@ -110,8 +120,8 @@
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Pilares Educacionais (ODS)</a></li>
 					            <li><div class="dropdown-divider"></div></li>
 					            <li><a class="dropdown-item"><strong>PARCEIROS</strong></a></li>
-					            <li><a class="dropdown-item" href="/mainparcpriv.jsp">Parcerias Privadas</a></li>
-					            <li><a class="dropdown-item" href="/mainparcpub.jsp">Parcerias Públicas</a></li>
+					            <li><a class="dropdown-item" href="/parceriasprivadas.jsp">Parcerias Privadas</a></li>
+					            <li><a class="dropdown-item" href="/parceriaspublicas.jsp">Parcerias Públicas</a></li>
 					          </ul>
 					        </li>
 					        <li class="nav-item dropdown">
@@ -144,7 +154,7 @@
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Relatório Anual de Atividades</a></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Relatório Anual Financeiro</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Demonstrações Contábeis</a></li>
+					            <li><a class="dropdown-item" href="/demonstracoescontabeis.jsp">Demonstrações Contábeis</a></li>
 					          </ul>
 					        </li>
 					        <li class="nav-item">

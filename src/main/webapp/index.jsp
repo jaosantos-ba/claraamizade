@@ -332,7 +332,7 @@
 			        </div>
 			        <h2>Em breve histórias de nossos beneficiários</h2>
 			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-			        <a href="#" class="icon-link">
+			        <a href="#" class="icon-link" style="text-decoration: none;">
 			          Conheça a história
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
 			        </a>
@@ -344,7 +344,7 @@
 			        </div>
 			        <h2>Em breve histórias de nossos beneficiários</h2>
 			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-			        <a href="#" class="icon-link">
+			        <a href="#" class="icon-link" style="text-decoration: none;">
 			          Conheça a história
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
 			        </a>
@@ -356,7 +356,7 @@
 			        </div>
 			        <h2>Em breve histórias de nossos beneficiários</h2>
 			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-			        <a href="#" class="icon-link">
+			        <a href="#" class="icon-link" style="text-decoration: none;">
 			          Conheça a história
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
 			        </a>
@@ -376,7 +376,7 @@
 			        </div>
 			        <h2>Em breve depoimentos</h2>
 			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-			        <a href="#" class="icon-link">
+			        <a href="#" class="icon-link" style="text-decoration: none;">
 			          Veja o depoimento completo
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
 			        </a>
@@ -388,7 +388,7 @@
 			        </div>
 			        <h2>Em breve depoimentos</h2>
 			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-			        <a href="#" class="icon-link">
+			        <a href="#" class="icon-link" style="text-decoration: none;">
 			          Veja o depoimento completo
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
 			        </a>
@@ -400,7 +400,7 @@
 			        </div>
 			        <h2>Em breve depoimentos</h2>
 			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-			        <a href="#" class="icon-link">
+			        <a href="#" class="icon-link" style="text-decoration: none;">
 			          Veja o depoimento completo
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
 			        </a>

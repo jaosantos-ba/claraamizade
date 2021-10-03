@@ -11,11 +11,11 @@
 		<nav class="navbar-light bg-verde ">
 		  <div class="container text-white">
 		    <i class="bi bi-house"></i>
-		    <a class="text-white fw-bold fs-6" href="http://www.claraamizade.org.br">Início</a>
+		    <a class="text-white fw-bold fs-6" href="https://www.claraamizade.org.br">Início</a>
 		    <i class="bi bi-arrow-right-short"></i>
 		    <a class="text-white fw-bold fs-6" style="text-decoration:none;">Institucional</a>
 		    <i class="bi bi-arrow-right-short"></i>
-		    <a class="navbar-brand text-white fw-bold fs-6">Missão, Visão e Valores</a>
+		    <a class="navbar-brand text-white fw-bold fs-6">Conselho Fiscal</a>
 		  </div>
 		</nav>
 		
@@ -24,7 +24,7 @@
 			<div class="container">
 				<br>
 			      <div class="">
-			        <h1 class="">Missão, Visão e Valores</h1>
+			        <h1 class="">Conselho Fiscal - Gestão 2021/2024</h1>
 			        <hr style="border: 2px dashed black;" />
 			      </div>
 				
@@ -34,28 +34,28 @@
 			
 			          <div style="text-align: justify;">
 			            
-			            <h3><i class="bi bi-people"></i> Missão</h3>
-			            <h5>Promover a transformação na vida de crianças, adolescentes e jovens em situação de vulnerabilidade social, através do Programa de Educação Global e Capacitação Profissional.</h5>
-						<br>
+			            <h5>Titular Conselho Fiscal</h5>
+			            <h3><i class="bi bi-person-check"></i> José Carlos Vieira Machado</h3>
 						<hr>
 						
-						<h3><i class="bi bi-eye"></i> Visão</h3>
-	            		<h5>Ser reconhecida nacionalmente como instituição de excelência na formação global de pessoas em situação de vulnerabiidade social.</h5>
-	            		<br>
+						<h5>Titular Conselho Fiscal</h5>
+			            <h3><i class="bi bi-person-check"></i> José Alberto Montenegro Franco</h3>
 						<hr>
 						
-						<h3><i class="bi bi-suit-heart"></i> Valores</h3>
-			            <ul>
-			              <li><h5>Acolhida</h5></li>
-			              <li><h5>Respeito</h5></li>
-			              <li><h5>Ética</h5></li>
-			              <li><h5>Transparência</h5></li>
-			              <li><h5>Compromisso</h5></li>
-			              <li><h5>Inovação</h5></li>
-			              <li><h5>Flexibilidade</h5></li>
-			              <li><h5>Profissionalismo</h5></li>
-			            </ul>
-											
+						<h5>Titular Conselho Fiscal</h5>
+			            <h3><i class="bi bi-person-check"></i> Valter Cardoso dos Santos</h3>
+						<hr>
+						
+						<h5>Suplente Conselho Fiscal</h5>
+			            <h3><i class="bi bi-person-check"></i> Rozendo Ferreira Neto</h3>
+						<hr>
+						
+						<h5>Suplente Conselho Fiscal</h5>
+			            <h3><i class="bi bi-person-check"></i> Sandra de Jesus Dantas</h3>
+						<hr>
+						
+						<h5>Suplente Conselho Fiscal</h5>
+			            <h3><i class="bi bi-person-check"></i> Carine Marie Hebert</h3>
 						
 			          </div>
 			

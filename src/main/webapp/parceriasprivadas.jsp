@@ -11,7 +11,7 @@
 		<nav class="navbar-light bg-verde ">
 		  <div class="container text-white">
 		    <i class="bi bi-house"></i>
-		    <a class="text-white fw-bold fs-6" href="http://www.claraamizade.org.br">Início</a>
+		    <a class="text-white fw-bold fs-6" href="https://www.claraamizade.org.br">Início</a>
 		    <i class="bi bi-arrow-right-short"></i>
 		    <a class="text-white fw-bold fs-6" style="text-decoration:none;">Projeto</a>
 		    <i class="bi bi-arrow-right-short"></i>
@@ -56,7 +56,8 @@
 		      <div class="row">
 	      		<div class="parceria-item">
 		            <h3 class="parceria-item-title">Acordo de Parceiros SA-4001/2018 - <a href="http://especial2.redeglobo.globo.com/crianca-esperanca/713/detalhes" target="_blank" style="color:black; text-decoration:none">CRIANÇA ESPERANÇA</a> </h3>
-		            Data: 17 de dezembro de 2018
+		            <h5>Data: 17 de dezembro de 2018</h5>
+		            <h6>Situação: Finalizado</h6>
 		            <hr/>
 		            <p>Acordo de parceiros de implementação celebrado em 17/12/2018, entre Organização das Nações Unidas para Educação, Ciência e Cultural - UNESCO e a Associação Clara Amizade.</p>
 		          </div><!-- /.blog-post -->
@@ -64,7 +65,7 @@
 			    	<a href="/doc/criesp/2018/contrato_sa40012018.pdf" target="_blank" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-download"></i> Contrato</a>
 			    	<a href="/doc/criesp/2019/contrato_sa40012018_emenda.pdf" target="_blank" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-download"></i> Emenda</a>
 			      </div>
-		  	</div><!-- /.row -->
+		  		</div><!-- /.row -->
 		  	<br>
 		  	<hr style="border: 2px dashed black;" />
 		   </div><!-- /.container -->		   

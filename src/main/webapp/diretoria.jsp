@@ -11,11 +11,11 @@
 		<nav class="navbar-light bg-verde ">
 		  <div class="container text-white">
 		    <i class="bi bi-house"></i>
-		    <a class="text-white fw-bold fs-6" href="http://www.claraamizade.org.br">Início</a>
+		    <a class="text-white fw-bold fs-6" href="https://www.claraamizade.org.br">Início</a>
 		    <i class="bi bi-arrow-right-short"></i>
 		    <a class="text-white fw-bold fs-6" style="text-decoration:none;">Institucional</a>
 		    <i class="bi bi-arrow-right-short"></i>
-		    <a class="navbar-brand text-white fw-bold fs-6">Conselho Fiscal</a>
+		    <a class="navbar-brand text-white fw-bold fs-6">Diretoria</a>
 		  </div>
 		</nav>
 		
@@ -24,7 +24,7 @@
 			<div class="container">
 				<br>
 			      <div class="">
-			        <h1 class="">Conselho Fiscal - Gestão 2021/2024</h1>
+			        <h1 class="">Diretoria - Gestão 2021/2024</h1>
 			        <hr style="border: 2px dashed black;" />
 			      </div>
 				
@@ -34,28 +34,28 @@
 			
 			          <div style="text-align: justify;">
 			            
-			            <h5>Titular Conselho Fiscal</h5>
-			            <h3><i class="bi bi-person-check"></i> José Carlos Vieira Machado</h3>
+			            <h5>Presidente</h5>
+			            <h3><i class="bi bi-person-check"></i> Roberto Fiamenghi</h3>
 						<hr>
 						
-						<h5>Titular Conselho Fiscal</h5>
-			            <h3><i class="bi bi-person-check"></i> José Alberto Montenegro Franco</h3>
+						<h5>Vice-presidente</h5>
+			            <h3><i class="bi bi-person-check"></i> Joice Santana de Carvalho</h3>
 						<hr>
 						
-						<h5>Titular Conselho Fiscal</h5>
-			            <h3><i class="bi bi-person-check"></i> Valter Cardoso dos Santos</h3>
+						<h5>Secretária</h5>
+			            <h3><i class="bi bi-person-check"></i> Benedita de Araújo Ferreira</h3>
 						<hr>
 						
-						<h5>Suplente Conselho Fiscal</h5>
-			            <h3><i class="bi bi-person-check"></i> Rozendo Ferreira Neto</h3>
+						<h5>Secretário-adjunto</h5>
+			            <h3><i class="bi bi-person-check"></i> Edelson Ferreira dos Santos</h3>
 						<hr>
 						
-						<h5>Suplente Conselho Fiscal</h5>
-			            <h3><i class="bi bi-person-check"></i> Sandra de Jesus Dantas</h3>
+						<h5>Tesoureiro</h5>
+			            <h3><i class="bi bi-person-check"></i> Michel Jacques Marie Colin</h3>
 						<hr>
 						
-						<h5>Suplente Conselho Fiscal</h5>
-			            <h3><i class="bi bi-person-check"></i> Carine Marie Hebert</h3>
+						<h5>Tesoureiro-adjunto</h5>
+			            <h3><i class="bi bi-person-check"></i> Gerardine Nathalie Koffi</h3>
 						
 			          </div>
 			
