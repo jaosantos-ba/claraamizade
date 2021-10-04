@@ -50,10 +50,10 @@
 						          </ul>
 							  </li>
 							  <li class="nav-item border">
-							    <a class="nav-link text-success" href="/trabalheconosco.jsp"><strong><small>TRABALHE CONOSCO</small></strong></a>
+							    <a class="nav-link text-success" href="/paginaconstrucao.jsp"><strong><small>CONTATO</small></strong></a>
 							  </li>
 							  <li class="nav-item border">
-							    <a class="nav-link text-success" href="/paginaconstrucao.jsp"><strong><small>CONTATO</small></strong></a>
+							    <a class="nav-link text-success" href="/trabalheconosco.jsp"><strong><small>TRABALHE CONOSCO</small></strong></a>
 							  </li>
 							  <li class="nav-item border">
 							    <a class="nav-link text-success" href="/paginaconstrucao.jsp"><strong><small>SISTEMAS</small></strong></a>
@@ -152,8 +152,8 @@
 					            <strong>TRANSPARÊNCIA</strong>
 					          </a>
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Relatório Anual de Atividades</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Relatório Anual Financeiro</a></li>
+					            <li><a class="dropdown-item" href="/relatoriosdeatividades.jsp">Relatório Anual de Atividades</a></li>
+					            <li><a class="dropdown-item" href="/relatoriosfinanceiro.jsp">Relatório Anual Financeiro</a></li>
 					            <li><a class="dropdown-item" href="/demonstracoescontabeis.jsp">Demonstrações Contábeis</a></li>
 					          </ul>
 					        </li>

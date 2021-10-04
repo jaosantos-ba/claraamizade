@@ -51,69 +51,69 @@
 							<a class="footer-lista" title="Quem somos" href=""><small>Quem somos</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Missão, Visão e Valores</small></a>
+							<a class="footer-lista" title="Missão, Visão e Valores" href=""><small>Missão, Visão e Valores</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Estatutos</small></a>
+							<a class="footer-lista" title="Estatutos" href=""><small>Estatutos</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Organograma</small></a>
+							<a class="footer-lista" title="Organograma" href=""><small>Organograma</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Atas de Reuniões</small></a>
+							<a class="footer-lista" title="Atas de Reuniões" href=""><small>Atas de Reuniões</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Diretoria</small></a>
+							<a class="footer-lista" title="Diretoria" href=""><small>Diretoria</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Conselho Fiscal</small></a>
+							<a class="footer-lista" title="Conselho Fiscal" href=""><small>Conselho Fiscal</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Equipe</small></a>
+							<a class="footer-lista" title="Equipe" href=""><small>Equipe</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Parceiros</small></a>
+							<a class="footer-lista" title="Parceiros" href=""><small>Parceiros</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Títulos e Registros</small></a>
+							<a class="footer-lista" title="Títulos e Registros" href=""><small>Títulos e Registros</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Prêmios e Certificações</small></a>
-						</li>
-					</ul>
-					<ul>
-						<li class="footer-lista">
-							<a class="footer-lista" title="Institucional" href=""><strong>THÉRÈSE CORNILLE</strong></a>
-						</li>
-						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Vida</small></a>
-						</li>
-						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>História</small></a>
-						</li>
-						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Obra</small></a>
+							<a class="footer-lista" title="Prêmios e Certificações" href=""><small>Prêmios e Certificações</small></a>
 						</li>
 					</ul>
 					<ul>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Institucional" href=""><strong>PROJETO</strong></a>
+							<a class="footer-lista" title="Thérèse Cornille" href=""><strong>THÉRÈSE CORNILLE</strong></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Educação Global e Capacitação Profissional</small></a>
+							<a class="footer-lista" title="Vida" href=""><small>Vida</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Pilares Educacionais (ODS)</small></a>
+							<a class="footer-lista" title="História" href=""><small>História</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Obra" href=""><small>Obra</small></a>
+						</li>
+					</ul>
+					<ul>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Projeto" href=""><strong>PROJETO</strong></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Educação Global e Capacitação Profissional" href=""><small>Educação Global e Capacitação Profissional</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Pilares Educacionais (ODS)" href=""><small>Pilares Educacionais (ODS)</small></a>
 						</li>
 						<br>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Institucional" href=""><strong>PARCEIROS</strong></a>
+							<a class="footer-lista" title="Parceiros" href=""><strong>PARCEIROS</strong></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href="/parceriasprivadas.jsp"><small>Parcerias Privadas</small></a>
+							<a class="footer-lista" title="Parcerias Privadas" href="/parceriasprivadas.jsp"><small>Parcerias Privadas</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href="/parceriaspublicas.jsp"><small>Parcerias Públicas</small></a>
+							<a class="footer-lista" title="Parcerias Públicas" href="/parceriaspublicas.jsp"><small>Parcerias Públicas</small></a>
 						</li>
 					</ul>
 					<ul>
@@ -202,11 +202,11 @@
 							<!-- FINAL FORMULARIO BOTAO PAYPAL -->
 					    </div>
 					    <div class="col text-center d-grid gap-2">
-					    	<a href="" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-mic"></i> PODCAST</a>
-					    	<a href="/maintrabcon.jsp" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-person-plus"></i> TRABALHE CONOSCO</a>
+					    	<a href="#" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-mic"></i> PODCAST</a>
+					    	<a href="/trabalheconosco.jsp" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-person-plus"></i> TRABALHE CONOSCO</a>
 					    </div>
 					    <div class="col text-center">
-					    	<img src="./img/index/phomenta.png" class="img-certificado" alt="...">
+					    	<a href="https://www.phomenta.com.br/ong-certificada/clara-amizade" target="_blank"><img src="./img/index/phomenta.png" class="img-certificado" alt="..."></a>
 					    </div>
 					  </div>
 					  <hr>
