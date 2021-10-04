@@ -33,13 +33,13 @@
 								</ul>
 							</div>
 					    </div>
-					    <div class="col d-flex p-2 bd-highlight justify-content-end">
+					    <div class="col d-flex p-1 bd-highlight justify-content-end">
 							<ul class="nav justify-content-end">
 							  <li class="nav-item border">
-							    <a class="nav-link text-success" href="/paginaconstrucao.jsp"><strong><small>NOTÍCIAS</small></strong></a>
+							    <a class="nav-link text-success" href="/paginaconstrucao.jsp" style="font-size: 11px;"><strong><small>NOTÍCIAS</small></strong></a>
 							  </li>
 							  <li class="nav-item border">
-							    <a class="nav-link  text-success" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+							    <a class="nav-link  text-success" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="font-size: 11px;">
 							    	<strong><small>ONDE ESTAMOS</small></strong>
 						        </a>
 							    <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -50,13 +50,13 @@
 						          </ul>
 							  </li>
 							  <li class="nav-item border">
-							    <a class="nav-link text-success" href="/paginaconstrucao.jsp"><strong><small>CONTATO</small></strong></a>
+							    <a class="nav-link text-success" href="/paginaconstrucao.jsp" style="font-size: 11px;"><strong><small>CONTATO</small></strong></a>
 							  </li>
 							  <li class="nav-item border">
-							    <a class="nav-link text-success" href="/trabalheconosco.jsp"><strong><small>TRABALHE CONOSCO</small></strong></a>
+							    <a class="nav-link text-success" href="/trabalheconosco.jsp" style="font-size: 11px;"><strong><small>TRABALHE CONOSCO</small></strong></a>
 							  </li>
 							  <li class="nav-item border">
-							    <a class="nav-link text-success" href="/paginaconstrucao.jsp"><strong><small>SISTEMAS</small></strong></a>
+							    <a class="nav-link text-success" href="/paginaconstrucao.jsp" style="font-size: 11px;"><strong><small>SISTEMAS</small></strong></a>
 							  </li>
 							</ul>
 					    </div>
