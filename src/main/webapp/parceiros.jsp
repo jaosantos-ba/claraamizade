@@ -34,28 +34,28 @@
 					    	<img src="./img/institucional/parceiros/cai.png" style="width: 200px; height: 200px;" alt="...">
 					    </div>
 					    <div class="col text-center">
-					    	<img src="./img/institucional/parceiros/sempre.png" style="width: 200px; height: 200px;" alt="...">
+					    	<img src="./img/institucional/parceiros/sempre.png" style="width: 250px; height: 200px;" alt="...">
 					    </div>
 					    <div class="col text-center">
-					    	<img src="./img/institucional/parceiros/cmdca.png" style="width: 200px; height: 200px;" alt="...">
+					    	<img src="./img/institucional/parceiros/cmdca.png" style="width: 250px; height: 200px;" alt="...">
 					    </div>
 					    <div class="col text-center">
-					    	<img src="./img/institucional/parceiros/criesp.jpg" style="width: 200px; height: 200px;" alt="...">
+					    	<img src="./img/institucional/parceiros/criesp.jpg" style="width: 250px; height: 200px;" alt="...">
 					    </div>
 					  </div>
 					  <hr>
 					  <div class="row align-items-center">
 					    <div class="col text-center">
-					    	<img src="./img/institucional/parceiros/ekloos.jpg" style="width: 200px; height: 200px;" alt="...">
+					    	<img src="./img/institucional/parceiros/ekloos.jpg" style="width: 250px; height: 200px;" alt="...">
 					    </div>
 					    <div class="col text-center">
-					    	<img src="./img/institucional/parceiros/ucsal.png" style="width: 200px; height: 200px;" alt="...">
+					    	<img src="./img/institucional/parceiros/ucsal.png" style="width: 300px; height: 200px;" alt="...">
 					    </div>
 					    <div class="col text-center">
-					    	<img src="./img/institucional/parceiros/adveniat.jpg" style="width: 200px; height: 200px;" alt="...">
+					    	<img src="./img/institucional/parceiros/adveniat.jpg" style="width: 250px; height: 200px;" alt="...">
 					    </div>
 					    <div class="col text-center">
-					    	<img src="./img/institucional/parceiros/cieds.png" style="width: 200px; height: 200px;" alt="...">
+					    	<img src="./img/institucional/parceiros/cieds.png" style="width: 250px; height: 200px;" alt="...">
 					    </div>
 					  </div>
 					  <br>

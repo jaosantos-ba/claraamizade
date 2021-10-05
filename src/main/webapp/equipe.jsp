@@ -25,7 +25,7 @@
 				<br>
 			      <div class="">
 			        <h1 class="">Equipe Clara Amizade</h1>
-			        <p class="">Informações sobre as parcerias privadas celebradas pela Clara Amizade.</p>
+			        <p class="">Conheçam a equipe que executam todas as ações da Clara Amizade.</p>
 			        <hr style="border: 2px dashed black;" />
 			      </div>
 				
@@ -34,7 +34,7 @@
 			        <div class="col">
 			
 			          <div style="text-align: justify;">
-			          	<h2><strong>Missionárias</strong></h2>
+			          	<h2><strong>Orientadoras Missionárias</strong></h2>
 			          	<hr>
 			          	<table style="list-style: none; display: block;">
 			          		<tr>
@@ -63,7 +63,7 @@
 			          			<td style="display: block;">
 					            	<ul>
 					            		<h3 style="text-align: left;">Rosalie Faye</h3>
-						            	<h4 style="text-align: left;">Coordenadora Missionária</h4>
+						            	<h4 style="text-align: left;">Orientadora</h4>
 						            	<h6 style="text-align: left;">E-mail: <a href="mailto:rosalie.faye@claraamizade.org.br" style="text-decoration: none;">rosalie.faye@claraamizade.org.br</a></h6>
 						            	<hr>
 					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
@@ -82,7 +82,7 @@
 			          			<td style="display: block;">
 					            	<ul>
 					            		<h3 style="text-align: left;">Carine Hebert</h3>
-						            	<h4 style="text-align: left;">Coordenadora Missionária</h4>
+						            	<h4 style="text-align: left;">Orientadora</h4>
 						            	<h6 style="text-align: left;">E-mail: <a href="mailto:carine.hebert@claraamizade.org.br" style="text-decoration: none;">carine.hebert@claraamizade.org.br</a></h6>
 						            	<hr>
 					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
