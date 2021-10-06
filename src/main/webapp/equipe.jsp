@@ -44,7 +44,7 @@
 			          			<td style="display: block;">
 					            	<ul>
 					            		<h3 style="text-align: left;">Gerardine Koffi</h3>
-						            	<h4 style="text-align: left;">Coordenadora Institucional</h4>
+						            	<h4 style="text-align: left;">Orientadora Institucional</h4>
 						            	<h6 style="text-align: left;">E-mail: <a href="mailto:gerardine.koffi@claraamizade.org.br" style="text-decoration: none;">gerardine.koffi@claraamizade.org.br</a></h6>
 						            	<hr>
 					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
@@ -77,7 +77,7 @@
 			          	<table style="list-style: none; display: block;">
 			          		<tr>
 			          			<td>
-			          				<img src="./img/equipe/sem_foto.jpg" alt="..." width="160px" height="210px" border="1px">
+			          				<img src="./img/equipe/carine_hebert.png" alt="..." width="160px" height="210px" border="1px">
 			          			</td>
 			          			<td style="display: block;">
 					            	<ul>
@@ -231,7 +231,7 @@
 			          	<table style="list-style: none; display: block;">
 			          		<tr>
 			          			<td>
-			          				<img src="./img/equipe/sem_foto.jpg" alt="..." width="160px" height="210px" border="1px">
+			          				<img src="./img/equipe/gabriela_vieira.png" alt="..." width="160px" height="210px" border="1px">
 			          			</td>
 			          			<td style="display: block;">
 					            	<ul>
@@ -309,7 +309,7 @@
 			          	<table style="list-style: none; display: block;">
 			          		<tr>
 			          			<td>
-			          				<img src="./img/equipe/sem_foto.jpg" alt="..." width="160px" height="210px" border="1px">
+			          				<img src="./img/equipe/everton_nova.png" alt="..." width="160px" height="210px" border="1px">
 			          			</td>
 			          			<td style="display: block;">
 					            	<ul>
@@ -328,7 +328,7 @@
 			          	<table style="list-style: none; display: block;">
 			          		<tr>
 			          			<td>
-			          				<img src="./img/equipe/sem_foto.jpg" alt="..." width="160px" height="210px" border="1px">
+			          				<img src="./img/equipe/valdirene_fiaz.png" alt="..." width="160px" height="210px" border="1px">
 			          			</td>
 			          			<td style="display: block;">
 					            	<ul>
@@ -406,7 +406,7 @@
 			          	<table style="list-style: none; display: block;">
 			          		<tr>
 			          			<td>
-			          				<img src="./img/equipe/sem_foto.jpg" alt="..." width="160px" height="210px" border="1px">
+			          				<img src="./img/equipe/patricia_santos.png" alt="..." width="160px" height="210px" border="1px">
 			          			</td>
 			          			<td style="display: block;">
 					            	<ul>
