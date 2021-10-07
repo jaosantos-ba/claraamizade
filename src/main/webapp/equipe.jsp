@@ -39,7 +39,7 @@
 			          	<table style="list-style: none; display: block;">
 			          		<tr>
 			          			<td>
-			          				<img src="./img/equipe/sem_foto.jpg" alt="..." width="160px" height="210px" border="1px">
+			          				<img src="./img/equipe/gerardine_koffi.png" alt="..." width="160px" height="210px" border="1px">
 			          			</td>
 			          			<td style="display: block;">
 					            	<ul>
@@ -250,7 +250,7 @@
 			          	<table style="list-style: none; display: block;">
 			          		<tr>
 			          			<td>
-			          				<img src="./img/equipe/sem_foto.jpg" alt="..." width="160px" height="210px" border="1px">
+			          				<img src="./img/equipe/carlos_fragoso.png" alt="..." width="160px" height="210px" border="1px">
 			          			</td>
 			          			<td style="display: block;">
 					            	<ul>
@@ -269,7 +269,7 @@
 			          	<table style="list-style: none; display: block;">
 			          		<tr>
 			          			<td>
-			          				<img src="./img/equipe/sem_foto.jpg" alt="..." width="160px" height="210px" border="1px">
+			          				<img src="./img/equipe/dadiele_cardoso.png" alt="..." width="160px" height="210px" border="1px">
 			          			</td>
 			          			<td style="display: block;">
 					            	<ul>
