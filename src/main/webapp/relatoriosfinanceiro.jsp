@@ -55,7 +55,7 @@
 		      <div class="row">
 	      		<div class="parceria-item">
 		            <h3 class="parceria-item-title">Exercício 2020</h3>
-		            <h6>Resumo: </h6>
+		            <h6></h6>
 		            <hr/>
 		            <p>Clique para ter acesso ao relatório anual financeiro.</p>
 		          </div><!-- /.blog-post -->
@@ -72,7 +72,7 @@
 		      <div class="row">
 	      		<div class="parceria-item">
 		            <h3 class="parceria-item-title">Exercício 2019</h3>
-		            <h6>Resumo: </h6>
+		            <h6></h6>
 		            <hr/>
 		            <p>Clique para ter acesso ao relatório anual financeiro.</p>
 		          </div><!-- /.blog-post -->
@@ -89,7 +89,7 @@
 		      <div class="row">
 	      		<div class="parceria-item">
 		            <h3 class="parceria-item-title">Exercício 2018</h3>
-		            <h6>Resumo: </h6>
+		            <h6></h6>
 		            <hr/>
 		            <p>Clique para ter acesso ao relatório anual financeiro.</p>
 		          </div><!-- /.blog-post -->
@@ -106,7 +106,7 @@
 		      <div class="row">
 	      		<div class="parceria-item">
 		            <h3 class="parceria-item-title">Exercício 2017</h3>
-		            <h6>Resumo: </h6>
+		            <h6></h6>
 		            <hr/>
 		            <p>Clique para ter acesso ao relatório anual financeiro.</p>
 		          </div><!-- /.blog-post -->
@@ -123,7 +123,7 @@
 		      <div class="row">
 	      		<div class="parceria-item">
 		            <h3 class="parceria-item-title">Exercício 2016</h3>
-		            <h6>Resumo: </h6>
+		            <h6></h6>
 		            <hr/>
 		            <p>Clique para ter acesso ao relatório anual financeiro.</p>
 		          </div><!-- /.blog-post -->

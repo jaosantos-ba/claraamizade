@@ -87,7 +87,7 @@
 					            <li><a class="dropdown-item" href="/quemsomos.jsp">Quem somos</a></li>
 					            <li><a class="dropdown-item" href="/missaovisaovalores.jsp">Missão, Visão e Valores</a></li>
 					            <li><a class="dropdown-item" href="/estatutos.jsp">Estatutos</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Organograma</a></li>
+					            <li><a class="dropdown-item" href="/organograma.jsp">Organograma</a></li>
 					            <li><a class="dropdown-item" href="/atasreunioes.jsp">Atas de Reuniões</a></li>
 					            <li><div class="dropdown-divider"></div></li>
 					            <li><a class="dropdown-item" href="/diretoria.jsp">Diretoria</a></li>
@@ -116,8 +116,8 @@
 					            <strong>PROJETO</strong>
 					          </a>
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Educação Global e Capacitação Profissional</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Pilares Educacionais (ODS)</a></li>
+					            <li><a class="dropdown-item" href="/projetoeducacaoglobal.jsp">Educação Global e Capacitação Profissional</a></li>
+					            <li><a class="dropdown-item" href="/pilareseducacionais.jsp">Pilares Educacionais (ODS)</a></li>
 					            <li><div class="dropdown-divider"></div></li>
 					            <li><a class="dropdown-item"><strong>PARCEIROS</strong></a></li>
 					            <li><a class="dropdown-item" href="/parceriasprivadas.jsp">Parcerias Privadas</a></li>

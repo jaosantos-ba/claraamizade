@@ -71,43 +71,43 @@
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#bootstrap"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-white">+5.000</h4>
-			          <p class="text-white">Jovens atendidas desde o início das atividades.</p>
+			          <h3 class="fw-bold mb-0 text-white">+ de 2.466</h3>
+			          <p class="text-white">beneficiários atendidos de 2015 a 2021</p>
 			        </div>
 			      </div>
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#cpu-fill"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-verde">+5.000</h4>
-			          <p class="text-verde">Jovens atendidas desde o início das atividades.</p>
+			          <h3 class="fw-bold mb-0 text-white">+ de 3.367</h3>
+			          <p class="text-white">cursos ofertados de 2015 a 2021</p>
 			        </div>
 			      </div>
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-verde">+5.000</h4>
-			          <p class="text-verde">Jovens atendidas desde o início das atividades.</p>
+			          <h3 class="fw-bold mb-0 text-white">+ de 22 toneladas</h3>
+			          <p class="text-white">de alimentos doados de 2020 a 2021</p>
 			        </div>
 			      </div>
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#home"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-verde">+5.000</h4>
-			          <p class="text-verde">Jovens atendidas desde o início das atividades.</p>
+			          <h3 class="fw-bold mb-0 text-white">+ de 4.000</h3>
+			          <p class="text-white">quentinhas de refeições doadas de 2020 a 2021</p>
 			        </div>
 			      </div>
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#speedometer2"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-verde">+5.000</h4>
-			          <p class="text-verde">Jovens atendidas desde o início das atividades.</p>
+			          <h3 class="fw-bold mb-0 text-white">+ de 500 kits</h3>
+			          <p class="text-white">de higiene e limpeza doados de 2020 a 2021</p>
 			        </div>
 			      </div>
 			      <div class="col d-flex align-items-start">
 			        <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#toggles2"/></svg>
 			        <div>
-			          <h4 class="fw-bold mb-0 text-verde">+5.000</h4>
-			          <p class="text-verde">Jovens atendidas desde o início das atividades.</p>
+			          <h3 class="fw-bold mb-0 text-white">+ de 300 kits</h3>
+			          <p class="text-white">entregues para realização de cursos de 2020 a 2021</p>
 			        </div>
 			      </div>
 			    </div>
@@ -122,7 +122,7 @@
 			      <div class="col">
 			        <div class="card card-cover h-100 overflow-hidden bg-verde rounded-5 shadow-lg" style="background-image: url('./img/index/therese.jpg'); background-size: auto; background-position: center;">
 			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-warning">Vida</h2>
+			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-laranja">Vida</h2>
 			          </div>
 			        </div>
 			      </div>
@@ -130,7 +130,7 @@
 			      <div class="col">
 			        <div class="card card-cover h-100 overflow-hidden bg-verde rounded-5 shadow-lg" style="background-image: url('./img/index/therese.jpg'); background-size: auto; background-position: center;">
 			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-warning">História</h2>
+			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-laranja">História</h2>
 			          </div>
 			        </div>
 			      </div>
@@ -138,7 +138,7 @@
 			      <div class="col">
 			        <div class="card card-cover h-100 overflow-hidden bg-verde rounded-5 shadow-lg" style="background-image: url('./img/index/therese.jpg'); background-size: auto; background-position: center;">
 			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-warning">Obra</h2>
+			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-laranja">Obra</h2>
 			          </div>
 			        </div>
 			      </div>
@@ -154,12 +154,15 @@
 			      </div>
 			      <div class="col-lg-6">
 			        <h1 class="display-5 fw-bold lh-1 mb-3 text-white">Nosso Projeto</h1>
-			        <p class="lead text-white" style="text-align: justify;">O Programa de Educação Global e Capacitação Profissional, mantido de forma contínua
-						pela Claire Amitié Internationale (CAI) propõe o desenvolvimento global de crianças, adolescentes e jovens,
-						entre 08 e 29 anos, em situação de vulnerabilidade social a fim de favorecer a promoção humana e cidadã, 
-						tecnológica, profissional, artística, cultural e ambiental dos participantes.</p>
+			        <p class="lead text-white" style="text-align: justify;">O Programa de Educação Global e
+						Capacitação Profissional da Associação Clara Amizade é mantido
+						de forma contínua pela Claire Amitié Internationale (CAI) e propõe o
+						desenvolvimento global de crianças, adolescentes e jovens entre 08
+						e 29 anos de idade, em situação de vulnerabilidade social, a fim de
+						favorecer a promoção humana e cidadã, tecnológica, profissional,
+						artística, cultural e ambiental dos participantes.</p>
 			        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-			          <button type="button" class="btn btn-success btn-lg px-4 me-md-2">Saiba mais</button>
+			          <button type="button" class="btn btn-success btn-lg px-4 me-md-2" onclick="window.location.href='/projetoeducacaoglobal.jsp'">Saiba mais</button>
 			        </div>
 			      </div>
 			    </div>
