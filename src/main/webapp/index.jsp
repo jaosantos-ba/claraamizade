@@ -419,7 +419,9 @@
 			  </div>
 		</main>
 		
-		<%@include file="footer.jsp"%>
+		<footer>
+			<%@include file="footer.jsp"%>
+		</footer>
 				
 		<!-- Bootstrap JavaScript -->
 		<%@include file="script.jsp"%>

@@ -50,7 +50,7 @@
 						          </ul>
 							  </li>
 							  <li class="nav-item border">
-							    <a class="nav-link text-success" href="/paginaconstrucao.jsp" style="font-size: 11px;"><strong><small>CONTATO</small></strong></a>
+							    <a class="nav-link text-success" href="/contato.jsp" style="font-size: 11px;"><strong><small>CONTATO</small></strong></a>
 							  </li>
 							  <li class="nav-item border">
 							    <a class="nav-link text-success" href="/trabalheconosco.jsp" style="font-size: 11px;"><strong><small>TRABALHE CONOSCO</small></strong></a>
