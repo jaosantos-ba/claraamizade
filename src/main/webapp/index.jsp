@@ -19,7 +19,7 @@
 			  </div>
 			  <div class="carousel-inner">
 			    <div class="carousel-item active">
-			      <a href="https://www.npb.sefaz.ba.gov.br/sistemas/nbpp/" target="_blank"><img src="./img/index/carrossel1.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <a href="/notapremiada.jsp"><img src="./img/index/carrossel1.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5></h5>
 			        <p></p>

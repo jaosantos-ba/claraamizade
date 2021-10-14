@@ -15,7 +15,7 @@
 		    <i class="bi bi-arrow-right-short"></i>
 		    <a class="text-white fw-bold fs-6" style="text-decoration:none;">Como Ajudar</a>
 		    <i class="bi bi-arrow-right-short"></i>
-		    <a class="navbar-brand text-white fw-bold fs-6">Nota Premiada</a>
+		    <a class="navbar-brand text-white fw-bold fs-6">Nota Premiada Bahia</a>
 		  </div>
 		</nav>
 		
@@ -34,7 +34,7 @@
 			
 			          <div style="text-align: justify;">
 			            
-			            <h5>Ajude a Clara Amizade doando sua nota fiscal eletrônica e concorra a prêmios de até R$ 1 milhão.</h5>
+			            <h5>Ajude a Clara Amizade doando sua nota fiscal e concorra a prêmios de até R$ 1 milhão.</h5>
 			            <br>
 			            <div style="display: block; text-align: center;"><a href="https://www.npb.sefaz.ba.gov.br/sistemas/nbpp/inicio" target="_blank"><img alt="" src="/img/comoajudar/notapremiada.png"></a></div>
 			            <br>
