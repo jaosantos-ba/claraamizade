@@ -134,7 +134,7 @@
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Doe agora</a></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Doação de produtos/bens</a></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Doação com Incentivo Fiscal</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Nota Premiada Bahia</a></li>
+					            <li><a class="dropdown-item" href="/notapremiada.jsp">Nota Premiada Bahia</a></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Seja voluntário</a></li>
 					            <li><div class="dropdown-divider"></div></li>
 					            <li><a class="dropdown-item"><strong>SÓCIO CONTRIBUINTE</strong></a></li>
