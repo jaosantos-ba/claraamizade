@@ -49,37 +49,37 @@
 							<a class="footer-lista" title="Institucional" href=""><strong>INSTITUCIONAL</strong></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Quem somos</small></a>
+							<a class="footer-lista" title="Quem somos" href="/quemsomos.jsp"><small>Quem somos</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Missão, Visão e Valores" href=""><small>Missão, Visão e Valores</small></a>
+							<a class="footer-lista" title="Missão, Visão e Valores" href="/missaovisaovalores.jsp"><small>Missão, Visão e Valores</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Estatutos" href=""><small>Estatutos</small></a>
+							<a class="footer-lista" title="Estatutos" href="/estatutos.jsp"><small>Estatutos</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Organograma" href=""><small>Organograma</small></a>
+							<a class="footer-lista" title="Organograma" href="/organograma.jsp"><small>Organograma</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Atas de Reuniões" href=""><small>Atas de Reuniões</small></a>
+							<a class="footer-lista" title="Atas de Reuniões" href="/atasreunioes.jsp"><small>Atas de Reuniões</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Diretoria" href=""><small>Diretoria</small></a>
+							<a class="footer-lista" title="Diretoria" href="/diretoria.jsp"><small>Diretoria</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Conselho Fiscal" href=""><small>Conselho Fiscal</small></a>
+							<a class="footer-lista" title="Conselho Fiscal" href="/conselhofiscal.jsp"><small>Conselho Fiscal</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Equipe" href=""><small>Equipe</small></a>
+							<a class="footer-lista" title="Equipe" href="/equipe.jsp"><small>Equipe</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Parceiros" href=""><small>Parceiros</small></a>
+							<a class="footer-lista" title="Parceiros" href="/parceiros.jsp"><small>Parceiros</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Títulos e Registros" href=""><small>Títulos e Registros</small></a>
+							<a class="footer-lista" title="Títulos e Registros" href="/paginaconstrucao.jsp"><small>Títulos e Registros</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Prêmios e Certificações" href=""><small>Prêmios e Certificações</small></a>
+							<a class="footer-lista" title="Prêmios e Certificações" href="/paginaconstrucao.jsp"><small>Prêmios e Certificações</small></a>
 						</li>
 					</ul>
 					<ul>
@@ -87,13 +87,10 @@
 							<a class="footer-lista" title="Thérèse Cornille" href=""><strong>THÉRÈSE CORNILLE</strong></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Vida" href=""><small>Vida</small></a>
+							<a class="footer-lista" title="História" href="/theresecornille-historia.jsp"><small>História</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="História" href=""><small>História</small></a>
-						</li>
-						<li class="footer-lista">
-							<a class="footer-lista" title="Obra" href=""><small>Obra</small></a>
+							<a class="footer-lista" title="Obra" href="/theresecornille-livros.jsp"><small>Livros</small></a>
 						</li>
 					</ul>
 					<ul>
@@ -101,10 +98,10 @@
 							<a class="footer-lista" title="Projeto" href=""><strong>PROJETO</strong></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Educação Global e Capacitação Profissional" href=""><small>Educação Global e Capacitação Profissional</small></a>
+							<a class="footer-lista" title="Educação Global e Capacitação Profissional" href="/projetoeducacaoglobal.jsp"><small>Educação Global e Capacitação Profissional</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Pilares Educacionais (ODS)" href=""><small>Pilares Educacionais (ODS)</small></a>
+							<a class="footer-lista" title="Pilares Educacionais (ODS)" href="/pilareseducacionais.jsp"><small>Pilares Educacionais (ODS)</small></a>
 						</li>
 						<br>
 						<li class="footer-lista">
@@ -119,42 +116,42 @@
 					</ul>
 					<ul>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Institucional" href=""><strong>COMO AJUDAR</strong></a>
+							<a class="footer-lista" title="Institucional" href="/paginaconstrucao.jsp"><strong>COMO AJUDAR</strong></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Doe agora</small></a>
+							<a class="footer-lista" title="Quem somos" href="/paginaconstrucao.jsp"><small>Doe agora</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Doação de produtos/bens</small></a>
+							<a class="footer-lista" title="Quem somos" href="/paginaconstrucao.jsp"><small>Doação de produtos/bens</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Doação com incentivo fiscal</small></a>
+							<a class="footer-lista" title="Quem somos" href="/paginaconstrucao.jsp"><small>Doação com incentivo fiscal</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Nota Premiada Bahia</small></a>
+							<a class="footer-lista" title="Quem somos" href="/notapremiada.jsp"><small>Nota Premiada Bahia</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Seja voluntário</small></a>
+							<a class="footer-lista" title="Quem somos" href="/paginaconstrucao.jsp"><small>Seja voluntário</small></a>
 						</li>
 						<br>
 						<li class="footer-lista">
 							<a class="footer-lista" title="Institucional" href=""><strong>SÓCIO CONTRIBUINTE</strong></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Seja um sócio contribuinte</small></a>
+							<a class="footer-lista" title="Quem somos" href="/paginaconstrucao.jsp"><small>Seja um sócio contribuinte</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Benefícios do sócio contribuinte</small></a>
+							<a class="footer-lista" title="Quem somos" href="/paginaconstrucao.jsp"><small>Benefícios do sócio contribuinte</small></a>
 						</li>
 						<br>
 						<li class="footer-lista">
 							<a class="footer-lista" title="Institucional" href=""><strong>CAMPANHAS</strong></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Padrinho Amigo</small></a>
+							<a class="footer-lista" title="Quem somos" href="/paginaconstrucao.jsp"><small>Padrinho Amigo</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Parceiro Amigo</small></a>
+							<a class="footer-lista" title="Quem somos" href="/paginaconstrucao.jsp"><small>Parceiro Amigo</small></a>
 						</li>
 					</ul>
 					<ul>
@@ -162,13 +159,13 @@
 							<a class="footer-lista" title="Institucional" href=""><strong>TRANSPARÊNCIA</strong></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Relatório Anual de Atividades</small></a>
+							<a class="footer-lista" title="Quem somos" href="/relatoriosdeatividades.jsp"><small>Relatório Anual de Atividades</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Relatório Anual Financeiro</small></a>
+							<a class="footer-lista" title="Quem somos" href="/relatoriosfinanceiro.jsp"><small>Relatório Anual Financeiro</small></a>
 						</li>
 						<li class="footer-lista">
-							<a class="footer-lista" title="Quem somos" href=""><small>Demonstrações Contábeis</small></a>
+							<a class="footer-lista" title="Quem somos" href="/demonstracoescontabeis.jsp"><small>Demonstrações Contábeis</small></a>
 						</li>
 					</ul>
 					</div>

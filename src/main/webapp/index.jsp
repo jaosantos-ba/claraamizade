@@ -118,11 +118,11 @@
 			<div class="container px-4 py-5 bg-white" id="custom-cards">
 			    <h2 class="pb-2 text-center text-dark">Thérèse Cornille</h2>
 			
-			    <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
+			    <div class="row row-cols-1 row-cols-lg-2 align-items-stretch g-4 py-5">
 			      <div class="col">
 			        <div class="card card-cover h-100 overflow-hidden bg-verde rounded-5 shadow-lg" style="background-image: url('./img/index/therese.jpg'); background-size: auto; background-position: center;">
 			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-laranja">Vida</h2>
+			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-laranja"><a class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-laranja" href="/theresecornille-historia.jsp" style="text-decoration: none;">História</a></h2>
 			          </div>
 			        </div>
 			      </div>
@@ -130,15 +130,7 @@
 			      <div class="col">
 			        <div class="card card-cover h-100 overflow-hidden bg-verde rounded-5 shadow-lg" style="background-image: url('./img/index/therese.jpg'); background-size: auto; background-position: center;">
 			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-laranja">História</h2>
-			          </div>
-			        </div>
-			      </div>
-			
-			      <div class="col">
-			        <div class="card card-cover h-100 overflow-hidden bg-verde rounded-5 shadow-lg" style="background-image: url('./img/index/therese.jpg'); background-size: auto; background-position: center;">
-			          <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-laranja">Obra</h2>
+			            <h2 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-laranja"><a class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold text-laranja" href="/theresecornille-livros.jsp" style="text-decoration: none;">Livros</a></h2>
 			          </div>
 			        </div>
 			      </div>
@@ -177,11 +169,11 @@
 			      
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="./img/index/oficina1.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/oficina1-1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <h5>Artesanato e Pintura</h5>
 			              <hr>
-			              <p class="card-text" style="text-align: justify;">Favorecer que as crianças e adolescentes despertem prazer pela aprendizagem através das artes e ludicidade, utilizando materiais recicláveis.</p>
+			              <p class="card-text" style="text-align: justify;">Proporciona o aprendizado de diferentes técnicas utilizando materiais recicláveis e favorece o desenvolvimento motor, psicológico e criativo das crianças e adolescentes através das artes e da ludicidade.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
 			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
@@ -193,27 +185,11 @@
 			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="./img/index/oficina2.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/oficina2-1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
-			              <h5>Maquiagem</h5>
+			              <h5>Beleza Afro: Maquiagem, Tranças Africanas, Penteados e Mega Hair</h5>
 			              <hr>
-			              <p class="card-text" style="text-align: justify;">Favorecer que as adolescentes e jovens despertem prazer pela aprendizagem através maquiagem, refletindo na autoestima de cada participante.</p>
-			              <div class="d-flex justify-content-between align-items-center">
-			                <div class="btn-group">
-			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
-			                </div>
-			              </div>
-			            </div>
-			          </div>
-			        </div>
-			        
-			        <div class="col">
-			          <div class="card shadow-sm">
-			          	<img src="./img/index/oficina3.jpg" class="img-fluid imagem-oficina" alt="...">
-			            <div class="card-body">
-			              <h5>Tranças Africanas</h5>
-			              <hr>
-			              <p class="card-text" style="text-align: justify;">Favorecer que as adolescentes e jovens despertem prazer pela aprendizagem através tranças africanas, refletindo na autoestima de cada participante.</p>
+			              <p class="card-text" style="text-align: justify;">Proporcionam a valorização da estética negra a partir de diversas técnicas de embelezamento e a capacitação profissional, refletindo na autoestima de cada participante.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
 			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
@@ -225,11 +201,12 @@
 			
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="./img/index/oficina4.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/oficina3-0.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <h5>Manicure e Pedicure</h5>
 			              <hr>
-			              <p class="card-text" style="text-align: justify;">Favorecer que as adolescentes e jovens despertem prazer pela aprendizagem através da manicure e pedicure, refletindo em sua autoestima.</p>
+			              <p class="card-text" style="text-align: justify;">Promove a aprendizagem de técnicas de embelezamento das unhas das mãos e dos pés e a possibilidade de profissionalização para atuação no mercado de trabalho.</p>
+			              <br>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
 			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
@@ -241,11 +218,12 @@
 			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="./img/index/oficina5.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/oficina4-0.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <h5>Design de Sobracelha</h5>
 			              <hr>
-			              <p class="card-text" style="text-align: justify;">Favorecer que as adolescentes e jovens despertem prazer pela aprendizagem através da design de sobrancelha, refletindo em sua autoestima.</p>
+			              <p class="card-text" style="text-align: justify;">Promove a aprendizagem de técnicas de embelezamento de sobrancelhas e a possibilidade das participantes se profissionalizarem para atuação no mercado de trabalho.</p>
+			              <br>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
 			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
@@ -257,11 +235,11 @@
 			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="./img/index/oficina6.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/oficina5-0.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <h5>Dança</h5>
 			              <hr>
-			              <p class="card-text" style="text-align: justify;">Desenvolver expressão corporal, imaginação, integração, trabalho em equipe, cooperação, autoconfiança, autoestima, aulas práticas e ensaios.</p>
+			              <p class="card-text" style="text-align: justify;">Promove o desenvolvimento de aspectos fundamentais como expressão corporal, imaginação, integração, trabalho em equipe, cooperação, autoconfiança, autoestima por meio de aulas práticas e ensaios.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
 			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
@@ -273,11 +251,13 @@
 			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="./img/index/oficina7.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/oficina6-1.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <h5>Informática</h5>
 			              <hr>
-			              <p class="card-text" style="text-align: justify;">Proporcionar aos participantes conhecimentos básicos, através da inclusão sociodigital para realização das tarefas escolares.</p>
+			              <p class="card-text" style="text-align: justify;">Promove o protagonismo infanto-juvenil, incentivando a utilização dos conhecimentos digitais básicos para realização das tarefas escolares.</p>
+			              <br>
+			              <br>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
 			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
@@ -289,11 +269,11 @@
 			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="./img/index/oficina8.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/oficina7-0.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <h5>Inglês</h5>
 			              <hr>
-			              <p class="card-text" style="text-align: justify;">Proporcionar aos educandos o ambiente conectivo e cultural, através da aprendizagem sociolúdica de conversações básicas do Inglês.</p>
+			              <p class="card-text" style="text-align: justify;">Proporciona aos educandos um ambiente conectivo e cultural através da aprendizagem sociolúdica de conversações básicas do inglês.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
 			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
@@ -305,11 +285,27 @@
 			        
 			        <div class="col">
 			          <div class="card shadow-sm">
-			          	<img src="./img/index/oficina9.jpg" class="img-fluid imagem-oficina" alt="...">
+			          	<img src="./img/index/oficina8-0.jpg" class="img-fluid imagem-oficina" alt="...">
 			            <div class="card-body">
 			              <h5>Programação</h5>
 			              <hr>
-			              <p class="card-text" style="text-align: justify;">Possibilitar que o educando, tenha habilidades e conhecimentos, através da inclusão sociodigital para utilizar a lógica de programação.</p>
+			              <p class="card-text" style="text-align: justify;">Possibilita que o educando desenvolva habilidades e conhecimentos através da inclusão sociodigital para utilizar a lógica de programação.</p>
+			              <div class="d-flex justify-content-between align-items-center">
+			                <div class="btn-group">
+			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
+			                </div>
+			              </div>
+			            </div>
+			          </div>
+			        </div>
+			        
+			        <div class="col">
+			          <div class="card shadow-sm">
+			          	<img src="./img/index/oficina9-0.jpg" class="img-fluid imagem-oficina" alt="...">
+			            <div class="card-body">
+			              <h5>Teatro</h5>
+			              <hr>
+			              <p class="card-text" style="text-align: justify;">Favorecer que as adolescentes e jovens despertem prazer pela aprendizagem através do conhecimento das técnicas do teatro.</p>
 			              <div class="d-flex justify-content-between align-items-center">
 			                <div class="btn-group">
 			                  <button type="button" class="btn btn-sm btn-outline-warning">Saiba mais</button>
@@ -330,35 +326,37 @@
 			    <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
 			      <div class="feature col">
 			        <div class="feature-icon bg-laranja bg-gradient">
-			          <img src="./img/pagina-em-construcao.png" class="img-fluid imagem-oficina" alt="...">
+			          <img src="./img/index/beneficiario_mikkeli.png" class="img-fluid imagem-oficina" alt="...">
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#collection"/></svg>
 			        </div>
-			        <h2>Em breve histórias de nossos beneficiários</h2>
-			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+			        <h5 style="text-align: justify;">“Quero cuidar das pessoas, transformá-las.”</h5>
+			        <p style="text-align: justify;">Conheça a história de Mikkeli, educanda da Clara Amizade do Bairro de São Cristóvão que sonha em ser dançarina profissional.</p>
 			        <a href="#" class="icon-link" style="text-decoration: none;">
 			          Conheça a história
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
 			        </a>
 			      </div>
+			      
 			      <div class="feature col">
 			        <div class="feature-icon bg-laranja bg-gradient">
-			          <img src="./img/pagina-em-construcao.png" class="img-fluid imagem-oficina" alt="...">
+			          <img src="./img/index/beneficiario_fernanda.png" class="img-fluid imagem-oficina" alt="...">
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"/></svg>
 			        </div>
-			        <h2>Em breve histórias de nossos beneficiários</h2>
-			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+			        <h5 style="text-align: justify;">“A Clara Amizade nos capacita, nos dá um direcionamento na vida.”</h5>
+			        <p style="text-align: justify;">É assim que Fernanda Santos descreve o papel da Clara Amizade em sua história.</p>
 			        <a href="#" class="icon-link" style="text-decoration: none;">
 			          Conheça a história
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
 			        </a>
 			      </div>
+			      
 			      <div class="feature col">
 			        <div class="feature-icon bg-laranja bg-gradient">
-			          <img src="./img/pagina-em-construcao.png" class="img-fluid imagem-oficina" alt="...">
+			          <img src="./img/index/beneficiario_ane.jpg" class="img-fluid imagem-oficina" alt="...">
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"/></svg>
 			        </div>
-			        <h2>Em breve histórias de nossos beneficiários</h2>
-			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+			        <h5 style="text-align: justify;">“A Clara Amizade fez um bem enorme para mim, mudou a minha vida e sempre levarei comigo o amor e o carinho que recebi”</h5>
+			        <p style="text-align: justify;">Conheça a história de Ane Sayonara.</p>
 			        <a href="#" class="icon-link" style="text-decoration: none;">
 			          Conheça a história
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
@@ -374,11 +372,11 @@
 			    <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
 			      <div class="feature col">
 			        <div class="feature-icon bg-verde bg-gradient">
-			          <img src="./img/pagina-em-construcao.png" class="img-fluid imagem-oficina" alt="...">
+			          <img src="./img/index/depoimento_bianca.png" class="img-fluid imagem-oficina" alt="...">
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#collection"/></svg>
 			        </div>
-			        <h2>Em breve depoimentos</h2>
-			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+			        <h2>Bianca Nunes</h2>
+			        <p>“Design de Sobrancelhas e Cabeleireiro hoje são as minhas profissões”</p>
 			        <a href="#" class="icon-link" style="text-decoration: none;">
 			          Veja o depoimento completo
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
@@ -386,11 +384,12 @@
 			      </div>
 			      <div class="feature col">
 			        <div class="feature-icon bg-verde bg-gradient">
-			          <img src="./img/pagina-em-construcao.png" class="img-fluid imagem-oficina" alt="...">
+			          <img src="./img/index/depoimento_edilene.jpg" class="img-fluid imagem-oficina" alt="...">
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#people-circle"/></svg>
 			        </div>
-			        <h2>Em breve depoimentos</h2>
-			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+			        <h2>Edilene Santos</h2>
+			        <p>“Antes eu era desempregada. Hoje eu sou uma artesã.”</p>
+			        <br>
 			        <a href="#" class="icon-link" style="text-decoration: none;">
 			          Veja o depoimento completo
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>
@@ -398,11 +397,11 @@
 			      </div>
 			      <div class="feature col">
 			        <div class="feature-icon bg-verde bg-gradient">
-			          <img src="./img/pagina-em-construcao.png" class="img-fluid imagem-oficina" alt="...">
+			          <img src="./img/index/depoimento_luciana.jpg" class="img-fluid imagem-oficina" alt="...">
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"/></svg>
 			        </div>
-			        <h2>Em breve depoimentos</h2>
-			        <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+			        <h2>Luciana Ferreira</h2>
+			        <p>“Aprendi a trabalhar em equipe, me preparar para o mercado de trabalho, ter postura profissional”</p>
 			        <a href="#" class="icon-link" style="text-decoration: none;">
 			          Veja o depoimento completo
 			          <svg class="bi" width="1em" height="1em"><use xlink:href="#chevron-right"/></svg>

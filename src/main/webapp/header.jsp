@@ -105,9 +105,8 @@
 					            <strong>THÉRÈSE CORNILLE</strong>
 					          </a>
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Vida</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">História</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Obra</a></li>
+					            <li><a class="dropdown-item" href="/theresecornille-historia.jsp">História</a></li>
+					            <li><a class="dropdown-item" href="/theresecornille-livros.jsp">Livros</a></li>
 					          </ul>
 					        </li>
 					        <li class="nav-item dropdown">
@@ -118,6 +117,7 @@
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 					            <li><a class="dropdown-item" href="/projetoeducacaoglobal.jsp">Educação Global e Capacitação Profissional</a></li>
 					            <li><a class="dropdown-item" href="/pilareseducacionais.jsp">Pilares Educacionais (ODS)</a></li>
+					            <li><a class="dropdown-item" href="/pilareseducacionais.jsp">Nossos Beneficiários</a></li>
 					            <li><div class="dropdown-divider"></div></li>
 					            <li><a class="dropdown-item"><strong>PARCEIROS</strong></a></li>
 					            <li><a class="dropdown-item" href="/parceriasprivadas.jsp">Parcerias Privadas</a></li>
