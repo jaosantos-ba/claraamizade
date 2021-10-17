@@ -84,19 +84,19 @@
 								<strong>INSTITUCIONAL</strong>			            
 					          </a>
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					            <li><a class="dropdown-item" href="/quemsomos.jsp">Quem somos</a></li>
-					            <li><a class="dropdown-item" href="/missaovisaovalores.jsp">Missão, Visão e Valores</a></li>
-					            <li><a class="dropdown-item" href="/estatutos.jsp">Estatutos</a></li>
-					            <li><a class="dropdown-item" href="/organograma.jsp">Organograma</a></li>
-					            <li><a class="dropdown-item" href="/atasreunioes.jsp">Atas de Reuniões</a></li>
+					            <li><a class="dropdown-item" href="/quemsomos.jsp"><i class="bi bi-arrow-right-short">Quem somos</a></i></li>
+					            <li><a class="dropdown-item" href="/missaovisaovalores.jsp"><i class="bi bi-arrow-right-short">Missão, Visão e Valores</a></i></li>
+					            <li><a class="dropdown-item" href="/estatutos.jsp"><i class="bi bi-arrow-right-short">Estatutos</a></i></li>
+					            <li><a class="dropdown-item" href="/organograma.jsp"><i class="bi bi-arrow-right-short">Organograma</a></i></li>
+					            <li><a class="dropdown-item" href="/atasreunioes.jsp"><i class="bi bi-arrow-right-short">Atas de Reuniões</a></i></li>
 					            <li><div class="dropdown-divider"></div></li>
-					            <li><a class="dropdown-item" href="/diretoria.jsp">Diretoria</a></li>
-					            <li><a class="dropdown-item" href="/conselhofiscal.jsp">Conselho Fiscal</a></li>
-					            <li><a class="dropdown-item" href="/equipe.jsp">Equipe</a></li>
+					            <li><a class="dropdown-item" href="/diretoria.jsp"><i class="bi bi-arrow-right-short">Diretoria</a></i></li>
+					            <li><a class="dropdown-item" href="/conselhofiscal.jsp"><i class="bi bi-arrow-right-short">Conselho Fiscal</a></i></li>
+					            <li><a class="dropdown-item" href="/equipe.jsp"><i class="bi bi-arrow-right-short">Equipe</a></i></li>
 					            <li><div class="dropdown-divider"></div></li>
-					            <li><a class="dropdown-item" href="/parceiros.jsp">Parceiros</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Títulos e Registros</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Prêmios e Certificações</a></li>
+					            <li><a class="dropdown-item" href="/parceiros.jsp"><i class="bi bi-arrow-right-short">Parceiros</a></i></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Títulos e Registros</a></i></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Prêmios e Certificações</a></i></li>
 					          </ul>
 					        </li>
 					        <li class="nav-item dropdown">
@@ -105,8 +105,8 @@
 					            <strong>THÉRÈSE CORNILLE</strong>
 					          </a>
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					            <li><a class="dropdown-item" href="/theresecornille-historia.jsp">História</a></li>
-					            <li><a class="dropdown-item" href="/theresecornille-livros.jsp">Livros</a></li>
+					            <li><a class="dropdown-item" href="/theresecornille-historia.jsp"><i class="bi bi-arrow-right-short">História</a></i></li>
+					            <li><a class="dropdown-item" href="/theresecornille-livros.jsp"><i class="bi bi-arrow-right-short">Livros</a></i></li>
 					          </ul>
 					        </li>
 					        <li class="nav-item dropdown">
@@ -115,13 +115,16 @@
 					            <strong>PROJETO</strong>
 					          </a>
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					            <li><a class="dropdown-item" href="/projetoeducacaoglobal.jsp">Educação Global e Capacitação Profissional</a></li>
-					            <li><a class="dropdown-item" href="/pilareseducacionais.jsp">Pilares Educacionais (ODS)</a></li>
-					            <li><a class="dropdown-item" href="/pilareseducacionais.jsp">Nossos Beneficiários</a></li>
+					            <li><a class="dropdown-item" href="/projetoeducacaoglobal.jsp"><i class="bi bi-arrow-right-short">Educação Global e Capacitação Profissional</a></i></li>
+					            <li><a class="dropdown-item" href="/pilareseducacionais.jsp"><i class="bi bi-arrow-right-short">Pilares Educacionais (ODS)</a></i></li>
+					            <li><div class="dropdown-divider"></div></li>
+					            <li><a class="dropdown-item"><strong>BENEFICIÁRIOS</strong></a></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Histórias</a></i></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Depoimentos</a></i></li>
 					            <li><div class="dropdown-divider"></div></li>
 					            <li><a class="dropdown-item"><strong>PARCEIROS</strong></a></li>
-					            <li><a class="dropdown-item" href="/parceriasprivadas.jsp">Parcerias Privadas</a></li>
-					            <li><a class="dropdown-item" href="/parceriaspublicas.jsp">Parcerias Públicas</a></li>
+					            <li><a class="dropdown-item" href="/parceriasprivadas.jsp"><i class="bi bi-arrow-right-short">Parcerias Privadas</a></i></li>
+					            <li><a class="dropdown-item" href="/parceriaspublicas.jsp"><i class="bi bi-arrow-right-short">Parcerias Públicas</a></i></li>
 					          </ul>
 					        </li>
 					        <li class="nav-item dropdown">
@@ -131,19 +134,19 @@
 					          </a>
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 					            <li><a class="dropdown-item"><strong>PARTICIPE</strong></a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Doe agora</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Doação de produtos/bens</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Doação com Incentivo Fiscal</a></li>
-					            <li><a class="dropdown-item" href="/notapremiada.jsp">Nota Premiada Bahia</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Seja voluntário</a></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Doe agora</a></i></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Doação de produtos/bens</a></i></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Doação com Incentivo Fiscal</a></i></li>
+					            <li><a class="dropdown-item" href="/notapremiada.jsp"><i class="bi bi-arrow-right-short">Nota Premiada Bahia</a></i></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Seja voluntário</a></i></li>
 					            <li><div class="dropdown-divider"></div></li>
 					            <li><a class="dropdown-item"><strong>SÓCIO CONTRIBUINTE</strong></a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Seja um sócio contribuinte</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Benefícios do sócio contribuinte</a></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Seja um sócio contribuinte</a></i></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Benefícios do sócio contribuinte</a></i></li>
 					            <li><div class="dropdown-divider"></div></li>
 					            <li><a class="dropdown-item"><strong>CAMPANHAS</strong></a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Padrinho Amigo</a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp">Parceiro Amigo</a></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Padrinho Amigo</a></i></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Parceiro Amigo</a></i></li>
 					          </ul>
 					        </li>
 					        <li class="nav-item dropdown">
@@ -152,9 +155,9 @@
 					            <strong>TRANSPARÊNCIA</strong>
 					          </a>
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-					            <li><a class="dropdown-item" href="/relatoriosdeatividades.jsp">Relatório Anual de Atividades</a></li>
-					            <li><a class="dropdown-item" href="/relatoriosfinanceiro.jsp">Relatório Anual Financeiro</a></li>
-					            <li><a class="dropdown-item" href="/demonstracoescontabeis.jsp">Demonstrações Contábeis</a></li>
+					            <li><a class="dropdown-item" href="/relatoriosdeatividades.jsp"><i class="bi bi-arrow-right-short">Relatório Anual de Atividades</a></i></li>
+					            <li><a class="dropdown-item" href="/relatoriosfinanceiro.jsp"><i class="bi bi-arrow-right-short">Relatório Anual Financeiro</a></i></li>
+					            <li><a class="dropdown-item" href="/demonstracoescontabeis.jsp"><i class="bi bi-arrow-right-short">Demonstrações Contábeis</a></i></li>
 					          </ul>
 					        </li>
 					        <li class="nav-item">

@@ -105,6 +105,16 @@
 						</li>
 						<br>
 						<li class="footer-lista">
+							<a class="footer-lista" title="Beneficiários" href=""><strong>BENEFICIÁRIOS</strong></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Histórias" href="/paginaconstrucao.jsp"><small>Histórias</small></a>
+						</li>
+						<li class="footer-lista">
+							<a class="footer-lista" title="Depoimentos" href="/paginaconstrucao.jsp"><small>Depoimentos</small></a>
+						</li>
+						<br>
+						<li class="footer-lista">
 							<a class="footer-lista" title="Parceiros" href=""><strong>PARCEIROS</strong></a>
 						</li>
 						<li class="footer-lista">
