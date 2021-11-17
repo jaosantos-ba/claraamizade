@@ -54,9 +54,47 @@
 			 <br>
 		      <div class="row">
 	      		<div class="processoseletivo-item">
+		            <h3 class="parceria-item-title">Processo Seletivo nº 06/2021 - <a href="" target="_blank" style="color:black; text-decoration:none">Educador(a) Social de Informática</a> </h3>
+		            <h5>Inscrições: 16/11/2021 a 30/11/2021</h5>
+		            <h6>Situação: ABERTO</h6>
+		            <hr/>
+		            <p>A Clara Amizade, associação ligada à Arquidiocese de Salvador, torna público o Processo Seletivo Simplificado, para contratação de um(a) Educador(a) Social de Informática.</p>
+		          </div><!-- /.blog-post -->
+		          <div class="col align-items-center">
+			    	<a href="/doc/cai/rh/2021/edital_202106_selecao_educador_social_informatica.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Edital de Seleção nº 06/2021</a>
+			      </div>
+			      
+		  	</div><!-- /.row -->
+		  	<br>
+		  	<hr style="border: 2px dashed black;" />
+		   </div><!-- /.container -->
+		   
+		   <div class="container">
+			 <br>
+		      <div class="row">
+	      		<div class="processoseletivo-item">
+		            <h3 class="parceria-item-title">Processo Seletivo nº 05/2021 - <a href="" target="_blank" style="color:black; text-decoration:none">Educador(a) Social de Dança</a> </h3>
+		            <h5>Inscrições: 16/11/2021 a 30/11/2021</h5>
+		            <h6>Situação: ABERTO</h6>
+		            <hr/>
+		            <p>A Clara Amizade, associação ligada à Arquidiocese de Salvador, torna público o Processo Seletivo Simplificado, para contratação de um(a) Educador(a) Social de Dança.</p>
+		          </div><!-- /.blog-post -->
+		          <div class="col align-items-center">
+			    	<a href="/doc/cai/rh/2021/edital_202105_selecao_educador_social_danca.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Edital de Seleção nº 05/2021</a>
+			      </div>
+			      
+		  	</div><!-- /.row -->
+		  	<br>
+		  	<hr style="border: 2px dashed black;" />
+		   </div><!-- /.container -->
+			
+			<div class="container">
+			 <br>
+		      <div class="row">
+	      		<div class="processoseletivo-item">
 		            <h3 class="parceria-item-title">Processo Seletivo nº 04/2021 - <a href="" target="_blank" style="color:black; text-decoration:none">Educador(a) Social de Teatro</a> </h3>
 		            <h5>Inscrições: 13/09/2021 a 19/09/2021</h5>
-		            <h6>Situação: Finalizado</h6>
+		            <h6>Situação: FINALIZADO</h6>
 		            <hr/>
 		            <p>A Clara Amizade, associação ligada à Arquidiocese de Salvador, torna público o Processo Seletivo Simplificado, para contratação de um(a) Educador(a) Social de Teatro.</p>
 		          </div><!-- /.blog-post -->
@@ -75,7 +113,7 @@
 	      		<div class="processoseletivo-item">
 		            <h3 class="parceria-item-title">Processo Seletivo nº 03/2021 - <a href="" target="_blank" style="color:black; text-decoration:none">Educador(a) Social de Leitura</a> </h3>
 		            <h5>Inscrições: 13/09/2021 a 19/09/2021</h5>
-		            <h6>Situação: Finalizado</h6>
+		            <h6>Situação: FINALIZADO</h6>
 		            <hr/>
 		            <p>A Clara Amizade, associação ligada à Arquidiocese de Salvador, torna público o Processo Seletivo Simplificado, para contratação de um(a) Educador(a) Social de Leitura.</p>
 		          </div><!-- /.blog-post -->
@@ -94,7 +132,7 @@
 	      		<div class="processoseletivo-item">
 		            <h3 class="parceria-item-title">Processo Seletivo nº 02/2021 - <a href="" target="_blank" style="color:black; text-decoration:none">Coordenador(a) de Projetos</a> </h3>
 		            <h5>Inscrições: 12/08/2021 a 31/08/2021</h5>
-		            <h6>Situação: Finalizado</h6>
+		            <h6>Situação: FINALIZADO</h6>
 		            <hr/>
 		            <p>A Clara Amizade, associação ligada à Arquidiocese de Salvador, torna público o Processo Seletivo Simplificado, para contratação de um(a) Coordenador(a) de Projetos.</p>
 		          </div><!-- /.blog-post -->
