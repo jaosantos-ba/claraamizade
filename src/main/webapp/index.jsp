@@ -15,7 +15,7 @@
 			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
 			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
 			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
-			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
+			    <!-- <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button> -->
 			  </div>
 			  <div class="carousel-inner">
 			    <div class="carousel-item active">
@@ -25,34 +25,34 @@
 			        <p></p>
 			      </div>
 			    </div>
+			    <div class="carousel-item">
+			      <a href="http://www.saude.ba.gov.br/novembroazul/" target="_blank"><img src="./img/index/carrossel2.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <div class="carousel-caption d-none d-md-block">
+			        <h5></h5>
+			        <p></p>
+			      </div>
+			    </div>
+			    <div class="carousel-item">
+			      <a href="/parceriasprivadas.jsp"><img src="./img/index/carrossel3.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <div class="carousel-caption d-none d-md-block">
+			        <h5></h5>
+			        <p></p>
+			      </div>
+			    </div>
+			    <div class="carousel-item">
+			      <a href="https://www.youtube.com/ClaraAmizade" target="_blank"><img src="./img/index/carrossel4.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <div class="carousel-caption d-none d-md-block">
+			        <h5></h5>
+			        <p></p>
+			      </div>
+			    </div>
 			    <!-- <div class="carousel-item">
-			      <img src="./img/index/carrossel1.png" class="d-block w-100 imagem-carrossel2" alt="...">
+			      <a href="/notapremiada.jsp"><img src="./img/index/carrossel1.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5></h5>
 			        <p></p>
 			      </div>
-			    </div>
-			    <div class="carousel-item">
-			      <img src="./img/index/carrossel1.png" class="d-block w-100 imagem-carrossel3" alt="...">
-			      <div class="carousel-caption d-none d-md-block">
-			        <h5></h5>
-			        <p></p>
-			      </div>
-			    </div>
-			    <div class="carousel-item">
-			      <img src="./img/index/carrossel1.png" class="d-block w-100 imagem-carrossel4" alt="...">
-			      <div class="carousel-caption d-none d-md-block">
-			        <h5></h5>
-			        <p></p>
-			      </div>
-			    </div>
-			    <div class="carousel-item">
-			      <img src="./img/index/carrossel1.png" class="d-block w-100 imagem-carrossel5" alt="...">
-			      <div class="carousel-caption d-none d-md-block">
-			        <h5></h5>
-			        <p></p>
-			      </div> -->
-			    </div>
+			    </div> -->
 			  </div>
 			  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
 			    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
