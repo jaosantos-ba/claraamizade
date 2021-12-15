@@ -24,7 +24,7 @@
 			<div class="container">
 				<br>
 			      <div class="">
-			        <h1 class="">Conselho Fiscal - Gestão 2021/2024</h1>
+			        <h1 class="">Parceiros</h1>
 			        <hr style="border: 2px dashed black;" />
 			      </div>
 			      

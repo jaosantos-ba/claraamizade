@@ -58,7 +58,10 @@
 		            <h3 class="parceria-item-title">Termo de Colaboração nº 018/2018 - <a href="http://www.sempre.salvador.ba.gov.br/" target="_blank" style="color:black; text-decoration:none">SEMPRE</a> </h3>
 		            <h5>Data: 17 de dezembro de 2020</h5>
 		            <h6>Situação: Em andamento</h6>
-					<p class="parceria-item-publicacao">Publicado DOM: 7885/2020 em 31 de dezembro de 2020</p>
+		            <p class="parceria-item-publicacao">Publicado DOM: 7885/2020 em 31 de dezembro de 2020</p>
+		            <div class="progress">
+					  <div class="progress-bar bg-success" role="progressbar" style="width: 33%;" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100">33%</div>
+					</div>
 		            <hr/>
 		            <p>Segundo Termo Aditivo ao Termo de Colaboração nº 018/2018 celebrado em 17/12/2020, entre o Município do Salvador - CNPJ nº 13.927.801/0001-49, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE e a Associação Os Amigos de Clara Amizade Brasil - Bahia - CNPJ nº 04.087.181/0001-96.</p>
 		          </div><!-- /.blog-post -->
@@ -98,8 +101,11 @@
 	      		<div class="parceria-item">
 		            <h3 class="parceria-item-title">Termo de Colaboração nº 018/2018 - <a href="http://www.sempre.salvador.ba.gov.br/" target="_blank" style="color:black; text-decoration:none">SEMPRE</a> </h3>
 		            <h5>Data: 27 de fevereiro de 2018</h5>
-		            <h6>Situação: Em andamento</h6>
+		            <h6>Situação: Concluído</h6>
 					<p class="parceria-item-publicacao">Publicado DOM: 7057/2018 em 28 de fevereiro de 2018</p>
+					<div class="progress">
+					  <div class="progress-bar bg-success" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
+					</div>
 		            <hr/>
 		            <p>Termo de Colaboração nº 018/2018 celebrado em 27/02/2018, entre o Município do Salvador - CNPJ nº 13.927.801/0001-49, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE e a Associação Os Amigos de Clara Amizade Brasil - Bahia - CNPJ nº 04.087.181/0001-96.</p>
 		          </div><!-- /.blog-post -->
@@ -120,6 +126,9 @@
 		            <h5>Data: 29 de dezembro de 2016</h5>
 		            <h6>Situação: Concluído</h6> 
 					<p class="parceria-item-publicacao">Publicado DOM: 6770/2017 em 28 de janeiro de 2017</p>
+					<div class="progress">
+					  <div class="progress-bar bg-success" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
+					</div>
 		            <hr/>
 		            <p>Convênio nº 033/2016 celebrado entre o Município do Salvador - CNPJ nº 13.927.801/0001-49, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE e a Associação Os Amigos de Clara Amizade Brasil - Bahia - CNPJ nº 04.087.181/0001-96.</p>
 		          </div><!-- /.blog-post -->
@@ -138,8 +147,11 @@
 	      		<div class="parceria-item">
 		            <h3 class="parceria-item-title">Convênio nº 012/2015 - <a href="http://www.sempre.salvador.ba.gov.br/" target="_blank" style="color:black; text-decoration:none">SEMPRE</a> </h3>
 		            <h5>Data: 31 de julho de 2015</h5>
-		            <h6>Situação: Concluído</h6> 
+		            <h6>Situação: Concluído</h6>
 					<p class="parceria-item-publicacao">Publicado DOM: 6393/2015 em 05 de agosto de 2015</p>
+					<div class="progress">
+					  <div class="progress-bar bg-success" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
+					</div>
 		            <hr/>
 		            <p>Convênio nº 012/2015 celebrado entre o Município do Salvador - CNPJ nº 13.927.801/0001-49, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE e a Associação Os Amigos de Clara Amizade Brasil - Bahia - CNPJ nº 04.087.181/0001-96.</p>
 		          </div><!-- /.blog-post -->

@@ -15,44 +15,53 @@
 			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
 			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
 			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
-			    <!-- <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button> -->
+			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
 			  </div>
 			  <div class="carousel-inner">
 			    <div class="carousel-item active">
-			      <a href="/notapremiada.jsp"><img src="./img/index/carrossel1.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <a href="/notapremiada.jsp"><img src="./img/index/carrossel1_npbahia.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <div class="carousel-caption d-none d-md-block">
+			        <h5></h5>
+			        <p></p>
+			      </div>
+			    </div>
+			    <!-- 
+			    <div class="carousel-item">
+			      <a href="http://www.saude.ba.gov.br/novembroazul/" target="_blank"><img src="./img/index/carrossel2_novembroazul.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <div class="carousel-caption d-none d-md-block">
+			        <h5></h5>
+			        <p></p>
+			      </div>
+			    </div>
+			     -->
+			    <div class="carousel-item">
+			      <a href="/parceriasprivadas.jsp"><img src="./img/index/carrossel3_abrinq.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5></h5>
 			        <p></p>
 			      </div>
 			    </div>
 			    <div class="carousel-item">
-			      <a href="http://www.saude.ba.gov.br/novembroazul/" target="_blank"><img src="./img/index/carrossel2.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <a href="https://www.youtube.com/ClaraAmizade" target="_blank"><img src="./img/index/carrossel4_youtube.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5></h5>
 			        <p></p>
 			      </div>
 			    </div>
 			    <div class="carousel-item">
-			      <a href="/parceriasprivadas.jsp"><img src="./img/index/carrossel3.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <a href="http://especial2.redeglobo.globo.com/crianca-esperanca/1035/detalhes" target="_blank"><img src="./img/index/carrossel5_criancaesperanca.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5></h5>
 			        <p></p>
 			      </div>
 			    </div>
 			    <div class="carousel-item">
-			      <a href="https://www.youtube.com/ClaraAmizade" target="_blank"><img src="./img/index/carrossel4.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <a href="https://www.claraamizade.org.br"><img src="./img/index/carrossel6_boasfestas.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5></h5>
 			        <p></p>
 			      </div>
 			    </div>
-			    <!-- <div class="carousel-item">
-			      <a href="/notapremiada.jsp"><img src="./img/index/carrossel1.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
-			      <div class="carousel-caption d-none d-md-block">
-			        <h5></h5>
-			        <p></p>
-			      </div>
-			    </div> -->
 			  </div>
 			  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
 			    <span class="carousel-control-prev-icon" aria-hidden="true"></span>

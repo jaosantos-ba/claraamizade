@@ -336,9 +336,11 @@
 						            	<h4 style="text-align: left;">Contador</h4>
 						            	<h6 style="text-align: left;">E-mail: <a href="mailto:jose.santos@claraamizade.org.br" style="text-decoration: none;">jose.santos@claraamizade.org.br</a></h6>
 						            	<hr>
-					            		<li>Contador CRC/BA nº 039294/O-8</li>
-					            		<li>Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>
-					            		<li>Pós-Graduado em MBA Executivo em Gestão Tributária pela Universidade Cândido Mendes</li>
+						            	<!-- 
+					            		<li style="list-style-type:none">Contador CRC/BA nº 039294/O-8</li>
+					            		<li style="list-style-type:none">Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>
+					            		<li style="list-style-type:none">Pós-Graduado em MBA Executivo em Gestão Tributária pela Universidade Cândido Mendes</li>
+					            		 -->
 					            	</ul>
 				            	</td>
 			          		</tr>
@@ -467,7 +469,7 @@
 			          	<table style="list-style: none; display: block;">
 			          		<tr>
 			          			<td>
-			          				<img src="./img/equipe/eliana_barbosa.jpg" alt="..." width="160px" height="210px" border="1px">
+			          				<img src="./img/equipe/eliana_barbosa.png" alt="..." width="160px" height="210px" border="1px">
 			          			</td>
 			          			<td style="display: block;">
 					            	<ul>
