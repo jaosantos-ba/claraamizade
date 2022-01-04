@@ -54,9 +54,28 @@
 			 <br>
 		      <div class="row">
 	      		<div class="processoseletivo-item">
+		            <h3 class="parceria-item-title">Processo Seletivo nº 01/2022 - <a href="" target="_blank" style="color:black; text-decoration:none">Educador(a) Social de Informática/Programação</a> </h3>
+		            <h5>Inscrições: 04/01/2022 a 16/01/2022</h5>
+		            <h6>Situação: ABERTO</h6>
+		            <hr/>
+		            <p>A Clara Amizade, associação ligada à Arquidiocese de Salvador, torna público o Processo Seletivo Simplificado, para contratação de dois Educadores Sociais de Informática/Programação.</p>
+		          </div><!-- /.blog-post -->
+		          <div class="col align-items-center">
+			    	<a href="/doc/cai/rh/2022/edital_202201_selecao_educador_social_informatica.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Edital de Seleção nº 01/2022</a>
+			      </div>
+			      
+		  	</div><!-- /.row -->
+		  	<br>
+		  	<hr style="border: 2px dashed black;" />
+		   </div><!-- /.container -->
+			
+			<div class="container">
+			 <br>
+		      <div class="row">
+	      		<div class="processoseletivo-item">
 		            <h3 class="parceria-item-title">Processo Seletivo nº 06/2021 - <a href="" target="_blank" style="color:black; text-decoration:none">Educador(a) Social de Informática</a> </h3>
 		            <h5>Inscrições: 16/11/2021 a 30/11/2021</h5>
-		            <h6>Situação: ABERTO</h6>
+		            <h6>Situação: FINALIZADO</h6>
 		            <hr/>
 		            <p>A Clara Amizade, associação ligada à Arquidiocese de Salvador, torna público o Processo Seletivo Simplificado, para contratação de um(a) Educador(a) Social de Informática.</p>
 		          </div><!-- /.blog-post -->
@@ -75,7 +94,7 @@
 	      		<div class="processoseletivo-item">
 		            <h3 class="parceria-item-title">Processo Seletivo nº 05/2021 - <a href="" target="_blank" style="color:black; text-decoration:none">Educador(a) Social de Dança</a> </h3>
 		            <h5>Inscrições: 16/11/2021 a 30/11/2021</h5>
-		            <h6>Situação: ABERTO</h6>
+		            <h6>Situação: FINALIZADO</h6>
 		            <hr/>
 		            <p>A Clara Amizade, associação ligada à Arquidiocese de Salvador, torna público o Processo Seletivo Simplificado, para contratação de um(a) Educador(a) Social de Dança.</p>
 		          </div><!-- /.blog-post -->
