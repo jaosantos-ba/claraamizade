@@ -117,6 +117,7 @@
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 					            <li><a class="dropdown-item" href="/projetoeducacaoglobal.jsp"><i class="bi bi-arrow-right-short">Educação Global e Capacitação Profissional</a></i></li>
 					            <li><a class="dropdown-item" href="/pilareseducacionais.jsp"><i class="bi bi-arrow-right-short">Pilares Educacionais (ODS)</a></i></li>
+					            <li><a class="dropdown-item" href="/matriculas.jsp"><i class="bi bi-arrow-right-short">Matrículas 2022</a></i></li>
 					            <li><div class="dropdown-divider"></div></li>
 					            <li><a class="dropdown-item"><strong>BENEFICIÁRIOS</strong></a></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Histórias</a></i></li>
