@@ -136,44 +136,6 @@
 			          	<table style="list-style: none; display: block;">
 			          		<tr>
 			          			<td>
-			          				<img src="./img/equipe/joao_assis.png" alt="..." width="160px" height="210px" border="1px">
-			          			</td>
-			          			<td style="display: block;">
-					            	<ul>
-					            		<h3 style="text-align: left;">João Assis</h3>
-						            	<h4 style="text-align: left;">Educador Social - Informática e Programação</h4>
-						            	<h6 style="text-align: left;">E-mail: <a href="mailto:joao.assis@claraamizade.org.br" style="text-decoration: none;">joao.assis@claraamizade.org.br</a></h6>
-						            	<hr>
-					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
-					            		<li>Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>
-					            		<li>Pós-Graduado em MBA Executivo em Gestão Tributária pela Universidade Cândido Mendes</li> -->
-					            	</ul>
-				            	</td>
-			          		</tr>
-			          	</table>
-			          	<hr>
-			          	<table style="list-style: none; display: block;">
-			          		<tr>
-			          			<td>
-			          				<img src="./img/equipe/michele_alves.png" alt="..." width="160px" height="210px" border="1px">
-			          			</td>
-			          			<td style="display: block;">
-					            	<ul>
-					            		<h3 style="text-align: left;">Michele Alves</h3>
-						            	<h4 style="text-align: left;">Educadora Social - Artesanato e Pintura</h4>
-						            	<h6 style="text-align: left;">E-mail: <a href="mailto:michele.alves@claraamizade.org.br" style="text-decoration: none;">michele.alves@claraamizade.org.br</a></h6>
-						            	<hr>
-					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
-					            		<li>Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>
-					            		<li>Pós-Graduado em MBA Executivo em Gestão Tributária pela Universidade Cândido Mendes</li> -->
-					            	</ul>
-				            	</td>
-			          		</tr>
-			          	</table>
-			          	<hr>
-			          	<table style="list-style: none; display: block;">
-			          		<tr>
-			          			<td>
 			          				<img src="./img/equipe/floralice_santos.png" alt="..." width="160px" height="210px" border="1px">
 			          			</td>
 			          			<td style="display: block;">
@@ -276,6 +238,63 @@
 					            		<h3 style="text-align: left;">Dadiele Cardoso</h3>
 						            	<h4 style="text-align: left;">Educadora Social - Teatro</h4>
 						            	<h6 style="text-align: left;">E-mail: <a href="mailto:dadiele.cardoso@claraamizade.org.br" style="text-decoration: none;">dadiele.cardoso@claraamizade.org.br</a></h6>
+						            	<hr>
+					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
+					            		<li>Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>
+					            		<li>Pós-Graduado em MBA Executivo em Gestão Tributária pela Universidade Cândido Mendes</li> -->
+					            	</ul>
+				            	</td>
+			          		</tr>
+			          	</table>
+			          	<hr>
+			          	<table style="list-style: none; display: block;">
+			          		<tr>
+			          			<td>
+			          				<img src="./img/equipe/elis_paixao.png" alt="..." width="160px" height="210px" border="1px">
+			          			</td>
+			          			<td style="display: block;">
+					            	<ul>
+					            		<h3 style="text-align: left;">Elis da Paixão</h3>
+						            	<h4 style="text-align: left;">Educadora Social - Dança</h4>
+						            	<h6 style="text-align: left;">E-mail: <a href="mailto:elis.paixao@claraamizade.org.br" style="text-decoration: none;">elis.paixao@claraamizade.org.br</a></h6>
+						            	<hr>
+					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
+					            		<li>Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>
+					            		<li>Pós-Graduado em MBA Executivo em Gestão Tributária pela Universidade Cândido Mendes</li> -->
+					            	</ul>
+				            	</td>
+			          		</tr>
+			          	</table>
+			          	<hr>
+			          	<table style="list-style: none; display: block;">
+			          		<tr>
+			          			<td>
+			          				<img src="./img/equipe/ronilza_saopedro.png" alt="..." width="160px" height="210px" border="1px">
+			          			</td>
+			          			<td style="display: block;">
+					            	<ul>
+					            		<h3 style="text-align: left;">Ronilza São Pedro</h3>
+						            	<h4 style="text-align: left;">Educadora Social - Cabeleireiro</h4>
+						            	<h6 style="text-align: left;">E-mail: <a href="mailto:ronilza.saopedro@claraamizade.org.br" style="text-decoration: none;">ronilza.saopedro@claraamizade.org.br</a></h6>
+						            	<hr>
+					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
+					            		<li>Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>
+					            		<li>Pós-Graduado em MBA Executivo em Gestão Tributária pela Universidade Cândido Mendes</li> -->
+					            	</ul>
+				            	</td>
+			          		</tr>
+			          	</table>
+			          	<hr>
+			          	<table style="list-style: none; display: block;">
+			          		<tr>
+			          			<td>
+			          				<img src="./img/equipe/marcia_goncalves.jpg" alt="..." width="160px" height="210px" border="1px">
+			          			</td>
+			          			<td style="display: block;">
+					            	<ul>
+					            		<h3 style="text-align: left;">Márcia Gonçalves</h3>
+						            	<h4 style="text-align: left;">Educadora Social - Informática</h4>
+						            	<h6 style="text-align: left;">E-mail: <a href="mailto:marcia.goncalves@claraamizade.org.br" style="text-decoration: none;">marcia.goncalves@claraamizade.org.br</a></h6>
 						            	<hr>
 					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
 					            		<li>Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>
@@ -394,7 +413,7 @@
 			          			<td style="display: block;">
 					            	<ul>
 					            		<h3 style="text-align: left;">Diego Costa</h3>
-						            	<h4 style="text-align: left;">Coordenador de Comunicação</h4>
+						            	<h4 style="text-align: left;">Coordenador de Mídias</h4>
 						            	<h6 style="text-align: left;">E-mail: <a href="mailto:diego.costa@claraamizade.org.br" style="text-decoration: none;">diego.costa@claraamizade.org.br</a></h6>
 						            	<hr>
 					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
