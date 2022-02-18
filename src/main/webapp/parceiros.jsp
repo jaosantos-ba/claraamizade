@@ -37,7 +37,7 @@
 					    	<a href="http://www.sempre.salvador.ba.gov.br/" target="_blank"><img src="./img/institucional/parceiros/sempre.png" style="width: 250px; height: 200px;" alt="..."></a>
 					    </div>
 					    <div class="col text-center">
-					    	<a href="http://www.cmdca.salvador.ba.gov.br/" target="_blank"><img src="./img/institucional/parceiros/cmdca.png" style="width: 250px; height: 200px;" alt="..."></a>
+					    	<a href="https://www.fadc.org.br/" target="_blank"><img src="./img/institucional/parceiros/abrinq.png" style="width: 250px; height: 200px;" alt="..."></a>
 					    </div>
 					    <div class="col text-center">
 					    	<a href="https://redeglobo.globo.com/criancaesperanca/" target="_blank"><img src="./img/institucional/parceiros/criesp.jpg" style="width: 250px; height: 200px;" alt="..."></a>
@@ -46,16 +46,45 @@
 					  <hr>
 					  <div class="row align-items-center">
 					    <div class="col text-center">
-					    	<a href="https://www.ekloos.org/" target="_blank"><img src="./img/institucional/parceiros/ekloos.jpg" style="width: 250px; height: 200px;" alt="..."></a>
+					    	<a href="https://arquidiocesesalvador.org.br/" target="_blank"><img src="./img/institucional/parceiros/arquidiocese.jpg" style="width: 250px; height: 200px;" alt="..."></a>
 					    </div>
 					    <div class="col text-center">
-					    	<a href="https://www.ucsal.br" target="_blank"><img src="./img/institucional/parceiros/ucsal.png" style="width: 300px; height: 200px;" alt="..."></a>
+					    	<a href="https://populorumprogressio.org/" target="_blank"><img src="./img/institucional/parceiros/populorumprogressio.png" style="width: 250px; height: 125px;" alt="..."></a>
 					    </div>
+					    <div class="col text-center">
+					    	<a href="http://www.cmdca.salvador.ba.gov.br/" target="_blank"><img src="./img/institucional/parceiros/cmdca.png" style="width: 250px; height: 200px;" alt="..."></a>
+					    </div>
+					    <div class="col text-center">
+					    	<a href="http://www.sempre.salvador.ba.gov.br/conselho-municipal-de-assistencia-social-de-salvador-cmass-elege-representantes-da-sociedade-civil/" target="_blank"><img src="./img/institucional/parceiros/cmass.png" style="width: 250px; height: 200px;" alt="..."></a>
+					    </div>
+					  </div>
+					  <hr>
+					  <div class="row align-items-center">
 					    <div class="col text-center">
 					    	<a href="https://www.adveniat.de/" target="_blank"><img src="./img/institucional/parceiros/adveniat.jpg" style="width: 250px; height: 200px;" alt="..."></a>
 					    </div>
 					    <div class="col text-center">
+					    	<a href="https://www.trafigurafoundation.org/" target="_blank"><img src="./img/institucional/parceiros/trafigurafoundation.png" style="width: 300px; height: 200px;" alt="..."></a>
+					    </div>
+					    <div class="col text-center">
+					    	<a href="https://www.ekloos.org/" target="_blank"><img src="./img/institucional/parceiros/ekloos.jpg" style="width: 250px; height: 200px;" alt="..."></a>
+					    </div>
+					    <div class="col text-center">
 					    	<a href="https://www.cieds.org.br/" target="_blank"><img src="./img/institucional/parceiros/cieds.png" style="width: 250px; height: 200px;" alt="..."></a>
+					    </div>
+					    <hr>
+					  <div class="row align-items-center">
+					    <div class="col text-center">
+					    	<a href="https://www.ucsal.br" target="_blank"><img src="./img/institucional/parceiros/ucsal.png" style="width: 300px; height: 200px;" alt="..."></a>
+					    </div>
+					    <div class="col text-center">
+					    	
+					    </div>
+					    <div class="col text-center">
+					    	
+					    </div>
+					    <div class="col text-center">
+					    	
 					    </div>
 					  </div>
 					  <br>
