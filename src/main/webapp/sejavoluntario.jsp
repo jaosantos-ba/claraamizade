@@ -56,10 +56,7 @@
 						</form>
 						
 						<hr>
-						<h4 class="">Conheça nosso termo de voluntário</h4>
-						<div class="col align-items-center">
-				    		<a href="/doc/cai/voluntario/termo_de_voluntario.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Voluntário</a>
-				        </div> 
+						<h4 class="">Conheça nosso termo de voluntário: <a href="/doc/cai/voluntario/termo_de_voluntario.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Termo de Voluntário</a> </h4> 
 			
 			        </div><!-- /.blog-main -->
 	        	

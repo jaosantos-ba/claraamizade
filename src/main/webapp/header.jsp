@@ -140,8 +140,8 @@
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Doação com Incentivo Fiscal</a></i></li> -->
 					            <li><a class="dropdown-item" href="/notapremiada.jsp"><i class="bi bi-arrow-right-short">Nota Premiada Bahia</a></i></li>
 					            <li><a class="dropdown-item" href="/sejavoluntario.jsp"><i class="bi bi-arrow-right-short">Seja voluntário</a></i></li>
-					            <li><div class="dropdown-divider"></div></li>
-					            <!-- <li><a class="dropdown-item"><strong>SÓCIO CONTRIBUINTE</strong></a></li>
+					            <li><!-- <div class="dropdown-divider"></div></li>
+					            <li><a class="dropdown-item"><strong>SÓCIO CONTRIBUINTE</strong></a></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Seja um sócio contribuinte</a></i></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Benefícios do sócio contribuinte</a></i></li>
 					            <li><div class="dropdown-divider"></div></li>
