@@ -136,18 +136,18 @@
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 					            <li><a class="dropdown-item"><strong>PARTICIPE</strong></a></li>
 					            <li><a class="dropdown-item" href="/doeagora.jsp"><i class="bi bi-arrow-right-short">Doe agora</a></i></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Doação de produtos/bens</a></i></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Doação com Incentivo Fiscal</a></i></li>
+					            <!-- <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Doação de produtos/bens</a></i></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Doação com Incentivo Fiscal</a></i></li> -->
 					            <li><a class="dropdown-item" href="/notapremiada.jsp"><i class="bi bi-arrow-right-short">Nota Premiada Bahia</a></i></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Seja voluntário</a></i></li>
+					            <li><a class="dropdown-item" href="/sejavoluntario.jsp"><i class="bi bi-arrow-right-short">Seja voluntário</a></i></li>
 					            <li><div class="dropdown-divider"></div></li>
-					            <li><a class="dropdown-item"><strong>SÓCIO CONTRIBUINTE</strong></a></li>
+					            <!-- <li><a class="dropdown-item"><strong>SÓCIO CONTRIBUINTE</strong></a></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Seja um sócio contribuinte</a></i></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Benefícios do sócio contribuinte</a></i></li>
 					            <li><div class="dropdown-divider"></div></li>
 					            <li><a class="dropdown-item"><strong>CAMPANHAS</strong></a></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Padrinho Amigo</a></i></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Parceiro Amigo</a></i></li>
+					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Parceiro Amigo</a></i></li> -->
 					          </ul>
 					        </li>
 					        <li class="nav-item dropdown">
