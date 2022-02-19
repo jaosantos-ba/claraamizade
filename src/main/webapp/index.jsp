@@ -16,7 +16,7 @@
 			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
 			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
 			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
-			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" aria-label="Slide 6"></button>
+			    <!-- <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" aria-label="Slide 6"></button> -->
 			  </div>
 			  <div class="carousel-inner">
 			    
@@ -28,13 +28,13 @@
 			      </div>
 			    </div>
 			    
-			    <div class="carousel-item">
+			    <!-- <div class="carousel-item">
 			      <a href="https://janeirobranco.com.br/" target="_blank"><img src="./img/index/carrossel02_janeirobranco.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5></h5>
 			        <p></p>
 			      </div>
-			    </div>
+			    </div> -->
 			    
 			    <div class="carousel-item">
 			      <a href="/notapremiada.jsp"><img src="./img/index/carrossel03_npbahia.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>

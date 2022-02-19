@@ -71,6 +71,7 @@
 						beneficiados pelos projetos e cursos da Clara Amizade.</p>
 		          </div><!-- /.blog-post -->
 		          <div class="col align-items-center">
+			    	<a href="/doc/cai/projetos/plano_de_acao_2022.pdf" target="_blank" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-download"></i> Plano de Ação 2022</a>
 			    	<a href="/doc/cai/projetos/plano_de_acao_2021.pdf" target="_blank" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-download"></i> Plano de Ação 2021</a>
 			      </div>
 		  		</div><!-- /.row -->

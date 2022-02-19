@@ -135,7 +135,7 @@
 					          </a>
 					          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 					            <li><a class="dropdown-item"><strong>PARTICIPE</strong></a></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Doe agora</a></i></li>
+					            <li><a class="dropdown-item" href="/doeagora.jsp"><i class="bi bi-arrow-right-short">Doe agora</a></i></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Doação de produtos/bens</a></i></li>
 					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Doação com Incentivo Fiscal</a></i></li>
 					            <li><a class="dropdown-item" href="/notapremiada.jsp"><i class="bi bi-arrow-right-short">Nota Premiada Bahia</a></i></li>

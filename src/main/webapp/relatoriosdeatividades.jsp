@@ -54,6 +54,28 @@
 			 <br>
 		      <div class="row">
 	      		<div class="parceria-item">
+		            <h3 class="parceria-item-title">Exercício 2021</h3>
+		            <h6>Apresentação: </h6>
+		            <p style="text-align: justify;">É com alegria que compartilhamos o nosso relatório de atividades do ano de 2021. Nele estão contidas todas as nossas realizações neste período.
+Os desafios trazidos pela pandemia ainda são muitos, mas com a capacidade de adaptação, resiliência e profissionalismo da nossa equipe de colaboradores e o apoio fundamental de cada um dos amigos e parceiros da Associação, chegamos aos objetivos traçados para o ano de trabalho e preparamos o caminho para avançar ainda mais em 2022.
+Concluímos mais esse capítulo da missão colhendo muitos frutos positivos e plantando novas sementes de esperança e trabalho que, certamente, serão colhidas nos próximos anos.
+Muito obrigada a todos os parceiros e parceiras da Clara Amizade por estarem sempre presentes nesta caminhada.
+		            </p>
+		            <hr/>
+		            <p>Clique para ter acesso ao relatório anual de atividades.</p>
+		          </div><!-- /.blog-post -->
+		          <div class="col align-items-center">
+			    	<a href="/doc/cai/relatorios/atividades/relatorio_atividades_anual_2021.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Relatório Anual 2021</a>
+			      </div>
+		  	</div><!-- /.row -->
+		  	<br>
+		  	<hr style="border: 2px dashed black;" />
+		   </div><!-- /.container -->
+		   
+		   <div class="container">
+			 <br>
+		      <div class="row">
+	      		<div class="parceria-item">
 		            <h3 class="parceria-item-title">Exercício 2020</h3>
 		            <h6>Resumo: </h6>
 		            <p style="text-align: justify;">Em 2020 iniciamos o ano com a expectativa de viver plenamente o sentido da missão confiada a cada um de nós:
@@ -69,7 +91,6 @@ encorajasse e animasse as pessoas na busca da Fé, Sonhos e Talentos!
 Realmente foi o ano em que mais do que nunca se fez necessário ter otimismo, esperança e parceiros para caminhar
 conosco! Então, de modo especial registramos aqui os nossos agradecimentos. Não seria possível ajudar nesse tempo
 de pandemia sem os gestos solidários de vocês!
-Gratidão,
 		            </p>
 		            <hr/>
 		            <p>Clique para ter acesso ao relatório anual de atividades.</p>
