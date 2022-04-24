@@ -35,17 +35,17 @@
 			          <div style="text-align: justify;">
 			            
 			            <h3><i class="bi bi-people"></i> Missão</h3>
-			            <h5>Contribuir com a transformação na vida de crianças, adolescentes e jovens em situação de vulnerabilidade social, através do Programa de Educação Global e Capacitação Profissional.</h5>
+			            <h5>Contribuir no desenvolvimento de crianças, adolescentes e jovens em situação de vulnerabilidade social, através do Programa de Educação Global e Capacitação Profissional.</h5>
 						<br>
 						<hr>
 						
 						<h3><i class="bi bi-eye"></i> Visão</h3>
-	            		<h5>Ser reconhecida como instituição de excelência na educação global de pessoas em situação de vulnerabilidade social.</h5>
+	            		<h5>Ser reconhecida nacionalmente como uma instituição de excelência na educação global de pessoas em situação de vulnerabilidade social.</h5>
 	            		<br>
 						<hr>
 						
 						<h3><i class="bi bi-suit-heart"></i> Valores</h3>
-			            <h5>Os valores da Clara Amizade são acolhida, respeito, ética, transparência, compromisso, inovação, flexibilidade e profissionalismo.	</h5>
+			            <h5>Os valores da Clara Amizade são: acolhida, respeito, ética, transparência, compromisso, inovação, flexibilidade e profissionalismo.</h5>
 	            		<br>
 						<hr>
 																	

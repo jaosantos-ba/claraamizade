@@ -214,6 +214,9 @@
 					    	<a href="/trabalheconosco.jsp" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-person-plus"></i> TRABALHE CONOSCO</a>
 					    </div>
 					    <div class="col text-center">
+					    	<a href="https://www.institutodoar.org/certificado-amizade-brasil-bahia/" target="_blank"><img src="./img/index/selodoar.png" class="img-certificado" alt="..."></a>
+					    </div>
+					    <div class="col text-center">
 					    	<a href="https://www.phomenta.com.br/ong-certificada/clara-amizade" target="_blank"><img src="./img/index/phomenta.png" class="img-certificado" alt="..."></a>
 					    </div>
 					  </div>
