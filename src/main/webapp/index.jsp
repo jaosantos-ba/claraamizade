@@ -17,6 +17,7 @@
 			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
 			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
 			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" aria-label="Slide 6"></button>
+			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="	6" aria-label="Slide 7"></button>
 			  </div>
 			  <div class="carousel-inner">
 			    
@@ -30,6 +31,14 @@
 			    
 			    <div class="carousel-item">
 			      <a href="/matriculas.jsp"><img src="./img/index/carrossel01_matriculas2022.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <div class="carousel-caption d-none d-md-block">
+			        <h5></h5>
+			        <p></p>
+			      </div>
+			    </div>
+			    
+			    <div class="carousel-item">
+			      <a href="/premiosecertificacoes.jsp"><img src="./img/index/carrossel03_selodoar2021.jpeg" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5></h5>
 			        <p></p>

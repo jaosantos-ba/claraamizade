@@ -212,44 +212,6 @@
 			          	<table style="list-style: none; display: block;">
 			          		<tr>
 			          			<td>
-			          				<img src="./img/equipe/carlos_fragoso.png" alt="..." width="160px" height="210px" border="1px">
-			          			</td>
-			          			<td style="display: block;">
-					            	<ul>
-					            		<h3 style="text-align: left;">Carlos "Kadu" Fragoso</h3>
-						            	<h4 style="text-align: left;">Educador Social - Teatro</h4>
-						            	<h6 style="text-align: left;">E-mail: <a href="mailto:carlos.fragoso@claraamizade.org.br" style="text-decoration: none;">carlos.fragoso@claraamizade.org.br</a></h6>
-						            	<hr>
-					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
-					            		<li>Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>
-					            		<li>Pós-Graduado em MBA Executivo em Gestão Tributária pela Universidade Cândido Mendes</li> -->
-					            	</ul>
-				            	</td>
-			          		</tr>
-			          	</table>
-			          	<hr>
-			          	<table style="list-style: none; display: block;">
-			          		<tr>
-			          			<td>
-			          				<img src="./img/equipe/dadiele_cardoso.png" alt="..." width="160px" height="210px" border="1px">
-			          			</td>
-			          			<td style="display: block;">
-					            	<ul>
-					            		<h3 style="text-align: left;">Dadiele Cardoso</h3>
-						            	<h4 style="text-align: left;">Educadora Social - Teatro</h4>
-						            	<h6 style="text-align: left;">E-mail: <a href="mailto:dadiele.cardoso@claraamizade.org.br" style="text-decoration: none;">dadiele.cardoso@claraamizade.org.br</a></h6>
-						            	<hr>
-					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
-					            		<li>Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>
-					            		<li>Pós-Graduado em MBA Executivo em Gestão Tributária pela Universidade Cândido Mendes</li> -->
-					            	</ul>
-				            	</td>
-			          		</tr>
-			          	</table>
-			          	<hr>
-			          	<table style="list-style: none; display: block;">
-			          		<tr>
-			          			<td>
 			          				<img src="./img/equipe/elis_paixao.png" alt="..." width="160px" height="210px" border="1px">
 			          			</td>
 			          			<td style="display: block;">
@@ -295,6 +257,63 @@
 					            		<h3 style="text-align: left;">Márcia Gonçalves</h3>
 						            	<h4 style="text-align: left;">Educadora Social - Informática</h4>
 						            	<h6 style="text-align: left;">E-mail: <a href="mailto:marcia.goncalves@claraamizade.org.br" style="text-decoration: none;">marcia.goncalves@claraamizade.org.br</a></h6>
+						            	<hr>
+					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
+					            		<li>Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>
+					            		<li>Pós-Graduado em MBA Executivo em Gestão Tributária pela Universidade Cândido Mendes</li> -->
+					            	</ul>
+				            	</td>
+			          		</tr>
+			          	</table>
+			          	<hr>
+			          	<table style="list-style: none; display: block;">
+			          		<tr>
+			          			<td>
+			          				<img src="./img/equipe/rangel_ramos.png" alt="..." width="160px" height="210px" border="1px">
+			          			</td>
+			          			<td style="display: block;">
+					            	<ul>
+					            		<h3 style="text-align: left;">Rangel Ramos</h3>
+						            	<h4 style="text-align: left;">Educador Social - Programação</h4>
+						            	<h6 style="text-align: left;">E-mail: <a href="mailto:rangel.ramos@claraamizade.org.br" style="text-decoration: none;">rangel.ramos@claraamizade.org.br</a></h6>
+						            	<hr>
+					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
+					            		<li>Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>
+					            		<li>Pós-Graduado em MBA Executivo em Gestão Tributária pela Universidade Cândido Mendes</li> -->
+					            	</ul>
+				            	</td>
+			          		</tr>
+			          	</table>
+			          	<hr>
+			          	<table style="list-style: none; display: block;">
+			          		<tr>
+			          			<td>
+			          				<img src="./img/equipe/joice_paixao.png" alt="..." width="160px" height="210px" border="1px">
+			          			</td>
+			          			<td style="display: block;">
+					            	<ul>
+					            		<h3 style="text-align: left;">Joice da Paixão</h3>
+						            	<h4 style="text-align: left;">Educadora Social - Teatro</h4>
+						            	<h6 style="text-align: left;">E-mail: <a href="mailto:joice.paixao@claraamizade.org.br" style="text-decoration: none;">joice.paixao@claraamizade.org.br</a></h6>
+						            	<hr>
+					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
+					            		<li>Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>
+					            		<li>Pós-Graduado em MBA Executivo em Gestão Tributária pela Universidade Cândido Mendes</li> -->
+					            	</ul>
+				            	</td>
+			          		</tr>
+			          	</table>
+			          	<hr>
+			          	<table style="list-style: none; display: block;">
+			          		<tr>
+			          			<td>
+			          				<img src="./img/equipe/jadson_franca.png" alt="..." width="160px" height="210px" border="1px">
+			          			</td>
+			          			<td style="display: block;">
+					            	<ul>
+					            		<h3 style="text-align: left;">Jadson França</h3>
+						            	<h4 style="text-align: left;">Educador Social - Teatro</h4>
+						            	<h6 style="text-align: left;">E-mail: <a href="mailto:jadson.franca@claraamizade.org.br" style="text-decoration: none;">jadson.franca@claraamizade.org.br</a></h6>
 						            	<hr>
 					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
 					            		<li>Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>

@@ -95,8 +95,8 @@
 					            <li><a class="dropdown-item" href="/equipe.jsp"><i class="bi bi-arrow-right-short">Equipe</a></i></li>
 					            <li><div class="dropdown-divider"></div></li>
 					            <li><a class="dropdown-item" href="/parceiros.jsp"><i class="bi bi-arrow-right-short">Parceiros</a></i></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Títulos e Registros</a></i></li>
-					            <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Prêmios e Certificações</a></i></li>
+					            <!-- <li><a class="dropdown-item" href="/paginaconstrucao.jsp"><i class="bi bi-arrow-right-short">Títulos e Registros</a></i></li> -->
+					            <li><a class="dropdown-item" href="/premiosecertificacoes.jsp"><i class="bi bi-arrow-right-short">Prêmios e Certificações</a></i></li>
 					          </ul>
 					        </li>
 					        <li class="nav-item dropdown">
