@@ -60,7 +60,7 @@
 		            <h6>Situação: Em andamento</h6>
 		            <p class="parceria-item-publicacao">Publicado DOM: 7885/2020 em 31 de dezembro de 2020</p>
 		            <div class="progress">
-					  <div class="progress-bar bg-success" role="progressbar" style="width: 33%;" aria-valuenow="33" aria-valuemin="0" aria-valuemax="100">33%</div>
+					  <div class="progress-bar bg-success" role="progressbar" style="width: 47%;" aria-valuenow="47" aria-valuemin="0" aria-valuemax="100">47%</div>
 					</div>
 		            <hr/>
 		            <p>Segundo Termo Aditivo ao Termo de Colaboração nº 018/2018 celebrado em 17/12/2020, entre o Município do Salvador - CNPJ nº 13.927.801/0001-49, através da Secretaria Municipal de Promoção Social e Combate à Pobreza - SEMPRE e a Associação Os Amigos de Clara Amizade Brasil - Bahia - CNPJ nº 04.087.181/0001-96.</p>

@@ -56,7 +56,7 @@
 	      		<div class="processoseletivo-item">
 		            <h3 class="parceria-item-title">Processo Seletivo nº 01/2022 - <a href="" target="_blank" style="color:black; text-decoration:none">Educador(a) Social de Informática/Programação</a> </h3>
 		            <h5>Inscrições: 04/01/2022 a 16/01/2022</h5>
-		            <h6>Situação: ABERTO</h6>
+		            <h6>Situação: FINALIZADO</h6>
 		            <hr/>
 		            <p>A Clara Amizade, associação ligada à Arquidiocese de Salvador, torna público o Processo Seletivo Simplificado, para contratação de dois Educadores Sociais de Informática/Programação.</p>
 		          </div><!-- /.blog-post -->

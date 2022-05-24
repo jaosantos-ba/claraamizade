@@ -50,25 +50,26 @@
 		      <hr style="border: 2px dashed black;" />
 			</div><!-- /.container -->
 			
-			<!-- 
+			 
 			<div class="container">
 			 <br>
 		      <div class="row">
 	      		<div class="parceria-item">
-		            <h3 class="parceria-item-title">Termo de Convênio nº 379/2021 - <a href="https://www.fadc.org.br/" target="_blank" style="color:black; text-decoration:none">FUNDAÇÃO ABRINQ</a> </h3>
-		            <h5>Data: 08 de outubro de 2021</h5>
-		            <h6>Situação: Em andamento</h6>
+		            <h3 class="parceria-item-title">Thérèse Cornille</h3>
+		            <h5>Autor: Jean Werquin</h5>
+		            <h6>Editora: Editora Cerf</h6>
+		            <h6>Ano: 2001</h6>
 		            <hr/>
-		            <p>Termo de Convênio celebrado em 08/10/2021, entre a Fundação Abrinq e a Associação Clara Amizade.</p>
+		            <!-- <p>Termo de Convênio celebrado em 08/10/2021, entre a Fundação Abrinq e a Associação Clara Amizade.</p> -->
 		          </div>
 		          <div class="col align-items-center">
-			    	<a href="/doc/abrinq/2021/termo_convenio_3792021.pdf" target="_blank" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-download"></i> Termo de Convênio</a>
+			    	<a href="/doc/cai/livros/livro_therese_cornille_por_jean_werquin.pdf" target="_blank" type="button" class="btn btn-outline-warning" style="margin: 0;"><i class="bi bi-download"></i> Livro Thérèse Cornille por Jean Werquin</a>
 			      </div>
 		  		</div>
 		  	<br>
 		  	<hr style="border: 2px dashed black;" />
 		   </div>	
-		    -->
+		    
 		</main>
 		
 		<%@include file="/footer.jsp"%>

@@ -88,7 +88,7 @@
 					            <li><a class="dropdown-item" href="/missaovisaovalores.jsp"><i class="bi bi-arrow-right-short">Missão, Visão e Valores</a></i></li>
 					            <li><a class="dropdown-item" href="/estatutos.jsp"><i class="bi bi-arrow-right-short">Estatutos</a></i></li>
 					            <li><a class="dropdown-item" href="/organograma.jsp"><i class="bi bi-arrow-right-short">Organograma</a></i></li>
-					            <li><a class="dropdown-item" href="/atasreunioes.jsp"><i class="bi bi-arrow-right-short">Atas de Reuniões</a></i></li>
+					            <!-- <li><a class="dropdown-item" href="/atasreunioes.jsp"><i class="bi bi-arrow-right-short">Atas de Reuniões</a></i></li> -->
 					            <li><div class="dropdown-divider"></div></li>
 					            <li><a class="dropdown-item" href="/diretoria.jsp"><i class="bi bi-arrow-right-short">Diretoria</a></i></li>
 					            <li><a class="dropdown-item" href="/conselhofiscal.jsp"><i class="bi bi-arrow-right-short">Conselho Fiscal</a></i></li>

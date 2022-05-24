@@ -40,12 +40,12 @@
 						<hr>
 						
 						<h3><i class="bi bi-eye"></i> Visão</h3>
-	            		<h5>Ser reconhecida nacionalmente como uma instituição de excelência na educação global de pessoas em situação de vulnerabilidade social.</h5>
+	            		<h5>Ser reconhecida como uma instituição sustentável e de excelência na educação global de pessoas em situação de vulnerabilidade social.</h5>
 	            		<br>
 						<hr>
 						
 						<h3><i class="bi bi-suit-heart"></i> Valores</h3>
-			            <h5>Os valores da Clara Amizade são: acolhida, respeito, ética, transparência, compromisso, inovação, flexibilidade e profissionalismo.</h5>
+			            <h5>Os valores da Clara Amizade são: Acolhida, Respeito, Ética, Transparência, Compromisso, Inovação, Flexibilidade e Profissionalismo.</h5>
 	            		<br>
 						<hr>
 																	

@@ -217,7 +217,7 @@
 					    	<a href="/premiosecertificacoes.jsp" target=""><img src="./img/index/selodoar2021.png" class="img-certificado" alt="..."></a>
 					    </div>
 					    <div class="col text-center">
-					    	<a href="/premiosecertificacoes.jsp" target=""><img src="./img/index/phomenta2019.png" class="img-certificado" alt="..."></a>
+					    	<a href="/premiosecertificacoes.jsp" target=""><img src="./img/index/phomenta2022.png" class="img-certificado" alt="..."></a>
 					    </div>
 					  </div>
 					  <hr>

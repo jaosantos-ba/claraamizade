@@ -34,6 +34,26 @@
 			        <div class="col">
 			
 			          <div style="text-align: justify;">
+			          <table style="list-style: none; display: block;">
+			          		<tr>
+			          			<td>
+			          				<a href="https://www.institutodoar.org/certificado-amizade-brasil-bahia/" target="_blank"><img src="./img/index/phomenta2022.png" alt="..." width="225px" height="225px" border="0px"></a>
+			          			</td>
+			          			<td style="display: block;">
+					            	<ul>
+					            		<h5 style="text-align: justify;" id="diretora-executiva">Clara Amizade conquista certificado de Transparência e Boas Práticas da Phomenta pela segunda vez.</h5>
+										<p style="text-align: justify;" id="diretora-executiva">Associação atingiu 97,82% em avaliação de critérios; novo certificado é válido até maio de 2024.</p>
+						            	<p style="text-align: justify;" id="diretora-executiva">Após conquistar o Selo Doar, a Clara Amizade celebra mais uma importante certificação: a Associação foi aprovada no processo de avaliação 2022 e renovou o certificado dos princípios internacionais de Boas Práticas em Transparência e Gestão da Phomenta. Com 97,82% dos critérios aprovados, a Clara Amizade se mantém no portfólio de organizações certificadas pela Phomenta e receberá um novo certificado com validade até maio de 2024.</p>
+						            	<p style="text-align: justify;" id="diretora-executiva">A renovação do selo de boas práticas é a segunda certificação da Phomenta conquistada pela Clara Amizade, que também conseguiu aprovação no ano de 2019.</p>
+						            	<p style="text-align: justify;" id="diretora-executiva">Ao todo, cinco pilares são analisados: Jurídico, Financeiro, Gestão e Governança, Potencial de Impacto e Comunicação e Transparência.</p>
+						            	<p style="text-align: justify;" id="diretora-executiva">A Phomenta é uma instituição que representa o Brasil no Comitê Internacional de Agências que monitoram ONGs no mundo (ICFO – International Committee on Fundraising Organizations).</p>
+						            	<p style="text-align: justify;" id="diretora-executiva">Nossa gratidão aos colaboradores, famílias, educandas e educandos, amigos(as) e parceiros(as) da Clara Amizade pelo apoio que nos leva a mais esta certificação.</p>
+						            	<p style="text-align: center;"><a href="./img/index/certificadophomenta2022.png" target="_blank"><img src="./img/index/certificadophomenta2022.png" alt="..." width="350px" height="248px" border="0px"></a></p>
+					            	</ul>
+				            	</td>
+			          		</tr>
+			          	</table>
+			          	<hr>
 			          	<table style="list-style: none; display: block;">
 			          		<tr>
 			          			<td>

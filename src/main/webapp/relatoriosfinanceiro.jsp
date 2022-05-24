@@ -54,6 +54,23 @@
 			 <br>
 		      <div class="row">
 	      		<div class="parceria-item">
+		            <h3 class="parceria-item-title">Exercício 2021</h3>
+		            <h6></h6>
+		            <hr/>
+		            <p>Clique para ter acesso ao relatório anual financeiro.</p>
+		          </div><!-- /.blog-post -->
+		          <div class="col align-items-center">
+			    	<a href="/doc/cai/relatorios/financeiro/relatorio_financeiro_2021.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Relatório Financeiro 2021</a>
+			      </div>
+		  	</div><!-- /.row -->
+		  	<br>
+		  	<hr style="border: 2px dashed black;" />
+		   </div><!-- /.container -->
+			
+			<div class="container">
+			 <br>
+		      <div class="row">
+	      		<div class="parceria-item">
 		            <h3 class="parceria-item-title">Exercício 2020</h3>
 		            <h6></h6>
 		            <hr/>
