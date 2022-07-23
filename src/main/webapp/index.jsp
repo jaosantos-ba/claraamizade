@@ -22,6 +22,14 @@
 			  <div class="carousel-inner">
 			    
 			    <div class="carousel-item active">
+			      <a href="/noticias.jsp#colegiado-cmdca"><img src="./img/index/carrossel01_cmdca.jpeg" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <div class="carousel-caption d-none d-md-block">
+			        <h5></h5>
+			        <p></p>
+			      </div>
+			    </div>
+			    
+			    <div class="carousel-item">
 			      <a href="/premiosecertificacoes.jsp"><img src="./img/index/carrossel03_phomenta2022.jpeg" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5></h5>
@@ -37,13 +45,13 @@
 			      </div>
 			    </div> -->
 			    
-			    <div class="carousel-item">
+			    <!-- <div class="carousel-item">
 			      <a href="https://www.sympla.com.br/5-festa-da-amizade-feijoada-beneficente-da-clara-amizade__1547811" target="_blank"><img src="./img/index/carrossel01_5festadaamizade.jpeg" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5></h5>
 			        <p></p>
 			      </div>
-			    </div>
+			    </div> -->
 			    
 			    <div class="carousel-item">
 			      <a href="/premiosecertificacoes.jsp"><img src="./img/index/carrossel03_selodoar2021.jpeg" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>

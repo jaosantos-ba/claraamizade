@@ -36,7 +36,7 @@
 					    <div class="col d-flex p-1 bd-highlight justify-content-end">
 							<ul class="nav justify-content-end">
 							  <li class="nav-item border">
-							    <a class="nav-link text-success" href="/paginaconstrucao.jsp" style="font-size: 11px;"><strong><small>NOTÍCIAS</small></strong></a>
+							    <a class="nav-link text-success" href="/noticias.jsp" style="font-size: 11px;"><strong><small>NOTÍCIAS</small></strong></a>
 							  </li>
 							  <li class="nav-item border">
 							    <a class="nav-link  text-success" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false" style="font-size: 11px;">
