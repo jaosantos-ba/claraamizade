@@ -13,7 +13,7 @@
 		    <i class="bi bi-house"></i>
 		    <a class="text-white fw-bold fs-6" href="https://www.claraamizade.org.br">Início</a>
 		    <i class="bi bi-arrow-right-short"></i>
-		    <a class="text-white fw-bold fs-6" style="text-decoration:none;">Trabalhe Conosco</a>
+		    <a class="text-white fw-bold fs-6" style="text-decoration:none;">Notícias</a>
 		  </div>
 		</nav>
 				

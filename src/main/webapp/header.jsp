@@ -56,7 +56,7 @@
 							    <a class="nav-link text-success" href="/trabalheconosco.jsp" style="font-size: 11px;"><strong><small>TRABALHE CONOSCO</small></strong></a>
 							  </li>
 							  <li class="nav-item border">
-							    <a class="nav-link text-success" href="/paginaconstrucao.jsp" style="font-size: 11px;"><strong><small>SISTEMAS</small></strong></a>
+							    <a class="nav-link text-success" href="/sistemas.jsp" target="_blank" style="font-size: 11px;"><strong><small>SISTEMAS</small></strong></a>
 							  </li>
 							</ul>
 					    </div>
