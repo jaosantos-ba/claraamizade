@@ -389,13 +389,13 @@
 			          	<table style="list-style: none; display: block;">
 			          		<tr>
 			          			<td>
-			          				<img src="./img/equipe/everton_nova.png" alt="..." width="160px" height="210px" border="1px">
+			          				<img src="./img/equipe/daria_santana.png" alt="..." width="160px" height="210px" border="1px">
 			          			</td>
 			          			<td style="display: block;">
 					            	<ul>
-					            		<h3 style="text-align: left;">Everton Terra Nova</h3>
-						            	<h4 style="text-align: left;">Coordenador Pedagógico</h4>
-						            	<h6 style="text-align: left;">E-mail: <a href="mailto:everton.nova@claraamizade.org.br" style="text-decoration: none;">everton.nova@claraamizade.org.br</a></h6>
+					            		<h3 style="text-align: left;">Dária Santana</h3>
+						            	<h4 style="text-align: left;">Coordenadora Pedagógico</h4>
+						            	<h6 style="text-align: left;">E-mail: <a href="mailto:daria.santana@claraamizade.org.br" style="text-decoration: none;">daria.santana@claraamizade.org.br</a></h6>
 						            	<hr>
 					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
 					            		<li>Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>
@@ -507,13 +507,13 @@
 			          	<table style="list-style: none; display: block;">
 			          		<tr>
 			          			<td>
-			          				<img src="./img/equipe/eliana_barbosa.png" alt="..." width="160px" height="210px" border="1px">
+			          				<img src="./img/equipe/carla_alves.png" alt="..." width="160px" height="210px" border="1px">
 			          			</td>
 			          			<td style="display: block;">
 					            	<ul>
-					            		<h3 style="text-align: left;">Eliana Barbosa</h3>
+					            		<h3 style="text-align: left;">Carla Alves</h3>
 						            	<h4 style="text-align: left;">Auxiliar de Serviços Gerais - Merendeira</h4>
-						            	<h6 style="text-align: left;">E-mail: <a href="mailto:eliana.barbosa@claraamizade.org.br" style="text-decoration: none;">eliana.barbosa@claraamizade.org.br</a></h6>
+						            	<h6 style="text-align: left;">E-mail: <a href="mailto:carla.alves@claraamizade.org.br" style="text-decoration: none;">carla.alves@claraamizade.org.br</a></h6>
 						            	<hr>
 					            		<!-- <li>Contador CRC/BA nº 039294/O-8</li>
 					            		<li>Graduado em Ciências Contábeis pela Universidade Católica do Salvador</li>
