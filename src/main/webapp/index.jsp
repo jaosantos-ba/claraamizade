@@ -20,22 +20,30 @@
 			    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="6" aria-label="Slide 7"></button>
 			  </div>
 			  <div class="carousel-inner">
+			  
+			  <!-- <div class="carousel-item">
+			      <a href="https://www.sympla.com.br/5-festa-da-amizade-feijoada-beneficente-da-clara-amizade__1547811" target="_blank"><img src="./img/index/carrossel01_5festadaamizade.jpeg" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <div class="carousel-caption d-none d-md-block">
+			        <h5></h5>
+			        <p></p>
+			      </div>
+			    </div> -->
 			    
 			    <div class="carousel-item active">
+			      <a href="/matriculas.jsp"><img src="./img/index/carrossel01_atividades2023.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <div class="carousel-caption d-none d-md-block">
+			        <h5></h5>
+			        <p></p>
+			      </div>
+			    </div>
+			    
+			    <!-- <div class="carousel-item">
 			      <a href="/noticias.jsp#colegiado-cmdca"><img src="./img/index/carrossel01_cmdca.jpeg" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5></h5>
 			        <p></p>
 			      </div>
-			    </div>
-			    
-			    <div class="carousel-item">
-			      <a href="/premiosecertificacoes.jsp"><img src="./img/index/carrossel03_phomenta2022.jpeg" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
-			      <div class="carousel-caption d-none d-md-block">
-			        <h5></h5>
-			        <p></p>
-			      </div>
-			    </div>
+			    </div> -->
 			    
 			    <!-- <div class="carousel-item">
 			      <a href="/matriculas.jsp"><img src="./img/index/carrossel01_matriculas2022.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
@@ -45,16 +53,8 @@
 			      </div>
 			    </div> -->
 			    
-			    <!-- <div class="carousel-item">
-			      <a href="https://www.sympla.com.br/5-festa-da-amizade-feijoada-beneficente-da-clara-amizade__1547811" target="_blank"><img src="./img/index/carrossel01_5festadaamizade.jpeg" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
-			      <div class="carousel-caption d-none d-md-block">
-			        <h5></h5>
-			        <p></p>
-			      </div>
-			    </div> -->
-			    
 			    <div class="carousel-item">
-			      <a href="/premiosecertificacoes.jsp"><img src="./img/index/carrossel03_selodoar2021.jpeg" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <a href="/doeagora.jsp"><img src="./img/index/carrossel02_doadormensal.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5></h5>
 			        <p></p>
@@ -70,7 +70,7 @@
 			    </div> -->
 			    
 			    <div class="carousel-item">
-			      <a href="/notapremiada.jsp"><img src="./img/index/carrossel03_npbahia.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <a href="/notapremiada.jsp"><img src="./img/index/carrossel03_npbahia2023.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5></h5>
 			        <p></p>
@@ -78,12 +78,28 @@
 			    </div>
 			    
 			    <div class="carousel-item">
-			      <a href="http://especial2.redeglobo.globo.com/crianca-esperanca/1035/detalhes" target="_blank"><img src="./img/index/carrossel04_criancaesperanca.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <a href="/premiosecertificacoes.jsp"><img src="./img/index/carrossel03_phomenta2022.jpeg" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5></h5>
 			        <p></p>
 			      </div>
 			    </div>
+			    
+			    <div class="carousel-item">
+			      <a href="/premiosecertificacoes.jsp"><img src="./img/index/carrossel03_selodoar2021.jpeg" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <div class="carousel-caption d-none d-md-block">
+			        <h5></h5>
+			        <p></p>
+			      </div>
+			    </div>
+			    
+			    <!-- <div class="carousel-item">
+			      <a href="http://especial2.redeglobo.globo.com/crianca-esperanca/1035/detalhes" target="_blank"><img src="./img/index/carrossel04_criancaesperanca.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <div class="carousel-caption d-none d-md-block">
+			        <h5></h5>
+			        <p></p>
+			      </div>
+			    </div> -->
 			    
 			    <div class="carousel-item">
 			      <a href="/parceriasprivadas.jsp"><img src="./img/index/carrossel05_abrinq.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
