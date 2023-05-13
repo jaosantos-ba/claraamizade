@@ -29,13 +29,13 @@
 			      </div>
 			    </div> -->
 			    
-			    <div class="carousel-item active">
+			   <!-- <div class="carousel-item active">
 			      <a href="/matriculas.jsp"><img src="./img/index/carrossel01_atividades2023.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
 			      <div class="carousel-caption d-none d-md-block">
 			        <h5></h5>
 			        <p></p>
 			      </div>
-			    </div>
+			    </div> -->
 			    
 			    <!-- <div class="carousel-item">
 			      <a href="/noticias.jsp#colegiado-cmdca"><img src="./img/index/carrossel01_cmdca.jpeg" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
@@ -44,6 +44,14 @@
 			        <p></p>
 			      </div>
 			    </div> -->
+			    
+			   	<div class="carousel-item active">
+			      <a href="/matriculas.jsp"><img src="./img/index/carrossel01_doacaochuvas.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
+			      <div class="carousel-caption d-none d-md-block">
+			        <h5></h5>
+			        <p></p>
+			      </div>
+			    </div>
 			    
 			    <!-- <div class="carousel-item">
 			      <a href="/matriculas.jsp"><img src="./img/index/carrossel01_matriculas2022.png" class="d-block imagem-carrossel1" style="width: 100%; height: 100%;" alt="..."></a>
