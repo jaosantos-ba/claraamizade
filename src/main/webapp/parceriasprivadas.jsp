@@ -59,7 +59,7 @@
 		            <h5>Data: 06 de dezembro de 2021</h5>
 		            <h6>Situação: Em andamento</h6>
 		            <div class="progress">
-					  <div class="progress-bar bg-warning" role="progressbar" style="width: 58%;" aria-valuenow="58" aria-valuemin="0" aria-valuemax="100">58%</div>
+					  <div class="progress-bar bg-warning" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
 					</div>
 		            <hr/>
 		            <p>Acordo de parceiros de implementação celebrado em 06/12/2021, referente ao plano de trabalho 10189.</p>
@@ -81,7 +81,7 @@
 		            <h5>Data: 08 de outubro de 2021</h5>
 		            <h6>Situação: Em andamento</h6>
 		            <div class="progress">
-					  <div class="progress-bar bg-warning" role="progressbar" style="width: 37%;" aria-valuenow="37" aria-valuemin="0" aria-valuemax="100">37%</div>
+					  <div class="progress-bar bg-warning" role="progressbar" style="width: 100%;" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">100%</div>
 					</div>
 		            <hr/>
 		            <p>Termo de Convênio celebrado em 08/10/2021.</p>

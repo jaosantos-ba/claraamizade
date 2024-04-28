@@ -54,6 +54,52 @@
 			 <br>
 		      <div class="row">
 	      		<div class="parceria-item">
+		            <h3 class="parceria-item-title">Exercício 2023</h3>
+		            <h6>Apresentação: </h6>
+		            <p style="text-align: justify;"> Queridos amigos e amigas da Associação Clara Amizade,<br>
+						Após 26 anos de missão, a Associação Clara Amizade encerra as suas atividades no Brasil. É um momento difícil e de muita dor para todos nós, mas também de agradecimento ao Senhor e celebração pela caminhada percorrida e sementes plantadas no coração de tantas crianças, adolescentes e jovens das comunidades atendidas em Salvador. 
+		            	Neste documento apresentamos as ações realizadas durante o ano de 2023 e encerramos oficialmente a belíssima história da Clara Amizade, que, a partir de agora, se transforma em memória e se eterniza no coração de cada pessoa. 
+						Queremos agradecer de todo coração aos(as) amigos(a), membros da diretoria e conselho fiscal, parceiros, doadores, educandos, educandas, familiares, colaboradores e ex-colaboradores da Clara Amizade pelo compromisso, dedicação e amor ofertados à Associação e às famílias beneficiadas ao longo desses 26 anos de missão. Desejamos uma ótima leitura e contamos com as orações de todos e todas pela missão da Igreja no mundo inteiro. 
+		            	
+		            </p>
+		            <hr/>
+		            <p>Clique para ter acesso ao relatório anual de atividades.</p>
+		          </div><!-- /.blog-post -->
+		          <div class="col align-items-center">
+			    	<a href="/doc/cai/relatorios/atividades/relatorio_atividades_anual_2023.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Relatório Anual 2023</a>
+			      </div>
+		  	</div><!-- /.row -->
+		  	<br>
+		  	<hr style="border: 2px dashed black;" />
+		   </div><!-- /.container -->
+			
+			<div class="container">
+			 <br>
+		      <div class="row">
+	      		<div class="parceria-item">
+		            <h3 class="parceria-item-title">Exercício 2022</h3>
+		            <h6>Apresentação: </h6>
+		            <p style="text-align: justify;">Concluímos mais um ano de missão com alegria e o sentimento de dever cumprido. Após 2 anos de intensos desafios com a pandemia,
+celebramos a oportunidade de promover as ações de forma 100% presencial na Casa Sede e nos centros comunitários, o que nos permitiu realizar de maneira efetiva a nossa missão institucional de
+contribuir para o desenvolvimento de crianças, adolescentes e jovens em situação de vulnerabilidade social por meio do Programa de Educação Global e Capacitação Profissional.
+Nosso imenso agradecimento aos amigos e amigas da Clara Amizade por depositarem a sua confiança na missão e por nos impulsionarem a
+alcançar as metas e objetivos traçados para este ano. Contamos com vocês também em 2023. Um abraço fraterno e boa leitura!
+		            </p>
+		            <hr/>
+		            <p>Clique para ter acesso ao relatório anual de atividades.</p>
+		          </div><!-- /.blog-post -->
+		          <div class="col align-items-center">
+			    	<a href="/doc/cai/relatorios/atividades/relatorio_atividades_anual_2022.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Relatório Anual 2022</a>
+			      </div>
+		  	</div><!-- /.row -->
+		  	<br>
+		  	<hr style="border: 2px dashed black;" />
+		   </div><!-- /.container -->
+			
+			<div class="container">
+			 <br>
+		      <div class="row">
+	      		<div class="parceria-item">
 		            <h3 class="parceria-item-title">Exercício 2021</h3>
 		            <h6>Apresentação: </h6>
 		            <p style="text-align: justify;">É com alegria que compartilhamos o nosso relatório de atividades do ano de 2021. Nele estão contidas todas as nossas realizações neste período.
