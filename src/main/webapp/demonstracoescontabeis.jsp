@@ -54,6 +54,48 @@
 			 <br>
 		      <div class="row">
 	      		<div class="parceria-item">
+		            <h3 class="parceria-item-title">Exercício 2022</h3>
+		            <h6>Registro em cartório: 18 de dezembro de 2023</h6>
+		            <hr/>
+		            <p>Clique nas opções abaixo para ter acesso as demonstrações contábeis.</p>
+		          </div><!-- /.blog-post -->
+		          <div class="col align-items-center">
+			    	<a href="/doc/cai/contabil/2022/balanco_patrimonial.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Balanço Patrimonial</a>
+			    	<a href="/doc/cai/contabil/2022/demonstracao_resultado_periodo.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> DRE</a>
+			    	<a href="/doc/cai/contabil/2022/notas_explicativas.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Notas Explicativas</a>
+			    	<a href="/doc/cai/contabil/2022/parecer_conselho_fiscal.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Parecer do Conselho Fiscal</a>
+			    	<a href="/doc/cai/contabil/2022/certidao_ato_registrado.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Certidão de Ato Registrado</a>			    	
+			      </div>
+		  	</div><!-- /.row -->
+		  	<br>
+		  	<hr style="border: 2px dashed black;" />
+		   </div><!-- /.container -->
+			
+			<div class="container">
+			 <br>
+		      <div class="row">
+	      		<div class="parceria-item">
+		            <h3 class="parceria-item-title">Exercício 2021</h3>
+		            <h6>Registro em cartório: 03 de agosto de 2022</h6>
+		            <hr/>
+		            <p>Clique nas opções abaixo para ter acesso as demonstrações contábeis.</p>
+		          </div><!-- /.blog-post -->
+		          <div class="col align-items-center">
+			    	<a href="/doc/cai/contabil/2021/balanco_patrimonial.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Balanço Patrimonial</a>
+			    	<a href="/doc/cai/contabil/2021/demonstracao_resultado_periodo.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> DRE</a>
+			    	<a href="/doc/cai/contabil/2021/notas_explicativas.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Notas Explicativas</a>
+			    	<a href="/doc/cai/contabil/2021/parecer_conselho_fiscal.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Parecer do Conselho Fiscal</a>
+			    	<a href="/doc/cai/contabil/2021/certidao_ato_registrado.pdf" target="_blank" type="button" class="btn btn-outline-success" style="margin: 0;"><i class="bi bi-download"></i> Certidão de Ato Registrado</a>			    	
+			      </div>
+		  	</div><!-- /.row -->
+		  	<br>
+		  	<hr style="border: 2px dashed black;" />
+		   </div><!-- /.container -->
+			
+			<div class="container">
+			 <br>
+		      <div class="row">
+	      		<div class="parceria-item">
 		            <h3 class="parceria-item-title">Exercício 2020</h3>
 		            <h6>Registro em cartório: 11 de maio de 2021</h6>
 		            <hr/>

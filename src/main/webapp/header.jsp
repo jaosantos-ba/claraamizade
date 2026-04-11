@@ -161,12 +161,14 @@
 					            <li><a class="dropdown-item" href="/demonstracoescontabeis.jsp"><i class="bi bi-arrow-right-short">Demonstrações Contábeis</a></i></li>
 					          </ul>
 					        </li>
+					        <!-- 
 					        <li class="nav-item">
 					          <a class="nav-link active text-white fs-5" aria-current="page" href="/paginaconstrucao.jsp">
 						        <i class="bi bi-shop"></i>
 						        <strong>LOJA VIRTUAL</strong>
 					          </a>
 					        </li>
+					         -->
 					      </ul>
 					    </div>
 					  </div>
